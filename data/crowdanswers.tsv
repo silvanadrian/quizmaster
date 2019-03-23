@@ -1,0 +1,1711 @@
+id	question	answer	difficulty	opinion	factuality
+0	Who invented the light bulb?	Thomas Edison	Medium	2	0
+0	Who is the only woman to have ever received two Nobel prizes?	Marie Curie	Hard	2	0
+0	What's the most expensive material on Earth?	dont know	Hard	2	0
+0	What's the name of the final of the NFL (National Football League)?	Super bowl	Easy	2	0
+0	What's the second country with more Olympic medals won?	Germany	Hard	1	1
+0	How many modern Olympic Summer Games have there been?	28	Hard	1	0
+0	Who lives in a pineapple under the sea?	Spongebob Squarepants	Easy	3	0
+0	What's the name of the reindeer in Frozen?	Sven	Medium	3	0
+0	What is the top color in a rainbow? 	red	Hard	3	0
+0	For which song did Toy Story get nominated to the Oscar?	We belong together	Hard	3	0
+0	At what age did Jimmy Hendrix, Janis Joplin and Kurt Cobain die?	27	Easy	3	0
+0	How many nominations to the Oscar has John Williams received?	51	Hard	3	0
+0	What's the name of the most famous Italian plumber brothers?	Mario and Luigi	Easy	3	0
+0	Who is the protagonist of the video game series Halo?	Master Chief	Hard	1	0
+0	In what year was Space Invaders released?	1978	Hard	3	0
+0	What is Linux's creator's full name?	Linus Torvalds	Medium	3	0
+0	Which country in the world has maximum number of robots working?	Korea	Hard	1	0
+0	 A type glass that is highly resistant to heat?	Heat resistant glass	Hard	1	1
+0	Who won the superligaen in 2017/2018	FCK	Hard	1	0
+0	Who is number 1 in golf right now	Justin Rose	Hard	1	0
+0	Who scored the most goals in superligaen in fall 2018	Robert Skov	Hard	1	0
+0	Who invented the telephone?	Alexander Bell	Medium	3	0
+0	Tired people need what? 	Sleep	Easy	3	1
+0	Where did the Olympic Games originate?	Greece	Easy	3	0
+0	What was the Beatles biggest selling single?	She Loves you	Medium	3	0
+0	What was George Michael's first solo hit called?  	Careless Whisper	Medium	3	0
+0	In which decade was Dolly Parton born?	1940's	Hard	3	0
+0	Which game was the first to release on the Nintendo 64	Super Mario	Medium	3	0
+0	Which console has sold the most	Playstation 2	Medium	3	0
+0	What is the top rated game on metacritic	The Legend of Zelda: Ocarina of Time	Hard	2	0
+0	How many bits is a byte?	8	Easy	3	0
+0	In terms of computing, what does GPU stand for?	Graphics Processing Unit	Medium	3	0
+0	What year was the first x86 microprocessor introduced?	1980's	Hard	3	0
+0	What country hosted the Summer Olympic Games in 2016?	Brazil	Medium	3	0
+0	In darts, what is the highest score possible with three darts?	180	Hard	3	0
+0	What is the highest possible break in snooker?	147	Hard	3	0
+0	What is the center of a dartboard called?	bullseye	Easy	3	0
+0	Which famous Disney movie features a song called 'Hakuna Matata'?	Lion King	Easy	3	0
+0	What is the name of the toy cowboy in Toy Story?	Woody	Easy	3	0
+0	Freddie Mercury was the lead vocalist of which rock band?	Queen	Easy	3	0
+0	7 rings' is a song by which American singer?	Ariana Grande	Easy	3	0
+0	What was the debut album of Daft Punk called?	Indo Silver Club	Hard	3	0
+0	WoW is an acronym for which Blizzard game?	World of Warcraft	Easy	3	0
+0	Which year was Fallout 3 released?	2008	Hard	3	0
+0	KAG is an acronym for which indie game?	King Arthurs Gold	Hard	3	0
+1	Who founded Apple computers?	Steve Jobs, Steve Wozniak, and Ronald Wayne	Medium	1	0
+1	In machine learning you have two types of learning, what are they?	Supervised and unsupervised	Easy	1	0
+1	How many computer languages are in use?	Many	Hard	1	1
+1	Which sport does Christiano Ronaldo play?	Football	Easy	3	0
+1	Who won the world cup in soccer in 2018?	France	Medium	3	0
+1	How much will it cost advertisers to air a 30-second commercial during the 2019 Super Bowl? (In US dollars)	1 million	Hard	2	0
+1	What is Cartoon Network?	A TV channel	Easy	2	0
+1	What is the snowman in frozen called?	Brian	Hard	3	0
+1	Who is the human leader of Paw Patrol?	Ryder	Hard	2	0
+1	Who made the song "Dancing Queen"?	Abba	Easy	3	0
+1	Who made the album Channel Orange?	Frank Ocean	Medium	3	0
+1	When was the song 'Believe' by Cher released?	2011	Hard	2	0
+1	What is the name of Super Marios brother?	Mario and Luigi	Easy	3	0
+1	What is the genre of Fortnite?	Battle Royale	Easy	2	0
+1	What is the most played game for PS1?	Tekken	Hard	2	0
+1	Who invented the light bulb?	Edison	Hard	2	0
+1	Who is the only woman to have ever received two Nobel prizes?	Marie Curie	Hard	3	0
+1	What's the most expensive material on Earth?	Iridium	Hard	1	1
+1	What's the name of the final of the NFL (National Football League)?	Super bowl	Easy	2	0
+1	What's the second country with more Olympic medals won?	Russia	Hard	2	0
+1	How many modern Olympic Summer Games have there been?	24	Hard	2	0
+1	Who lives in a pineapple under the sea?	Spongebob	Easy	2	0
+1	What's the name of the reindeer in Frozen?	Bambi	Hard	2	0
+1	What is the top color in a rainbow? 	Red	Medium	2	0
+1	For which song did Toy Story get nominated to the Oscar?	Toy song	Hard	2	0
+1	At what age did Jimmy Hendrix, Janis Joplin and Kurt Cobain die?	25	Hard	2	0
+1	How many nominations to the Oscar has John Williams received?	3	Hard	2	0
+1	What's the name of the most famous Italian plumber brothers?	Mario bros	Medium	2	0
+1	Who is the protagonist of the video game series Halo?	Master Chief	Easy	2	0
+1	In what year was Space Invaders released?	1976	Hard	2	0
+1	What is Linux's creator's full name?	Linus Thorvalds	Easy	2	0
+1	Which country in the world has maximum number of robots working?	Japan	Medium	2	0
+1	 A type glass that is highly resistant to heat?	Tempered glass	Medium	2	1
+1	Who won the superligaen in 2017/2018	FCK	Medium	2	0
+1	Who is number 1 in golf right now	Tiger Woods	Hard	2	0
+1	Who scored the most goals in superligaen in fall 2018	Ronaldo	Hard	2	0
+1	Who invented the telephone?	Bell	Hard	2	0
+1	Tired people need what? 	Sleep	Easy	1	0
+1	Where did the Olympic Games originate?	Greece	Medium	2	0
+1	What was the Beatles biggest selling single?	She loves you	Hard	2	0
+1	What was George Michael's first solo hit called?  	Hm	Hard	1	0
+1	In which decade was Dolly Parton born?	1950's	Hard	2	0
+1	Which game was the first to release on the Nintendo 64	Tetris	Hard	2	0
+1	Which console has sold the most	PS3	Hard	2	0
+1	What is the top rated game on metacritic	RDR2	Hard	2	0
+2	Which food contain more vitamin C; A lemon or a pepper?	lemon	Medium	1	0
+2	What is the largest human organ?	skin	Medium	3	0
+2	How many dwarf planets are in the solar system? 1, 5 or 10?	1	Hard	2	0
+2	In which country were the first Olympic Games held?	Greece	Medium	3	0
+2	Which is the only country to have played in each and every World Cup?	Spain	Hard	2	0
+2	Which popular fitness method was invented by a German?		Hard	2	0
+2	What is the name of the cartoon where there are 3 sisters called; Blossom, Bubbles and Buttercup?	The PowerPuff Girls	Hard	3	0
+2	Who is the worldâs largest land animal?	Elephant	Medium	3	0
+2	How many colours are in a rainbow?	7	Easy	2	0
+2	Where is the group abba from?		Medium	2	0
+2	Which one direction member left the group in 2015; Liam, Zayn or Harry?	Zayn	Hard	2	0
+2	What singer holds the world record for most words in a hit single; Eminem, 50 Cent or Busta Rhymes?	Eminem	Medium	2	0
+2	What year did Wii come out?	2009	Medium	2	0
+2	What is the highest selling video game console of all time?	PS4	Medium	2	0
+2	What is the first female fighting game character called?		Hard	3	0
+2	How many weeks are in a year?	53	Medium	2	0
+2	What is the smallest prime number?	2	Medium	3	0
+2	What is the heaviest organ in the human body	brain	Medium	3	0
+2	How many members are in a football team?	11	Easy	1	1
+2	Where is the birthplace of golf?		Hard	1	0
+2	Which football player keeps the highest goal scoring record?		Hard	1	0
+2	Who wrote the little match girl?		Medium	2	0
+2	What is the name of Cinderella's prince?		Medium	2	0
+2	Is yellow one of the standard additive primary colors of light?	yes	Easy	2	0
+2	What is the birth country of FrÃ©dÃ©ric Chopin?		Medium	2	0
+2	What is the Best-Selling Albums in History?		Easy	2	0
+2	Which song did India Arie sing during the 60th Annual Grammy Awards?		Hard	2	0
+2	When was Fortnite released?		Hard	2	0
+2	What is the publisher of game League of Legends?		Hard	2	0
+2	When was the first Star Wars video game created?		Hard	2	0
+2	What number on the pH-scale indicates a neutral value?	7	Medium	3	0
+2	What is the smallest planet in our solar system?	Merkur	Medium	3	0
+2	How many teeth do a white shark have? (approx.)	30	Medium	2	0
+2	What colour is the ball in tennis?	yellow	Easy	2	0
+2	What is the name of the computer program that plays Go?		Medium	3	0
+2	How many children do Cristiano Ronaldo has?	3	Medium	2	0
+2	What is the name of Harry Potter's best friend?	Ron	Medium	3	1
+2	How many minutes are there in one hour?	60	Easy	2	0
+2	What is the name of Santa Clause's 8 reindeers?		Medium	2	0
+2	What is the name of the band behind "Barbie Girl"?		Medium	2	0
+2	Which famous duo made a song for the movie "The Graduate"?		Medium	2	0
+2	In what year did Louis Armstrong die?		Medium	2	0
+2	What does L.O.L. stand for?		Medium	1	0
+2	What colour is Toad's west? (Mario)	blue	Medium	2	0
+2	In which game can a player declare "OHH CHIBLETS!!"		Hard	2	0
+3	Who was the first female computer scientist?	Marie-Antoinette (I dont know)	Medium	1	1
+3	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	3	0
+3	What is the formula for Newton's Second Law?	nil	Medium	3	0
+3	Who is the most famous football player from MalmÃ¶?	Zlatan	Medium	3	0
+3	How many holes are there in a round of a golf game?	12	Hard	3	0
+3	In what countries was the Rugby World Cup first held? 	India	Hard	3	0
+3	What equals 10+10?	20	Easy	3	0
+3	What is the name of Dora the explorers monkey friend?	Money-buddy	Hard	3	0
+3	What is the chemical formula for water?	H2O	Easy	3	0
+3	What is the famous song called from the movie Titanic? 	My heart will go on	Easy	3	0
+3	What was the name of the band that Michael Jackson was a part of with his siblings?	Jackson 5	Easy	3	0
+3	Who composed the classical music for the Swan Lake?	Bach	Hard	3	0
+3	What is the famous football video game called?	Fifa	Easy	3	0
+3	What game is Lara Croft associated with?	Tomb Raider	Medium	3	0
+3	What do you need to write to get a lot of money for free in Sims?	"Give me money"	Medium	3	0
+3	How many weeks are in a year?	52	Easy	3	0
+3	What is the smallest prime number?	1	Easy	2	0
+3	What is the heaviest organ in the human body	Brain	Hard	3	0
+3	How many members are in a football team?	12	Hard	3	0
+3	Where is the birthplace of golf?	Flinttown (town in "Flintstones")	Easy	3	0
+3	Which football player keeps the highest goal scoring record?	Messi	Hard	1	0
+3	Who wrote the little match girl?	You did	Easy	3	0
+3	What is the name of Cinderella's prince?	Mr. Charming!	Easy	3	0
+3	Is yellow one of the standard additive primary colors of light?	Yes	Medium	3	0
+3	What is the birth country of FrÃ©dÃ©ric Chopin?	France	Hard	2	0
+3	What is the Best-Selling Albums in History?	Revolver 	Hard	1	0
+3	Which song did India Arie sing during the 60th Annual Grammy Awards?	If I was a rich girl	Hard	3	0
+3	When was Fortnite released?	07.07.2018	Hard	1	0
+3	What is the publisher of game League of Legends?	Lord of Games	Hard	3	0
+3	When was the first Star Wars video game created?	1977	Hard	3	0
+3	What is the powerhouse of the cell	dunno	Hard	1	0
+3	What do you call the thing on the end of shoelaces	"Dippeduts"	Hard	3	0
+3	Who won the Turing award in 2005	A very smart person	Hard	3	0
+3	Who won the World Men's Handball	DENMARK	Medium	1	0
+3	Where was the last stage in tour de France 1990?	"Stage of Despair"	Hard	3	0
+3	What is Usain Bolts last run time in an official competition? 	The fastest!	Hard	3	0
+3	Who is the latest official Disney princess?	The oldest is Snow White	Medium	3	0
+3	What is the theme song for Hannah Montana?	Hannah Montana	Hard	3	0
+3	What is the name of the 7 dwarfs in Disneys' Snow White?	Gnavpot, Dumpe, Lystig, Flovmand, Brille, ... 	Hard	3	0
+3	What kind of instrument is a violin?	"stryger"	Medium	3	0
+3	What is the continuation of the song by Carly Rae Jepsen?; Hey, I just met you and this is crazy But here's my number, __ ____ __ _____	call me maybe!	Easy	3	0
+3	Who composed most of the soundtracks for Studio Ghibli?	A very cool japanese guy	Hard	3	0
+3	What is the name of Mario's brother?	Luigi	Easy	3	0
+3	How many Pokemons are there by 2018?	999	Hard	3	0
+3	What is the name of the protagonist that is trying to find his friends Kairi and Riku	Kaiku?	Hard	3	0
+4	What does water turn in to below 0 degrees celsius?	Ice	Easy	3	0
+4	What is the device called for locating objects under the sea?	I don't know	Hard	1	0
+4	What is the method called when you grow plants without using soil?	I don't know	Medium	2	0
+4	What is the sport called, where two players compete on an orange court, shooting a yellow ball between them?	I don't know	Hard	1	1
+4	How many players has a hockey team got on the ice? 	6	Medium	3	0
+4	What was the Olympic city of 1992?	Barcelona	Easy	3	0
+4	What do hungry people need?	Food	Easy	3	0
+4	What is the capital of Hawaii?	Honololou	Easy	3	0
+4	The Statue of Liberty was gifted to the United States by which country? 	France	Easy	3	0
+4	Who rose to fame in 2008 with the release of the single I Kissed a Girl?	Katy Perry	Easy	3	0
+4	In which European city was Swedish pop group ABBA formed in 1972?	Stockholm	Medium	3	0
+4	What is the better known stage name of Robyn Fenty?	I don't know	Hard	1	0
+4	What is the game called that is sometimes abbreviated by CS?	Counter Strike	Easy	1	0
+4	In which game is every assassinated person a real historical person with accurate death date and place? 	I don't know	Hard	2	0
+4	Which year was Fallout 3 released?	I don't know	Hard	1	0
+4	What is the absolute value of -4? - "4"? "16"? "-4"? "0"?'	4	Easy	3	0
+4	What is the term for a matrix with pairwise orthonormal vectors"? - "Orthogonal matrix"? "Orthonormal matrix"? "Gram matrix"? "Perpendicular matrix"?'	Gram	Hard	3	0
+4	In the programming language F#, a computation expression is..? - "An expression used in list comprehensions"? "A monad"? "A parallelizable expression"? "Computations with the 'unit' type"?'	Monad	Easy	3	0
+4	Micheal Jordan is inducted into the Hall of Fame in which sport? - "Basketball"? "Cycling"? "Cricket"? "Curling"?'	Basketball	Easy	3	0
+4	Which of the following female athletes won the gold medal for Denmark in swimming at the 2016 Rio de Janerio Olympic Games? - "Jeanette Ottesen"? "Pernille Blume"? "Sarah Bro"? "Julie Kepp Jensen"? '	Pernille Blume	Easy	3	0
+4	In which of the following four years did Denmark win the most gold medals at the olympic game? - "1996, Atlanta"? "2000, Sydney"? "2004, Athens"? "2008, Beijing"?'	Atlanta	Easy	3	0
+4	What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - "Red and Yellow"? "Green and White"? "Black and Blue"? "Blue and Purple"?' 	Red and Yellow	Easy	3	0
+4	SpongeBob SquarePants has a best friend, what is his name? - "Mr. Krabs"? "Patrick Star"? "Squidward tentacles"? "David Hasselhoff"?'	Patrick Star	Medium	3	0
+4	Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - "Rubble"? "Sky"? "Marshall"? "Tracker"?'	I don't know	Hard	1	0
+4	This guy had a hit song called Papirsklip - "Bent Mejding"? "Kim Larsen"? "Johnny Madsen"? "Jarl Friis Mikkelsen"?'	Kim Larsen	Easy	3	0
+4	Which artist made the song Ring of Fire? - "Johnny Cash"? "Willie Nelson"? "George Jones"? "Hank Williams"?' 	Johnny Cash	Easy	3	0
+4	Who made the song "Get low" featured on the soundtrack of the videogame "Need for Speed: Underground"? - "Ludacris"? "Lil Wayne"? "Lil John"? "Nate Dogg"?' 	Nate Dogg	Medium	3	0
+4	What gaming company created the character Mario? - "Nintendo"? "Sony"? "Microsoft"? "Sega"?'	Nintendo	Easy	3	0
+4	What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - "Oblivion"? "Arena"? "Morrowind"? "Skyrim"?'	I don't know	Hard	3	0
+4	The secret organization "La-li-lu-le-lo" is mentioned in what game series? - "Mass Effect"? "Metal Gear Solid"? "World of Warcraft"? "Grand Theft Auto"?'	I don't know	Hard	2	0
+4	Which country in the world has maximum number of robots working?	Japan	Medium	3	0
+4	A device used to measure the strength of magnetic field.	I don't know	Hard	1	0
+4	In which year did IT Act came into force in India?	I don't know	Hard	1	0
+4	What was the Olympic city of 1992 ?	Barcelona	Easy	3	0
+4	How long is an Olympic swimming pool?	I don't know	Hard	2	0
+4	In which country is the Interlagos F1-circuit ?	I don't know	Medium	2	0
+4	Which character was Walt Disneyâs favorite?	I don't know	Hard	3	0
+4	Who is the quietest Disney princess?	I don't know	Hard	1	1
+4	Popeye has how many nephews?	I don't know	Hard	1	0
+4	Miley Cyrus is the daughter of country singer Billy Ray Cyrus?	True	Easy	3	0
+4	What is the better known stage name of Robyn Fenty?	I don't know	Hard	1	0
+4	Who composed the classical piece Peter and the Wolf?	Brothers Grimm	Medium	2	0
+4	which year the Minecrafts was released?	I don't know	Hard	1	0
+4	The character Master Hands is in which game?	I don't know	Hard	1	0
+4	What does PvE mean in Destiny 2 gaming activities?	I don't know	Medium	2	0
+5	When a very heavy star dies, it becomes what?	A dead star	Hard	1	1
+5	Modern trains were revolutionized in 1964, by a Japanese high-speed electric multiple unit train. What was this train called?	ICE	Hard	2	0
+5	An ordinary bit can have two states. How many can a quantum bit, or qubit, have?	3	Hard	3	0
+5	Football is played primarily using which body part?	Feet	Easy	2	0
+5	What footwear is customarily worn when participating in dressage at the Olympics?	Boots	Easy	2	0
+5	What is the the type of sword primarily used for kendo called?	Sword	Hard	1	0
+5	What is the colour of an orangutan?	multiple colors, black, orange/red	Hard	1	1
+5	What animal is the biggest in the world today?	The blue whale	Easy	3	0
+5	What fruit is yellow, sour, and sometimes added to tea along with milk and sugar?	Lemon	Easy	3	0
+5	What instrument is primarily identified with rock and roll?	Drums	Medium	2	1
+5	Who wrote the song famous for the lyrics: "Never gonna give you up, never gonna let you down."	Rick Astley	Easy	1	0
+5	Which country has the shortest national anthem?	Estonia	Hard	3	0
+5	In 1995, this company released its first console, which went on to dominate the industry.	Sony (94 in japan)	Medium	1	1
+5	The PlayStation 3 used blu-ray discs(BD) for games. The Xbox 360 used what disc format?	DVD	Medium	2	0
+5	This director famously walked down a bridge of light to reveal his new game at E3 2016, after being fired and opening a new studio. What is the name of the director?	Hideo Kojima	Medium	3	0
+5	When a person has irregular heart beats, what is installed in the body to normalize it?	A Pacemaker	Medium	3	0
+5	What was the name of the NASA Space mission, that brought man to the moon?	Apollo 13	Medium	3	0
+5	What does EP, the big round disc with gets played on the turntable, stand for?	electronic playable	Hard	3	0
+5	Which consists of running on a grass field?	what? soccer	Hard	1	1
+5	What sport is exercised in a pool with lanelines splitting up the pool in 6-8 lanes?	Swimming	Easy	1	0
+5	When a dog is presented in front of judges, which it must perfectly execute a predefined set of tasks when directed to do so by his handler. What is the sport called?	Agility	Medium	2	0
+5	What tool can be used to shovel sand in a sandbox?	a shovel	Easy	1	1
+5	What is the name of the cartoon character who is female and explores the world?	Dora the explorer	Easy	1	0
+5	What card game has four colour groups and a word is yelled when one card is left in ones hand?	UNO	Easy	3	0
+5	Which black person used a lot of money to turn the colour of his skin white?	Michael Jackson	Easy	2	0
+5	Which pop star shaved her head in a life crisis?	Britney Spears	Easy	3	0
+5	What rock band was first called Smile?	The doors	Hard	3	0
+5	What is the name of the game - where you have to align three of the same type brick in a straight line on a 9x9 board?	Dam	Medium	2	0
+5	What game is associated with the floss-dance?	Fortnite	Easy	3	0
+5	What game has continuesly been postponed and delay because the amount of funding keeps growing?	No clue, but there is properly a lot of games that fit	Hard	2	1
+5	What is the name of a disease passed on by mosquitoes?	Malaria	Medium	2	0
+5	The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?	Isaac Newton	Medium	3	0
+5	If you are exposed to freezing temperatures for too long and develop frostbite, you run the risk of having to have frozen parts amputated due to which necrotic condition?	Brain freeze	Hard	3	0
+5	 'El ClÃ¡sico' is a game between which club giants?	Real Madrid and Barcelona FC	Easy	3	0
+5	Which is the only country to have played in each and every World Cup?	France	Easy	3	0
+5	What sport used the term 'home run' long before baseball?	Cricket	Medium	2	0
+5	What type of fish is Nemo?	Sunfish	Medium	3	0
+5	How many rings make up the symbol of the Olympic Games?	5	Easy	3	0
+5	Who wrote the play 'Hamlet'?	William Shakespeare	Easy	3	0
+5	What is the first name of the composer Vivaldi ?	Bach	Hard	2	0
+5	How many strings does a violin have?	5	Medium	3	0
+5	What singer for a 70's British rock quartet changed his name from Frederick Bulsara?	French Montana	Hard	3	0
+5	What color is Mario's M?	White	Medium	3	0
+5	What is another name of Counter Strike?	CS	Medium	2	1
+5	In which game, every assassinated person is a real one with accurate death date and place?	Dunno	Hard	3	0
+6	What scientific theory is Charles Darwin best known for?	Theory of evolution	Easy	3	0
+6	Who was the first person to win two Nobel prizes, one in physics and one in chemistry?	Marie Curie	Medium	3	0
+6	What are the four fundamental forces in physics?	Weak nuclear force, strong nuclear force, gravity and electromagnetism	Medium	3	0
+6	What sport did Michael Jordan play?	Basketball	Easy	3	0
+6	What is the name of Manchester United home stadium?	Old Trafford	Medium	3	0
+6	What country won the 2012 summer Olympics women's football?	United States	Hard	3	0
+6	What is the name of the purple Teletubby?	Tinky-Winky	Easy	3	0
+6	What's the name of the evil wizard from the Smurfs?	Gargamel	Medium	3	0
+6	What color is Barbapapa?	Multiple colors	Easy	2	1
+6	What world famous heavy metal band was co-founded by its danish drummer, Lars Ulrich?	Metallica	Medium	3	0
+6	What is the British national anthem called?	God Save the Queen	Medium	3	0
+6	What album did the artist known as Meat Loaf release in 1977?	Bat Out of Hell	Hard	3	0
+6	What video game character repeatedly saves Princess Peach from his arch enemy Bowser?	Mario	Easy	3	0
+6	What polish game developer/publisher is best known for the Witcher series?	CD Projekt Red	Hard	3	0
+6	What year was Pong, one of the worlds first ever computer game, released?	1972	Hard	3	0
+6	What is the atomic number of Hydrogen	1	Easy	3	0
+6	Who is the original creator of GIT	Linus Torvalds	Medium	3	0
+6	Who is the original creator of the Command line tool GREP	Ken Thompson	Hard	3	0
+6	How many European Championships in Football does Denmark have	1	Hard	1	0
+6	What was Derrick Rose's initial injury that derailed his career	Torn ACL	Medium	3	0
+6	Who has scored the most points in the history of the NBA 	Kareem Abdul-Jabbar	Medium	3	0
+6	Who is the president of the United States	Donald J. Trump	Easy	3	0
+6	Which president freed the slaves in the United States	Abraham Lincoln	Easy	3	0
+6	Who was the first president of the United States	George Washington	Easy	3	0
+6	Which artist released the hit song "Tik Tok"	Kesha	Easy	3	0
+6	Which artist made the song "You belong with me"	Taylor Swift	Medium	3	0
+6	Which year did Taylor Swift release the album "Fearless"	2008	Medium	3	0
+6	What is the most popular soccer/football video game called	FIFA	Easy	1	0
+6	What was the 7th call of duty called	Call of Duty: World at War	Hard	3	0
+6	Which year was black ops 1 released	2010	Medium	2	0
+6	Which is the chemical formula for water?	H2O	Easy	3	0
+6	How is it called the rigid, outermost shell of a terrestrial type planet?	Crust	Medium	3	0
+6	What is the full form of RISC?	Reduced Instruction Set Computer	Hard	1	0
+6	Which national football team won the last man world cup?	Uruguay	Hard	3	0
+6	Who is the most decorated Olympian of all time?	Michael Phelps	Medium	3	0
+6	Which is the men's world record on the 100 m race  (in seconds)?	9.58 seconds	Medium	2	0
+6	Who is the author of the Harry Potter series?	J. K. Rowling	Easy	3	0
+6	Which is the name of the animal nominated as the official mascot of the Walt Disney Company?	Mickey Mouse	Easy	3	0
+6	How is it called the Donald Duck's alter ego?	Paperinik	Medium	2	0
+6	From which country did The Beatles come from?	England	Easy	2	0
+6	Who is the writer of the song "Like a Rolling Stone"?	Bob Dylan	Medium	3	0
+6	Which is the name of the album written by Roger Waters and published in 2017?	Is This the Life We Really Want?	Hard	3	0
+6	Which is the name of the company known to be the creator of the game PokÃ¨mon?	Game Freak	Medium	2	0
+6	Which is the best-selling video game of all time?	Tetris	Easy	2	0
+6	When was the first Call Of Duty relased?	October 29, 2003	Hard	2	0
+7	What is the equation for calqulating the area of a circle?	radius * pi * 2	Medium	3	0
+7	What is the nationality of the inventer of c++?	American	Hard	2	0
+7	What does dhcp stand for	 Dynamic Host Configuration Protocol	Hard	3	0
+7	What nation won the World Championship in mens handball 2019?	Denmark	Easy	3	0
+7	What is the name of the best standard FIDE ranked chess player in the world, as of 2019?	Magnus Carlsen	Hard	3	0
+7	What is the name of the professional ultimate frisbee league in the USA?	Ultimate frisbee championship	Hard	2	0
+7	Who is Bamses best friend?	Gary	Hard	1	0
+7	Who is the author of the Harry Potter books?	J.K. Rowling	Easy	3	0
+7	How many colors are in a rainbow?	Seven	Medium	3	0
+7	What is Biggie Smalls alias?	The Notorious B.I.G	Hard	2	0
+7	Who is the lead singer of Kashmir?	Kevin Flagan	Hard	1	0
+7	When was the song Year 3000 published?	1999	Hard	1	0
+7	What is the name of Marios brother?	Warrio	Easy	1	0
+7	Link is the main character of what game?	Zelda	Hard	2	0
+7	What is the highest rating one can achieve in CSGO?	5	Hard	3	0
+7	What planetary object is the sun?	A sun	Medium	3	0
+7	How many bits are in a byte?	8	Medium	1	1
+7	What is a white dwarf mostly composed of?	Atoms	Hard	3	0
+7	What is table-tennis also called?	Ping Pong	Easy	3	0
+7	How many points does a Touchdown score?	6	Medium	3	0
+7	Who holds the current record of the longest field goal in the NFL?	Danny O'Conor	Hard	3	0
+7	How many legs does a cat have?	4	Easy	3	0
+7	What is the capital of Denmark?	Copenhagen	Easy	3	0
+7	Solve 2 * x + 1 = 5	x = 2	Easy	3	0
+7	Which band wrote the song "Bohemian Rhapsody"?	Queen	Easy	3	0
+7	What is the band containing the famous robotic duo called?	Daft Punk	Medium	2	0
+7	What is the title of the first song on the album "Keeper of the Seven Keys: The Legacy" by Helloween?	Finnegan's Wake	Hard	1	0
+7	What is the name of the iconic plumber from Nintendo?	Mario	Easy	3	0
+7	In the game "Slay the Spire", how much block does an upgraded "Metallicize" give?	8	Hard	2	0
+7	In the "Alexx Kid in Miracle World" for the Sega Master System, what popular game does the bosses challenge you with?	Chess	Hard	3	0
+7	What is the chemical formula of benzene?	h6c11	Hard	3	0
+7	In a step up transformer which coil is made of the thinner wire since the current in it will be less?	thick	Hard	1	0
+7	In 2007, Voyager 2 crossed the heliosheath boundary and into the vast region at the edge of our solar system where the solar wind runs up against the thin gas between the stars. What did this crossing confirm about the shape of our solar system?	It's elliptical shape	Hard	3	0
+7	How many grand slams has Roger Federer won	7	Medium	3	0
+7	When were the first widely accepted laws of cricket brought out?	1769	Hard	3	0
+7	A winner in Boxing (Light Flyweight) at the 2012 Summer Olympics? He won a gold medal in the 2008 Summer Olympics as well.	Seamus O'Reiley	Hard	1	0
+7	What position does Harry play on the Quidditch team?	Seeker	Easy	3	0
+7	What is the name of Harry Potterâs pet owl?	Hedwig	Easy	3	0
+7	Where did the game of badminton originate?	United Kingdom	Medium	3	0
+7	Who is the lead guitarist of Queen?	Brian May	Medium	3	0
+7	Which album of Linkin Park has the song "Numb"?	Linkin Park	Hard	2	0
+7	Can you finish the lyric of the song by Backstreet Boys? "Found my inspiration hiding in_____"	myself	Hard	2	0
+7	What is the name of God of War protagonist?	Thor	Hard	2	0
+7	In which year did the video game crash happen?	2007	Hard	2	0
+7	In which game players are free to perform within the entirety of a procedurally generated deterministic open world universe, which includes over 18 quintillion planets?	Fortnite	Hard	3	0
+8	Who was the first female computer scientist?	Valentina	Medium	3	0
+8	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	3	0
+8	What is the formula for Newton's Second Law?	force = mass * acceleration	Easy	3	0
+8	Who is the most famous football player from MalmÃ¶?	Zlatan	Easy	3	0
+8	How many holes are there in a round of a golf game?	18	Medium	3	0
+8	In what countries was the Rugby World Cup first held? 	England	Hard	2	0
+8	What equals 10+10?	20	Easy	3	0
+8	What is the name of Dora the explorers monkey friend?	No clue	Hard	1	0
+8	What is the chemical formula for water?	H2O	Easy	3	0
+8	What is the famous song called from the movie Titanic? 	My heart will go on	Medium	2	0
+8	What was the name of the band that Michael Jackson was a part of with his siblings?	Jackson 5	Medium	3	0
+8	Who composed the classical music for the Swan Lake?	No clue	Hard	3	0
+8	What is the famous football video game called?	Fifa	Medium	1	0
+8	What game is Lara Croft associated with?	Tomb Raider	Easy	3	0
+8	What do you need to write to get a lot of money for free in Sims?	motherlode	Easy	3	0
+8	What does the acronym HDD stand for?	Hard Disk Drive	Easy	3	0
+8	What is the largest animal that ever lived on Earth?	T-rex	Hard	2	0
+8	In what year did IBM introduce its first personal computer?	1939	Hard	2	0
+8	Name the sport where two teams compete to throw an orange ball into hoops	Basket Ball	Easy	2	0
+8	What country won the FIFA World Cup in 2014	Denmark	Hard	3	0
+8	In what year was the first FIFA World Cup held?	No clue	Hard	2	0
+8	In what popular show are various creatures captured in red and white balls?	Pokemon	Easy	3	0
+8	What colour are Smurfs?	Blue	Easy	3	0
+8	Who created Pinocchio in the Disney film of the same name?	Walt Disney	Hard	2	0
+8	What instrument does a pianist play?	Piano	Easy	2	0
+8	Which British singer wrote the song 'Shape of You'?	Ed Sheeran	Medium	2	0
+8	Which album was awarded a Grammy for best album at the first annual Grammy awards in 1958?	No Clue	Hard	1	0
+8	What is the name of the blue hedgehog who likes to run fast?	Sonic	Easy	3	0
+8	In what game did we first encounter Mario (then Jumpman)?	Super Mario	Hard	3	0
+8	What release of Microsoft Windows was the first to include the game 'Microsoft Solitaire'?	Windows 95	Hard	3	0
+8	What does CPU stand for?	Central Processing Unit	Easy	3	0
+8	Have humans ever been to Mars.	No	Easy	3	0
+8	How many laws of thermodynamics are there?	3	Hard	3	0
+8	Who won the World Cup in 2018?	Which world cup?	Hard	1	0
+8	What national team does Cristiano Ronaldo play for?	Portugal	Easy	3	0
+8	What club does Robert Lewandowski play for?	No clue	Hard	3	0
+8	What is 0 x 8?	0	Easy	3	0
+8	What is the lastname of the author of Harry Potter?	Rowling	Easy	3	0
+8	What year did World War Two end?	1945	Easy	1	0
+8	What instrument did Jimi Hendrix play?	Guitar	Easy	3	0
+8	Who is the lead singer of Metallica?	James Hetfield	Easy	3	0
+8	What band did John Frusciante play in?	No clue	Hard	3	0
+8	What is the most popular game console?	Playstation 4	Hard	3	0
+8	What is the name of the most recent Call of Duty entry?	Call of Duty: Black ops 3	Medium	3	0
+8	How many swords does Geralt (the witcher) carry?	1000	Hard	3	0
+9	Who was the first female computer scientist?	Ada Lovelace	Easy	3	0
+9	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	2	0
+9	What is the formula for Newton's Second Law?	idk	Hard	2	0
+9	Who is the most famous football player from MalmÃ¶?	Ibrahimovic Z.	Medium	2	1
+9	How many holes are there in a round of a golf game?	18	Medium	2	0
+9	In what countries was the Rugby World Cup first held? 	england?	Medium	2	0
+9	What equals 10+10?	20	Easy	2	0
+9	What is the name of Dora the explorers monkey friend?	monkey	Medium	2	0
+9	What is the chemical formula for water?	H2O	Easy	2	0
+9	What is the famous song called from the movie Titanic? 	My heart will go on by Celine dion	Easy	2	0
+9	What was the name of the band that Michael Jackson was a part of with his siblings?	Jackson 5	Easy	2	0
+9	Who composed the classical music for the Swan Lake?	Tchaikovsky	Easy	2	0
+9	What is the famous football video game called?	Fifa	Easy	2	0
+9	What game is Lara Croft associated with?	Tomb raider	Easy	2	0
+9	What do you need to write to get a lot of money for free in Sims?	Motherload	Easy	2	1
+9	How many weeks are in a year?	52	Easy	2	0
+9	What is the smallest prime number?	1	Medium	2	0
+9	What is the heaviest organ in the human body	Skin	Medium	2	0
+9	How many members are in a football team?	Depends on the team	Easy	2	1
+9	Where is the birthplace of golf?	Scotland	Medium	2	0
+9	Which football player keeps the highest goal scoring record?	football as in soccer? Then Messi? else idk	Medium	2	1
+9	Who wrote the little match girl?	H.C Andersen	Easy	2	0
+9	What is the name of Cinderella's prince?	Prince Charming	Easy	2	0
+9	Is yellow one of the standard additive primary colors of light?	probs	Medium	2	0
+9	What is the birth country of FrÃ©dÃ©ric Chopin?	Austria 	Medium	2	0
+9	What is the Best-Selling Albums in History?	Something classical?	Medium	2	0
+9	Which song did India Arie sing during the 60th Annual Grammy Awards?	idk	Hard	2	0
+9	When was Fortnite released?	2017?	Hard	2	0
+9	What is the publisher of game League of Legends?	inconclusive	Hard	2	1
+9	When was the first Star Wars video game created?	no idea	Hard	2	0
+9	What number on the pH-scale indicates a neutral value?	can't remember	Medium	2	0
+9	What is the smallest planet in our solar system?	can't remember	Medium	2	0
+9	How many teeth do a white shark have? (approx.)	Too many	Medium	2	1
+9	What colour is the ball in tennis?	usually neon green-yellowish 	Easy	2	1
+9	What is the name of the computer program that plays Go?	AlphaGo	Medium	2	1
+9	How many children do Cristiano Ronaldo has?	min. 1	Medium	2	0
+9	What is the name of Harry Potter's best friend?	That's is hard to say, Hermione or Ron 	Hard	2	1
+9	How many minutes are there in one hour?	60	Easy	2	0
+9	What is the name of Santa Clause's 8 reindeers?	Dasher, jumper, dancer, Rudolph	Hard	2	0
+9	What is the name of the band behind "Barbie Girl"?	Aqua	Easy	2	0
+9	Which famous duo made a song for the movie "The Graduate"?	idk	Hard	2	0
+9	In what year did Louis Armstrong die?	idk	Hard	2	0
+9	What does L.O.L. stand for?	Laughing  out loud, League of legends ect.	Hard	2	1
+9	What colour is Toad's west? (Mario)	blue 	Medium	2	0
+9	In which game can a player declare "OHH CHIBLETS!!"	idk	Hard	2	0
+10	"How many moons does the planet Earth has? - ""None""? ""One""? ""Two""? ""More than two""?"	One	Easy	3	0
+10	"What is the 3rd element in the periodic table? - ""Hydrogen""? ""Lithium""? ""Oxygen""? ""Hellium""?"	Lithium	Medium	2	0
+10	"As of 2018, how many moons does Saturn has? - ""16""? ""33""? ""62"? ""82""?"	Don't know	Hard	2	0
+10	"James Lebron is known for which sport? - ""Baseball""? ""American Football""? ""Cricket""? ""Basketball""?"	Basketball	Easy	3	0
+10	"Who won the world championship in handball 2019? - ""France""? ""Denmark""? ""Germany""? ""Norway""?"	Denmark	Easy	3	0
+10	"To which big club did famous Mikkel Hansen switch to in 2012? - ""PSG""? ""Barcelona""? ""Kiel""? ""Skjern""?"	Don't know	Hard	1	0
+10	"What colour clothing does Donald Duck's nephews wear? - ""Red, Green, Blue""? ""Red, Yellow, Blue""? ""Red, Green, Yellow""? ""Green, Yellow, Blue""?"	Don't know	Hard	3	0
+10	"Who is older, Mickey Mouse or Donald Duck? - ""Mickey Mouse""? ""Donald Duck""?"	Mickey Mouse	Hard	3	0
+10	"Which of these is the oldest fully-animated Disney Film? - ""Dumbo""? ""Fantasia""? ""Pinocchio""? ""Snow White""?"	Don't know	Hard	2	0
+10	"Who was the composer of Symphoni No. 5? - ""Mozart""? ""Payne""? ""Beethoven""?"	Beethoven	Hard	3	0
+10	"In which timeperiod was 'Happy Birthday to You' composed? - ""1800s""? ""1900s""? ""2000s""?"	Don't know	Hard	1	0
+10	"According to the ABRSM top list, what is the most popular instrument to learn by 2014? - ""Guitar""? ""Piano""? ""Keyboard""?"	Don't know	Hard	1	0
+10	"According to esportsearnings.com 2019 what is the top prize money awarding game of all time? - ""League of Legends""? ""World of Warcraft""? ""Dota 2""?"	Dota 2	Medium	2	0
+10	"What is the nationality of the popular game figure Mario? - ""American""? ""Chinese""? ""Italian""?"	Italian	Easy	3	0
+10	"According to xygaming.com what country is the highest earning contry by esports prize money? - ""South Korea""? ""China""? ""Denmark""?"	China	Hard	2	0
+10	What does CPU stand for?	Central processing unit	Medium	3	0
+10	Have humans ever been to Mars.	No	Easy	3	0
+10	How many laws of thermodynamics are there?	4	Hard	3	0
+10	Who won the World Cup in 2018?	Which World Cup? 	Hard	1	1
+10	What national team does Cristiano Ronaldo play for?	Portugal	Medium	2	0
+10	What club does Robert Lewandowski play for?	Bayern Munich	Hard	2	0
+10	What is 0 x 8?	0	Easy	3	0
+10	What is the lastname of the author of Harry Potter?	Rowling	Easy	3	0
+10	What year did World War Two end?	1945	Medium	3	0
+10	What instrument did Jimi Hendrix play?	Guitar	Medium	3	0
+10	Who is the lead singer of Metallica?	James Hetfield	Medium	3	0
+10	What band did John Frusciante play in?	Don't know	Hard	3	0
+10	What is the most popular game console?	Depending on?	Hard	1	1
+10	What is the name of the most recent Call of Duty entry?	Don't know	Medium	1	0
+10	How many swords does Geralt (the witcher) carry?	Don't know	Medium	1	0
+10	What is a prime number?	A number that is only divisible by 1 and it self	Easy	3	0
+10	What is the name of a chemical raw material that cannot be further decomposed chemically and consists of atoms of the same nuclear charge?	Don't know	Hard	3	0
+10	What year did Max Planck win the Nobel prize in physics?	1918	Hard	3	0
+10	Who won the football world cup in 2018?	France	Medium	3	0
+10	Which is the second most polular sport in the world (2018)?	According to/depending on?	Hard	1	1
+10	What is a Hail Mary pass?	Don't know	Hard	3	0
+10	Which animals do cats love to chase the most?	Dogs	Easy	3	1
+10	Which country does pizza come from?	Italy	Easy	3	0
+10	Which device can record sound waves and transform them into electric signals?	Don't know	Hard	3	0
+10	What city are the Beatles from?	Liverpool	Medium	3	0
+10	Which famous musician is the father of Michael Jackson first wife?	Don't know	Hard	2	0
+10	Which of the following classical composers is not German? Georg Friedrich HÃ¤ndel, Franz Schubert, Richard Wagner or Richard Strauss?	Don't know	Hard	3	0
+10	What is the name of the main character in Tomb Raider?	Lara Croft	Medium	3	0
+10	Which country was Tetris developed in?	Soviet Union	Medium	3	0
+10	Who features on the cover of UFC 2 alongside Ronda Rousey?	Don't know	Hard	2	0
+11	What is the absolute value of -4? - "4"? "16"? "-4"? "0"?'	4	Easy	2	0
+11	What is the term for a matrix with pairwise orthonormal vectors"? - "Orthogonal matrix"? "Orthonormal matrix"? "Gram matrix"? "Perpendicular matrix"?'	Orthonormal matrix	Medium	1	0
+11	In the programming language F#, a computation expression is..? - "An expression used in list comprehensions"? "A monad"? "A parallelizable expression"? "Computations with the 'unit' type"?'	An expression used in list comprehensions	Hard	1	0
+11	Micheal Jordan is inducted into the Hall of Fame in which sport? - "Basketball"? "Cycling"? "Cricket"? "Curling"?'	Basketball	Easy	3	0
+11	Which of the following female athletes won the gold medal for Denmark in swimming at the 2016 Rio de Janerio Olympic Games? - "Jeanette Ottesen"? "Pernille Blume"? "Sarah Bro"? "Julie Kepp Jensen"? '	Julie Kepp Jensen	Medium	2	0
+11	In which of the following four years did Denmark win the most gold medals at the olympic game? - "1996, Atlanta"? "2000, Sydney"? "2004, Athens"? "2008, Beijing"?'	1996	Hard	3	0
+11	What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - "Red and Yellow"? "Green and White"? "Black and Blue"? "Blue and Purple"?' 	Blue and Purple	Hard	1	0
+11	SpongeBob SquarePants has a best friend, what is his name? - "Mr. Krabs"? "Patrick Star"? "Squidward tentacles"? "David Hasselhoff"?'	Patrick Star	Easy	3	0
+11	Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - "Rubble"? "Sky"? "Marshall"? "Tracker"?'	Marshall	Hard	2	0
+11	This guy had a hit song called Papirsklip - "Bent Mejding"? "Kim Larsen"? "Johnny Madsen"? "Jarl Friis Mikkelsen"?'	Kim Larsen	Medium	2	0
+11	Which artist made the song Ring of Fire? - "Johnny Cash"? "Willie Nelson"? "George Jones"? "Hank Williams"?' 	Johnny Cash	Medium	3	0
+11	Who made the song "Get low" featured on the soundtrack of the videogame "Need for Speed: Underground"? - "Ludacris"? "Lil Wayne"? "Lil John"? "Nate Dogg"?' 	Ludacris	Hard	2	0
+11	What gaming company created the character Mario? - "Nintendo"? "Sony"? "Microsoft"? "Sega"?'	Nintendo	Easy	3	0
+11	What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - "Oblivion"? "Arena"? "Morrowind"? "Skyrim"?'	Skyrim	Easy	3	0
+11	The secret organization "La-li-lu-le-lo" is mentioned in what game series? - "Mass Effect"? "Metal Gear Solid"? "World of Warcraft"? "Grand Theft Auto"?'	Metal Gear Solid	Hard	1	0
+11	Which of the following programming languages is a front-end programming language: CSS? Java? Python? C? C++?	CSS	Easy	3	0
+11	To which field does Natural Language Processing belong?	Computer Science	Easy	1	0
+11	In which part of the human brain are visual sensory information processed?	Left	Medium	2	0
+11	How many minutes is a soccer match?	90	Easy	3	0
+11	Who is the world record holder in the 100m sprint?	Bolt	Easy	2	0
+11	How many matches did Mohammed Ali lose in his career?	5	Hard	2	0
+11	Name the school that Harry Potter attended	Hogwarts	Easy	3	0
+11	How many houses do exist in Hogwarts?	4	Easy	3	0
+11	What is the name of the toy cowboy in Toy Story?	Woods	Medium	2	0
+11	Who is called the king of pop?	Michael Jackson	Easy	3	0
+11	What is the first name of compose Vivaldi?	Antonio	Hard	1	0
+11	Who made the highly rated 1959 jazz album Kind of Blue?	Don't know	Hard	1	0
+11	What is the world's most famous soccer video game?	FIFA	Easy	2	0
+11	What is the name of the main character in Tomb Raider?	Lara Croft	Medium	2	0
+11	In which year was the first Sega console released?	1987	Hard	1	0
+11	In what SI-unit is thermodynamic temperature measured?	C	Medium	2	0
+11	What is the process of changing magnetic fields to generate power called?	Don't know	Hard	1	0
+11	International Business Machines Corporation (IBM)?	IBM	Easy	1	0
+11	Which title does Nichlas Bendtner have?	Don't know	Medium	2	0
+11	Which players has the most super bowl wins?	Don't know	Hard	1	0
+11	From which country does Handball origin?	England	Hard	2	0
+11	Which teletubbie is green?	Tinky Winky	Medium	2	0
+11	What is the shadow called in The Bear In The Big Blue House	Don't know	Hard	1	0
+11	What is the name of the main villain in Kim Possible?	Don't know	Hard	2	0
+11	In what band was John Lennon vocalist?	Beatles	Easy	3	0
+11	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	Don't know	Hard	2	0
+11	In which year was the album "Random Access Memories" by Daft Punk released?	2000	Hard	2	0
+11	Which company release the Playstation 4?	Sony	Medium	3	0
+11	Who is the creator of Mario?	Shigeru Miyamoto	Hard	1	0
+11	How many game systems (consoles & portable consoles) has Nintendo release?	25	Medium	2	0
+12	What is the equation for calqulating the area of a circle?	A = pi * r^2	Easy	1	0
+12	What is the nationality of the inventer of c++?	Danish	Medium	3	0
+12	What does dhcp stand for	Dynamic Host Configuration Protocol	Medium	1	1
+12	What nation won the World Championship in mens handball 2019?	Denmark	Medium	2	0
+12	What is the name of the best standard FIDE ranked chess player in the world, as of 2019?	Magnus Carlsen	Hard	2	0
+12	What is the name of the professional ultimate frisbee league in the USA?		Hard	1	1
+12	Who is Bamses best friend?	Kylling	Easy	1	1
+12	Who is the author of the Harry Potter books?	J. K. Rowling	Easy	3	0
+12	How many colors are in a rainbow?		Hard	1	1
+12	What is Biggie Smalls alias?	Notorious BIG	Medium	1	0
+12	Who is the lead singer of Kashmir?	Kasper Eistrup	Hard	3	0
+12	When was the song Year 3000 published?		Hard	1	1
+12	What is the name of Marios brother?	Luigi	Easy	3	0
+12	Link is the main character of what game?	The Legend of Zelda	Easy	3	0
+12	What is the highest rating one can achieve in CSGO?	Global Elite	Medium	3	0
+12	What is the chemical formula of benzene?	C6H6	Hard	2	0
+12	In a step up transformer which coil is made of the thinner wire since the current in it will be less?		Hard	1	0
+12	In 2007, Voyager 2 crossed the heliosheath boundary and into the vast region at the edge of our solar system where the solar wind runs up against the thin gas between the stars. What did this crossing confirm about the shape of our solar system?		Hard	1	0
+12	How many grand slams has Roger Federer won	20	Medium	3	0
+12	When were the first widely accepted laws of cricket brought out?		Hard	1	1
+12	A winner in Boxing (Light Flyweight) at the 2012 Summer Olympics? He won a gold medal in the 2008 Summer Olympics as well.	Zou Shiming	Hard	2	0
+12	What position does Harry play on the Quidditch team?	Seeker	Easy	3	0
+12	What is the name of Harry Potterâs pet owl?	Hedwig	Medium	3	0
+12	Where did the game of badminton originate?		Hard	1	1
+12	Who is the lead guitarist of Queen?	Brian May	Hard	2	0
+12	Which album of Linkin Park has the song "Numb"?	Meteora	Medium	1	0
+12	Can you finish the lyric of the song by Backstreet Boys? "Found my inspiration hiding in_____"	your expression	Hard	1	0
+12	What is the name of God of War protagonist?	Kratos	Medium	2	0
+12	In which year did the video game crash happen?	1983 to 1985	Hard	1	0
+12	In which game players are free to perform within the entirety of a procedurally generated deterministic open world universe, which includes over 18 quintillion planets?	No Man's Sky	Medium	1	0
+12	What is a prime number?	A number greater than 1 that cannot be formed by multiplying two smaller natural numbers	Easy	1	0
+12	What is the name of a chemical raw material that cannot be further decomposed chemically and consists of atoms of the same nuclear charge?		Hard	1	1
+12	What year did Max Planck win the Nobel prize in physics?	1918	Hard	3	0
+12	Who won the football world cup in 2018?	France	Medium	3	0
+12	Which is the second most polular sport in the world (2018)?	Cricket	Hard	2	0
+12	What is a Hail Mary pass?	A last ditch effort pass made in American football with little chance of success.	Hard	1	1
+12	Which animals do cats love to chase the most?	Mouse	Easy	1	1
+12	Which country does pizza come from?	Italy	Easy	3	0
+12	Which device can record sound waves and transform them into electric signals?	Microphone	Easy	3	0
+12	What city are the Beatles from?	Liverpool	Medium	3	0
+12	Which famous musician is the father of Michael Jackson first wife?	Elvis	Hard	2	0
+12	Which of the following classical composers is not German? Georg Friedrich HÃ¤ndel, Franz Schubert, Richard Wagner or Richard Strauss?	Franz Schubert	Hard	2	0
+12	What is the name of the main character in Tomb Raider?	Lara Croft	Easy	3	0
+12	Which country was Tetris developed in?	Soviet Russia	Medium	3	0
+12	Who features on the cover of UFC 2 alongside Ronda Rousey?	Conor McGregor	Hard	2	0
+13	In what SI-unit is thermodynamic temperature measured?	Kelvin	Easy	3	0
+13	What is the process of changing magnetic fields to generate power called?	Electromagnetism	Medium	3	0
+13	International Business Machines Corporation (IBM)?	?	Hard	1	1
+13	Which title does Nichlas Bendtner have?	Footballer	Easy	1	1
+13	Which players has the most super bowl wins?	some guy	Hard	2	0
+13	From which country does Handball origin?	Denmark	Medium	3	0
+13	Which teletubbie is green?	Dipsy	Easy	3	0
+13	What is the shadow called in The Bear In The Big Blue House	Shadow	Medium	3	0
+13	What is the name of the main villain in Kim Possible?	dr drakcen	Medium	1	1
+13	In what band was John Lennon vocalist?	The Beatles	Easy	3	0
+13	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	One of them	Medium	3	0
+13	In which year was the album "Random Access Memories" by Daft Punk released?	2011	Hard	3	0
+13	Which company release the Playstation 4?	Sony	Easy	3	0
+13	Who is the creator of Mario?	Shigeru Miyamoto	Medium	3	0
+13	How many game systems (consoles & portable consoles) has Nintendo release?	14	Hard	3	0
+13	Who was the first female computer scientist?	some gal	Hard	2	1
+13	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean	Easy	3	0
+13	What is the formula for Newton's Second Law?	F=ma	Medium	3	0
+13	Who is the most famous football player from MalmÃ¶?	Zlatan Ibrahimovic	Medium	2	1
+13	How many holes are there in a round of a golf game?	18	Easy	3	0
+13	In what countries was the Rugby World Cup first held? 	Australia	Hard	2	0
+13	What equals 10+10?	20	Easy	1	0
+13	What is the name of Dora the explorers monkey friend?	Boots	Medium	3	0
+13	What is the chemical formula for water?	H2O	Easy	3	0
+13	What is the famous song called from the movie Titanic? 	My Heart Will Go On	Medium	2	1
+13	What was the name of the band that Michael Jackson was a part of with his siblings?	The Jackson 5	Easy	3	0
+13	Who composed the classical music for the Swan Lake?	Beethoven	Medium	3	0
+13	What is the famous football video game called?	FIFA	Easy	1	1
+13	What game is Lara Croft associated with?	Tomb Raider	Easy	3	0
+13	What do you need to write to get a lot of money for free in Sims?	rosebud	Medium	1	1
+13	What does CPU stand for?	Central Processing Unit	Easy	3	0
+13	Have humans ever been to Mars.	No	Easy	3	0
+13	How many laws of thermodynamics are there?	4	Medium	3	0
+13	Who won the World Cup in 2018?	What sport?	Hard	1	1
+13	What national team does Cristiano Ronaldo play for?	Portugal	Easy	3	0
+13	What club does Robert Lewandowski play for?	that one	Hard	3	0
+13	What is 0 x 8?	0	Easy	1	0
+13	What is the lastname of the author of Harry Potter?	Rowling	Easy	3	0
+13	What year did World War Two end?	1945	Easy	2	0
+13	What instrument did Jimi Hendrix play?	Guitar	Easy	3	0
+13	Who is the lead singer of Metallica?	James Hetfield	Medium	3	0
+13	What band did John Frusciante play in?	no clue	Hard	3	0
+13	What is the most popular game console?	PS2	Hard	1	1
+13	What is the name of the most recent Call of Duty entry?	Call of Duty: something something	Medium	3	0
+13	How many swords does Geralt (the witcher) carry?	2	Hard	3	0
+14	What does a light-year measure?	Distance	Easy	2	0
+14	Which country in the world has maximum number of robots working?	Japan	Hard	1	1
+14	The fear of being out of mobile phone contact is known as?	mobilofobi	Hard	2	0
+14	What is the object that hockey players send across the ice called?	Puck	Easy	3	0
+14	What is the nickname of the Belgian national soccer team? 	Belgium Waffles	Hard	2	1
+14	How long must a billiard cue be?	Long Enough	Easy	1	0
+14	How many years are there in a millennium?	1000	Easy	3	0
+14	How many colours are in a rainbow?	All, except for white	Medium	1	1
+14	What is the first element on the periodic table of elements?	Hydrogen	Easy	3	0
+14	Who was the lead singer of the band "Queen"?	Freddie Mercury	Easy	3	0
+14	How many strings does a violin usually have?	4	Easy	3	0
+14	What is the name of Nirvana's debut album?	Spirit	Easy	2	0
+14	What does Mario jump on after completing a level?	Pipe	Easy	1	1
+14	Which field of study is the basis of the Tomb Raider?	Archaeology	Easy	2	0
+14	Name the creator of PS4?	Sony	Easy	3	0
+14	Which British comedy group is the programming language Python named after?	Monty python	Easy	2	0
+14	Which Polish scientist discovered the chemical element radium and was famous for her work with radiation?	Marie Curie	Medium	3	0
+14	Which year was the first version of Windows released?	1993	Hard	2	0
+14	What is the American name for football? 	Soccer	Easy	3	0
+14	What is the name of an event involving athletes with a range of disabilities, which is organized every four years in parallel with the Olympic Games?	paralympics	Easy	2	0
+14	Which year did a computer first defeat the world champion in the mind sport chess?	1998	Hard	3	0
+14	What is the name of the forgetful blue fish in Finding Nemo?	Stupido	Hard	2	0
+14	How many Harry Potter books are there?	7	Medium	2	0
+14	What was Hitler's first name?	Adolf	Easy	3	0
+14	What is the name of Lady Gaga's first hit single?	Poker Face	Medium	3	0
+14	Which American state is known to be a hub for country music?	Tennessee	Medium	3	0
+14	Which town was Mozart born in?	Wien	Hard	2	0
+14	What is the name of the famous franchise of life simulation games?	The Sims	Medium	1	0
+14	Which corporation owns the digital gaming platform Steam?	Valve	Easy	3	0
+14	What is the name of the motherly goat-like monster in the game Undertale?	Hugo	Hard	2	0
+14	Which of the following programming languages is a front-end programming language: CSS? Java? Python? C? C++?	CSS	Easy	2	0
+14	To which field does Natural Language Processing belong?	Computer Science	Medium	2	1
+14	In which part of the human brain are visual sensory information processed?	amygdala	Hard	2	0
+14	How many minutes is a soccer match?	90	Easy	3	0
+14	Who is the world record holder in the 100m sprint?	Usain Bolt	Easy	3	0
+14	How many matches did Mohammed Ali lose in his career?	None	Easy	3	0
+14	Name the school that Harry Potter attended	Hogwarts	Easy	3	0
+14	How many houses do exist in Hogwarts?	4	Easy	2	0
+14	What is the name of the toy cowboy in Toy Story?	Woody	Easy	3	0
+14	Who is called the king of pop?	Michael Jackson	Easy	3	0
+14	What is the first name of compose Vivaldi?	dunno	Hard	2	0
+14	Who made the highly rated 1959 jazz album Kind of Blue?	King Kong	Hard	2	0
+14	What is the world's most famous soccer video game?	FIFA	Medium	3	0
+14	What is the name of the main character in Tomb Raider?	Lara Croft	Easy	3	0
+14	In which year was the first Sega console released?	1982	Hard	2	0
+15	When a very heavy star dies, it becomes what?	Iron	Easy	3	0
+15	Modern trains were revolutionized in 1964, by a Japanese high-speed electric multiple unit train. What was this train called?	Bullet train	Hard	2	0
+15	An ordinary bit can have two states. How many can a quantum bit, or qubit, have?	An infinite number of states	Medium	2	0
+15	Football is played primarily using which body part?	The legs	Easy	2	0
+15	What footwear is customarily worn when participating in dressage at the Olympics?	Leather boots	Easy	2	0
+15	What is the the type of sword primarily used for kendo called?	A bokken	Medium	2	0
+15	What is the colour of an orangutan?	Brown	Easy	2	0
+15	What animal is the biggest in the world today?	The blue whale	Easy	3	0
+15	What fruit is yellow, sour, and sometimes added to tea along with milk and sugar?	Lemon	Easy	2	0
+15	What instrument is primarily identified with rock and roll?	Electric guitar	Easy	2	0
+15	Who wrote the song famous for the lyrics: "Never gonna give you up, never gonna let you down."	Stock, Aitken & Waterman	Hard	2	0
+15	Which country has the shortest national anthem?	Japan	Easy	3	0
+15	In 1995, this company released its first console, which went on to dominate the industry.	Sony	Hard	2	0
+15	The PlayStation 3 used blu-ray discs(BD) for games. The Xbox 360 used what disc format?	HD-DVD	Medium	2	0
+15	This director famously walked down a bridge of light to reveal his new game at E3 2016, after being fired and opening a new studio. What is the name of the director?	Martin O'Donnell	Hard	1	0
+15	When a person has irregular heart beats, what is installed in the body to normalize it?	Pacemaker	Easy	3	0
+15	What was the name of the NASA Space mission, that brought man to the moon?	Apollo 11	Easy	3	0
+15	What does EP, the big round disc with gets played on the turntable, stand for?	Extended Play	Easy	2	0
+15	Which consists of running on a grass field?	Track and field	Easy	1	1
+15	What sport is exercised in a pool with lanelines splitting up the pool in 6-8 lanes?	Competitive swimming	Easy	2	0
+15	When a dog is presented in front of judges, which it must perfectly execute a predefined set of tasks when directed to do so by his handler. What is the sport called?	Obedience trial	Easy	2	0
+15	What tool can be used to shovel sand in a sandbox?	Shovel	Easy	2	0
+15	What is the name of the cartoon character who is female and explores the world?	Dora	Easy	2	0
+15	What card game has four colour groups and a word is yelled when one card is left in ones hand?	Uno	Easy	3	0
+15	Which black person used a lot of money to turn the colour of his skin white?	Michael Jackson	Easy	3	0
+15	Which pop star shaved her head in a life crisis?	Britney Spears	Easy	2	0
+15	What rock band was first called Smile?	Queen	Easy	3	0
+15	What is the name of the game - where you have to align three of the same type brick in a straight line on a 9x9 board?	Go	Medium	2	0
+15	What game is associated with the floss-dance?	Fortnite Battle Royale	Easy	2	0
+15	What game has continuesly been postponed and delay because the amount of funding keeps growing?	Anthem	Hard	2	1
+15	What does VR stand for?	Virtual reality	Easy	2	0
+15	Who came up with the theory of relativity?	Albert Einstein	Easy	2	0
+15	Who was the first woman to win the Nobel Prize in Physics?	Marie Curie	Easy	2	0
+15	Who won the World Men's Handball Championship in 2019?	Denmark	Easy	3	0
+15	Which team won the Super Bowl in 2019?	The New England Patriots	Easy	2	0
+15	How many medals did Denmark win at the 2012 London Olympics Games	Nine	Easy	2	0
+15	What is the capital of Denmark?	Copenhagen	Easy	2	0
+15	What is the name of the school in Harry Potter?	Hogwarts	Easy	3	0
+15	Which famous Disney movie features a song called 'Hakuna Matata'?	The Lion King	Easy	2	0
+15	What is the name of the largest music festival in Denmark	Roskilde Festival	Easy	2	0
+15	What is the most played song on youtube?	Despacito	Easy	2	0
+15	What is the largest music festival in Budapest, Hungary called?	The Sziget Festival	Medium	3	0
+15	What is the name of Microsofts gaming consoles?	Xbox	Easy	2	0
+15	What is the best selling video game of all time?	Tetris	Easy	2	0
+15	What is IGNâs Best Game of The Year 2018?	God of War	Medium	1	1
+16	How many elements are in the periodic table?	180	Hard	3	0
+16	Who patented the first light bulb?	Thomas Edison	Easy	3	0
+16	What is a gravitational wave?	Dirsturbances in the curvature of spacetime	Hard	1	0
+16	How many pins are in a game of bowling?	10	Easy	3	0
+16	Has FIFA ever had a female president?	No	Medium	2	0
+16	Who was in 2006 voted the greatest profile to have ever played at F.C. Copenhagen by the fans?	Peter smeichel	Medium	3	0
+16	What shape has four sides?	Pyramid	Easy	2	0
+16	What is Winnie-the-Pooh's favourite food?	Honey	Easy	3	0
+16	What was the first name of the sherif from toy story?	Woody	Hard	3	0
+16	What is the full name of the American singer known as Elvis?	Elvis Presley	Hard	1	0
+16	Which album surpassed Michael Jackson's thriller as all time best selling album in 2018?	Ed Sheran	Hard	1	0
+16	Hans Zimmer is famous for composing music for which media?	Television	Hard	3	0
+16	What is the most famous football video game?	FIFA	Easy	3	1
+16	Who was the creator of Tetris?	The Egyptians	Hard	1	0
+16	What is the best selling video game of all time?	Call of Duty	Medium	3	0
+16	What does CPU stand for?	Central Processing Unit	Easy	3	0
+16	Have humans ever been to Mars.	No	Easy	3	0
+16	How many laws of thermodynamics are there?	4	Hard	3	0
+16	Who won the World Cup in 2018?	France	Medium	3	0
+16	What national team does Cristiano Ronaldo play for?	Portugal	Easy	3	0
+16	What club does Robert Lewandowski play for?	Bayern MÃ¼nich	Hard	1	0
+16	What is 0 x 8?	0	Easy	1	0
+16	What is the lastname of the author of Harry Potter?	Rowling	Medium	3	0
+16	What year did World War Two end?	1945	Easy	2	0
+16	What instrument did Jimi Hendrix play?	Guitar	Hard	1	0
+16	Who is the lead singer of Metallica?	John	Hard	3	0
+16	What band did John Frusciante play in?	Rolling Stones	Hard	1	0
+16	What is the most popular game console?	PC	Medium	2	0
+16	What is the name of the most recent Call of Duty entry?	Black Ops	Medium	3	0
+16	How many swords does Geralt (the witcher) carry?	2	Hard	2	0
+16	What is a prime number?	A number that is not integer divisible by other number than itself and 1	Easy	1	0
+16	What is the name of a chemical raw material that cannot be further decomposed chemically and consists of atoms of the same nuclear charge?	Isotope	Hard	1	0
+16	What year did Max Planck win the Nobel prize in physics?	1979	Hard	1	0
+16	Who won the football world cup in 2018?	France	Medium	3	0
+16	Which is the second most polular sport in the world (2018)?	American Football	Medium	3	0
+16	What is a Hail Mary pass?	Pass between the legs	Hard	1	0
+16	Which animals do cats love to chase the most?	Mice	Easy	2	1
+16	Which country does pizza come from?	Italy	Medium	3	0
+16	Which device can record sound waves and transform them into electric signals?	Microphone	Medium	1	1
+16	What city are the Beatles from?	London	Medium	3	0
+16	Which famous musician is the father of Michael Jackson first wife?	Elvis	Hard	2	0
+16	Which of the following classical composers is not German? Georg Friedrich HÃ¤ndel, Franz Schubert, Richard Wagner or Richard Strauss?	Richard Wagner	Medium	3	0
+16	What is the name of the main character in Tomb Raider?	Lary Croft	Medium	3	0
+16	Which country was Tetris developed in?	Japan	Medium	3	0
+16	Who features on the cover of UFC 2 alongside Ronda Rousey?	Poul McCarthy	Hard	1	0
+17	What is the formula for density?	m/v	Medium	3	0
+17	For demonstrating what effect did Albert Einstein receive the Nobel prize in Physics in 1921?	photoelectric effect	Medium	3	0
+17	What is the name of the second most recent supercontinent?	Ur	Hard	2	0
+17	Which country won the World Men's Handball Championship in 2018?	Spain	Medium	3	0
+17	Which country hosted the World Men's Handball Championship the most number of times? 	Germanyy	Medium	3	0
+17	How many innings are there in a standard game of Test cricket?	4	Hard	2	0
+17	What is a young cow called?	calf	Easy	3	0
+17	How many continents are there in the world?	7	Medium	3	0
+17	What causes the green colour in leafs?	chloroplasts	Medium	3	0
+17	What is Freddie Mercuryâs (lead singer of Queen) nationality?	GB	Medium	3	0
+17	What is the name of the song that was written and performed by Paul McCartney and Michael Jackson released in 1983?	Say Say Say	Hard	3	0
+17	In the song Killer Queen (by the band Queen), there is a reference to a particular type of alcohol that is purportedly kept in the cabinet. What type of alcohol is it? 	don't know	Hard	2	0
+17	What is the name of the main character in the Hitman Series of video games?	Agent 47	Medium	3	0
+17	What video game sold the most copies ever? 	don't know	Hard	1	1
+17	What is the name of the strategy, turn-based video game that is set in feudal Japan, initially released on March 15, 2011?	Shogun	Medium	2	0
+17	What does the acronym HDD stand for?	Hard disk drive	Easy	1	1
+17	What is the largest animal that ever lived on Earth?	Blue Whale	Easy	1	1
+17	In what year did IBM introduce its first personal computer?	1981	Easy	1	0
+17	Name the sport where two teams compete to throw an orange ball into hoops	Basketball	Easy	3	0
+17	What country won the FIFA World Cup in 2014	Germany	Medium	2	0
+17	In what year was the first FIFA World Cup held?	1930	Hard	3	0
+17	In what popular show are various creatures captured in red and white balls?	Pokemon	Easy	3	0
+17	What colour are Smurfs?	Blue	Easy	3	0
+17	Who created Pinocchio in the Disney film of the same name?	Collodi	Hard	2	0
+17	What instrument does a pianist play?	Guitar	Hard	2	0
+17	Which British singer wrote the song 'Shape of You'?	Ron Weasley	Medium	3	0
+17	Which album was awarded a Grammy for best album at the first annual Grammy awards in 1958?	The Music From Peter Gunn	Hard	3	0
+17	What is the name of the blue hedgehog who likes to run fast?	Sonic	Easy	3	0
+17	In what game did we first encounter Mario (then Jumpman)?	Donkey Kong	Medium	3	0
+17	What release of Microsoft Windows was the first to include the game 'Microsoft Solitaire'?	Windows 8	Medium	3	0
+17	Who was the first female computer scientist?	Ada Lovelace	Hard	1	1
+17	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean	Easy	3	0
+17	What is the formula for Newton's Second Law?	f=ma	Medium	3	0
+17	Who is the most famous football player from MalmÃ¶?	Zlatan	Hard	1	1
+17	How many holes are there in a round of a golf game?	18	Easy	2	0
+17	In what countries was the Rugby World Cup first held? 	Australia and New Zealand	Medium	3	0
+17	What equals 10+10?	20	Easy	3	0
+17	What is the name of Dora the explorers monkey friend?	Boots	Medium	3	0
+17	What is the chemical formula for water?	H20	Easy	3	0
+17	What is the famous song called from the movie Titanic? 	Hit 'em up	Medium	1	1
+17	What was the name of the band that Michael Jackson was a part of with his siblings?	Jackson 5	Medium	3	0
+17	Who composed the classical music for the Swan Lake?	Tjajkovskij	Medium	3	0
+17	What is the famous football video game called?	football manager	Medium	1	1
+17	What game is Lara Croft associated with?	Tomb Raider	Easy	3	0
+17	What do you need to write to get a lot of money for free in Sims?	rosebud	Medium	3	0
+18	What is the equation for calqulating the area of a circle?	r^2*pi	Easy	3	0
+18	What is the nationality of the inventer of c++?	Danish	Hard	3	0
+18	What does dhcp stand for	Dynamic Host Configuration Protocol	Medium	3	0
+18	What nation won the World Championship in mens handball 2019?	Denmark	Easy	3	0
+18	What is the name of the best standard FIDE ranked chess player in the world, as of 2019?	Magnus Carlsen	Hard	2	0
+18	What is the name of the professional ultimate frisbee league in the USA?	The American Ultimate Disc League	Medium	3	0
+18	Who is Bamses best friend?	Lille Skutt	Hard	1	0
+18	Who is the author of the Harry Potter books?	J. K. Rowling	Medium	3	0
+18	How many colors are in a rainbow?	7	Easy	3	0
+18	What is Biggie Smalls alias?	The Notorious B.I.G.	Easy	2	0
+18	Who is the lead singer of Kashmir?	Kasper Eistrup	Medium	2	0
+18	When was the song Year 3000 published?	2002	Hard	1	0
+18	What is the name of Marios brother?	Luigi	Easy	3	0
+18	Link is the main character of what game?	The legend of Zelda	Medium	3	0
+18	What is the highest rating one can achieve in CSGO?	40	Hard	3	0
+18	What planetary object is the sun?	A star	Medium	3	0
+18	How many bits are in a byte?	8	Easy	3	0
+18	What is a white dwarf mostly composed of?	Hydrogen or Helium	Hard	1	0
+18	What is table-tennis also called?	ping-pong	Medium	3	0
+18	How many points does a Touchdown score?	6	Easy	3	0
+18	Who holds the current record of the longest field goal in the NFL?	Matt Prate	Hard	2	0
+18	How many legs does a cat have?	4	Easy	3	0
+18	What is the capital of Denmark?	Copenhagen	Medium	2	0
+18	Solve 2 * x + 1 = 5	2	Hard	2	0
+18	Which band wrote the song "Bohemian Rhapsody"?	Queen	Easy	3	0
+18	What is the band containing the famous robotic duo called?	Daft Punk	Medium	3	0
+18	What is the title of the first song on the album "Keeper of the Seven Keys: The Legacy" by Helloween?		Hard	2	0
+18	What is the name of the iconic plumber from Nintendo?	Mario	Medium	3	0
+18	In the game "Slay the Spire", how much block does an upgraded "Metallicize" give?	4	Hard	1	0
+18	In the "Alexx Kid in Miracle World" for the Sega Master System, what popular game does the bosses challenge you with?	Rock paper scissors	Hard	1	0
+18	What is a prime number?	A number that can only be divided by 1 and itself	Easy	2	0
+18	What is the name of a chemical raw material that cannot be further decomposed chemically and consists of atoms of the same nuclear charge?		Medium	1	0
+18	What year did Max Planck win the Nobel prize in physics?	1918	Hard	2	0
+18	Who won the football world cup in 2018?	France	Easy	3	0
+18	Which is the second most polular sport in the world (2018)?	Cricket	Medium	3	0
+18	What is a Hail Mary pass?	A long forward pass with only a very small chance of success	Hard	1	0
+18	Which animals do cats love to chase the most?	Rats	Easy	2	0
+18	Which country does pizza come from?	Italy	Medium	2	0
+18	Which device can record sound waves and transform them into electric signals?	Microphone	Hard	2	0
+18	What city are the Beatles from?	Liverpool	Easy	3	0
+18	Which famous musician is the father of Michael Jackson first wife?	Elvis Presley	Hard	3	0
+18	Which of the following classical composers is not German? Georg Friedrich HÃ¤ndel, Franz Schubert, Richard Wagner or Richard Strauss?	Franz Schubert	Medium	2	0
+18	What is the name of the main character in Tomb Raider?	Lara Croft	Easy	3	0
+18	Which country was Tetris developed in?	Soviet Union	Hard	2	0
+18	Who features on the cover of UFC 2 alongside Ronda Rousey?	Conor McGregor	Medium	3	0
+19	Who was the first female computer scientist?	don't know	Hard	2	1
+19	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean theorem	Easy	2	1
+19	What is the formula for Newton's Second Law?	F = ma	Medium	1	0
+19	Who is the most famous football player from MalmÃ¶?	don't know	Hard	1	1
+19	How many holes are there in a round of a golf game?	5	Hard	2	0
+19	In what countries was the Rugby World Cup first held? 	don't know	Hard	2	0
+19	What equals 10+10?	20	Easy	2	0
+19	What is the name of Dora the explorers monkey friend?	don't know	Hard	2	0
+19	What is the chemical formula for water?	H2O	Easy	2	0
+19	What is the famous song called from the movie Titanic? 	my heart will be go on	Easy	2	0
+19	What was the name of the band that Michael Jackson was a part of with his siblings?	don't know	Hard	1	0
+19	Who composed the classical music for the Swan Lake?	don't know	Hard	2	0
+19	What is the famous football video game called?	don't know	Hard	1	1
+19	What game is Lara Croft associated with?	don't know	Hard	2	0
+19	What do you need to write to get a lot of money for free in Sims?	don't know	Hard	1	0
+19	What number on the pH-scale indicates a neutral value?	7	Easy	2	0
+19	What is the smallest planet in our solar system?	don't know	Medium	1	1
+19	How many teeth do a white shark have? (approx.)	1000	Hard	2	0
+19	What colour is the ball in tennis?	white	Easy	1	0
+19	What is the name of the computer program that plays Go?	don't know	Medium	2	0
+19	How many children do Cristiano Ronaldo has?	don't know	Hard	1	1
+19	What is the name of Harry Potter's best friend?	Hermione	Medium	1	1
+19	How many minutes are there in one hour?	60	Easy	2	0
+19	What is the name of Santa Clause's 8 reindeers?	don't know	Hard	1	0
+19	What is the name of the band behind "Barbie Girl"?	don't know	Hard	2	0
+19	Which famous duo made a song for the movie "The Graduate"?	don't know	Hard	2	0
+19	In what year did Louis Armstrong die?	don't know	Hard	2	0
+19	What does L.O.L. stand for?	league of legends	Easy	2	0
+19	What colour is Toad's west? (Mario)	don't know	Hard	2	0
+19	In which game can a player declare "OHH CHIBLETS!!"	don't know	Hard	1	0
+19	What is the powerhouse of the cell	mitochondrion	Easy	2	0
+19	What do you call the thing on the end of shoelaces	don't know	Medium	1	0
+19	Who won the Turing award in 2005	don't know	Hard	2	0
+19	Who won the World Men's Handball	don't know	Hard	2	1
+19	Where was the last stage in tour de France 1990?	don't know	Hard	2	0
+19	What is Usain Bolts last run time in an official competition? 	don't know	Hard	2	0
+19	Who is the latest official Disney princess?	don't know	Hard	2	0
+19	What is the theme song for Hannah Montana?	don't know	Hard	2	0
+19	What is the name of the 7 dwarfs in Disneys' Snow White?	don't know	Medium	1	0
+19	What kind of instrument is a violin?	string instrument	Medium	1	1
+19	What is the continuation of the song by Carly Rae Jepsen?; Hey, I just met you and this is crazy But here's my number, __ ____ __ _____	don't know	Hard	1	0
+19	Who composed most of the soundtracks for Studio Ghibli?	don't know	Hard	2	0
+19	What is the name of Mario's brother?	don't know	Hard	2	0
+19	How many Pokemons are there by 2018?	don't know	Hard	2	0
+19	What is the name of the protagonist that is trying to find his friends Kairi and Riku	don't know	Hard	1	0
+20	What does a light-year measure?	Distance light can travel in a year	Easy	2	0
+20	Which country in the world has maximum number of robots working?	Japan	Hard	3	0
+20	The fear of being out of mobile phone contact is known as?	I don't know	Hard	3	0
+20	What is the object that hockey players send across the ice called?	Puck	Medium	2	0
+20	What is the nickname of the Belgian national soccer team? 	No idea	Hard	1	1
+20	How long must a billiard cue be?	1,5m	Hard	2	0
+20	How many years are there in a millennium?	1000	Easy	2	0
+20	How many colours are in a rainbow?	Seven	Easy	2	0
+20	What is the first element on the periodic table of elements?	Hydrogen	Hard	2	0
+20	Who was the lead singer of the band "Queen"?	Freddie Mercury	Easy	2	0
+20	How many strings does a violin usually have?	Eight	Hard	2	0
+20	What is the name of Nirvana's debut album?	In Utero	Hard	2	0
+20	What does Mario jump on after completing a level?	Dunno	Hard	2	0
+20	Which field of study is the basis of the Tomb Raider?	Archaeology	Medium	3	0
+20	Name the creator of PS4?	Henrietta Jones	Hard	2	0
+20	Which of the following programming languages is a front-end programming language: CSS? Java? Python? C? C++?	CSS	Easy	2	0
+20	To which field does Natural Language Processing belong?	Machine learning	Medium	2	1
+20	In which part of the human brain are visual sensory information processed?	Right	Easy	2	0
+20	How many minutes is a soccer match?	40	Hard	1	0
+20	Who is the world record holder in the 100m sprint?	Usain Bolt	Easy	2	0
+20	How many matches did Mohammed Ali lose in his career?	0	Hard	2	0
+20	Name the school that Harry Potter attended	Hogwarts School of Wizardry and Witchcraft	Easy	3	0
+20	How many houses do exist in Hogwarts?	Four	Easy	3	0
+20	What is the name of the toy cowboy in Toy Story?	Woody	Easy	3	0
+20	Who is called the king of pop?	Michael Jackson	Easy	1	1
+20	What is the first name of compose Vivaldi?	Giovanni	Hard	3	0
+20	Who made the highly rated 1959 jazz album Kind of Blue?	Jazzy McJazz	Hard	3	0
+20	What is the world's most famous soccer video game?	FIFA	Easy	2	0
+20	What is the name of the main character in Tomb Raider?	Lara Croft	Easy	3	0
+20	In which year was the first Sega console released?	1978	Hard	3	0
+20	What is the majority of the Cell nucleus?	Cell neclei	Hard	3	0
+20	What is periodic table 14th element?	Arginin	Hard	2	0
+20	What is translated from RNA in the Cell?	mRNA	Medium	3	0
+20	What sport is called soccer for americans and involve kicking a ball?	Football	Easy	3	0
+20	What sport in India resembles tag?	Bakkadi	Hard	3	0
+20	What is the longest distance flown in skiflying?	100m	Hard	3	0
+20	What is a baby dog called?	Puppy	Easy	3	0
+20	what colour is the sky?	Blue	Easy	3	0
+20	What would come after T in the sequence F, S, S, E, N, T?	T	Hard	1	1
+20	It can be both electric and acoustic, what is it?	Guitar	Medium	1	1
+20	What Michael Jackson song had the first Music video on MTV?	Thriller	Medium	3	0
+20	What is the common hearing range for a human?	50db	Hard	2	0
+20	What game is known for stealing cars and beating/killing people?	Grand Theft Auto	Easy	3	0
+20	What is the largest crowdsources videogame to date?	WoW	Easy	1	0
+20	In what popular videogame depicting the west against east did a third Eastern affected scifi side appear?	Sims	Hard	2	0
+21	Who was the first programmer?	Ava Leonde	Hard	1	0
+21	What compound is a common component of air pollution, but is essential in the upper atmosphere to protect life on earth?	O3	Medium	3	0
+21	What poisonous alkaloid is extracted from tobacco leaves and widely used as an insecticide?	Pitch	Hard	2	0
+21	 How many players, including the goaltender, make up an ice hockey team?	7	Hard	2	0
+21	Who won the 2013 Tour de France?	Great Britain	Hard	1	0
+21	In polo, what is a period of play called?	Game	Hard	1	1
+21	Which big country is closest to New Zealand?	Australia	Medium	3	0
+21	How many colours are in a rainbow?	7	Hard	3	0
+21	What is the name of the bear in The Jungle Book?	Baloo	Easy	3	1
+21	Which is the most popular song from Ludwig van Beethoven?	Moonlight sonata	Hard	2	1
+21	What is the first name of compose Vivaldi?	Antonio	Hard	3	0
+21	What city hosted the Beatles as the resident band at the Kaiserkeller and Top Ten Club?	Hamburg	Medium	2	1
+21	What is the highest selling video game console of all time?	PlayStation	Easy	3	1
+21	What was the first console to have an analog stick and 3D graphics?	Nintendo 64	Medium	3	0
+21	True or False? A British man had his name legally changed to PlayStation.	False	Easy	3	0
+21	In what SI-unit is thermodynamic temperature measured?	Kelvin	Easy	3	0
+21	What is the process of changing magnetic fields to generate power called?	Electromagnetic induction	Hard	3	0
+21	International Business Machines Corporation (IBM)?	True	Easy	1	1
+21	Which title does Nichlas Bendtner have?	Lord	Medium	2	1
+21	Which players has the most super bowl wins?	Tom Brady	Hard	1	1
+21	From which country does Handball origin?	Denmark	Easy	2	0
+21	Which teletubbie is green?	Dipsy	Easy	3	1
+21	What is the shadow called in The Bear In The Big Blue House	Luna	Medium	2	1
+21	What is the name of the main villain in Kim Possible?	Dr. Drakken	Medium	2	1
+21	In what band was John Lennon vocalist?	The Beatles	Easy	3	0
+21	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	T.N.T	Medium	2	0
+21	In which year was the album "Random Access Memories" by Daft Punk released?	2010	Hard	2	0
+21	Which company release the Playstation 4?	Sony	Easy	1	0
+21	Who is the creator of Mario?	Shigeru Miyamoto	Hard	3	0
+21	How many game systems (consoles & portable consoles) has Nintendo release?	10	Medium	3	0
+21	Who was the first female computer scientist?	Ada Lovelace	Hard	1	0
+21	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean	Medium	2	0
+21	What is the formula for Newton's Second Law?	F = m*a	Medium	3	0
+21	Who is the most famous football player from MalmÃ¶?	Sven Nilsson	Hard	1	1
+21	How many holes are there in a round of a golf game?	24	Hard	3	0
+21	In what countries was the Rugby World Cup first held? 	GB	Medium	3	0
+21	What equals 10+10?	20	Easy	3	0
+21	What is the name of Dora the explorers monkey friend?	Boots	Medium	3	1
+21	What is the chemical formula for water?	H2O	Easy	3	0
+21	What is the famous song called from the movie Titanic? 	Celine Dion -	Hard	2	1
+21	What was the name of the band that Michael Jackson was a part of with his siblings?	The Jackson 5	Hard	3	0
+21	Who composed the classical music for the Swan Lake?	Czheicovsky	Hard	3	0
+21	What is the famous football video game called?	FIFA	Easy	3	0
+21	What game is Lara Croft associated with?	Tomb Raider	Medium	2	0
+21	What do you need to write to get a lot of money for free in Sims?	NeedMoreMonei	Hard	3	1
+22	Who founded Apple computers?	Steve Jobs	Easy	2	0
+22	In machine learning you have two types of learning, what are they?	Supervised and Unsupervised	Hard	1	1
+22	How many computer languages are in use?	200	Hard	1	1
+22	Which sport does Christiano Ronaldo play?	Football	Easy	2	0
+22	Who won the world cup in soccer in 2018?	France	Easy	2	0
+22	How much will it cost advertisers to air a 30-second commercial during the 2019 Super Bowl? (In US dollars)	30000000	Hard	3	0
+22	What is Cartoon Network?	TV Channel	Easy	1	1
+22	What is the snowman in frozen called?	Olaf	Easy	3	0
+22	Who is the human leader of Paw Patrol?	Ryder	Medium	2	0
+22	Who made the song "Dancing Queen"?	ABBA	Easy	3	0
+22	Who made the album Channel Orange?	Frank Ocean	Hard	3	0
+22	When was the song 'Believe' by Cher released?	1998	Hard	2	0
+22	What is the name of Super Marios brother?	Mario & Luigi	Easy	3	0
+22	What is the genre of Fortnite?	Battle Royale	Easy	3	0
+22	What is the most played game for PS1?	Metal Gear Solid	Hard	1	1
+22	What is Linux's creator's full name?	Linus Torvalds	Hard	3	0
+22	Which country in the world has maximum number of robots working?	South Korea	Medium	2	0
+22	 A type glass that is highly resistant to heat?	Pyrex Glass	Hard	1	1
+22	Who won the superligaen in 2017/2018	Football Club Copenhagen	Medium	2	0
+22	Who is number 1 in golf right now	Justin Rose	Hard	2	0
+22	Who scored the most goals in superligaen in fall 2018	PÃ¥l Alexander Kirkevold	Hard	1	0
+22	Who invented the telephone?	Alexander Graham Bell	Easy	3	0
+22	Tired people need what? 	Sleep	Easy	1	1
+22	Where did the Olympic Games originate?	Greece	Easy	3	0
+22	What was the Beatles biggest selling single?	She Loves You	Hard	3	0
+22	What was George Michael's first solo hit called?  	I Knew You Were Waiting (For Me)	Hard	3	0
+22	In which decade was Dolly Parton born?	1940s	Hard	2	0
+22	Which game was the first to release on the Nintendo 64	Super Mario 64 & Pilotwings 64	Hard	2	1
+22	Which console has sold the most	PlayStation 2	Hard	3	0
+22	What is the top rated game on metacritic	The Legend of Zelda: Ocarina of Time	Hard	3	0
+22	How many bits is a byte?	8	Easy	3	0
+22	In terms of computing, what does GPU stand for?	Graphics processing unit	Medium	3	0
+22	What year was the first x86 microprocessor introduced?	1978 	Hard	3	0
+22	What country hosted the Summer Olympic Games in 2016?	Brazil	Easy	3	0
+22	In darts, what is the highest score possible with three darts?	180	Easy	3	0
+22	What is the highest possible break in snooker?	147	Hard	3	0
+22	What is the center of a dartboard called?	Bull	Medium	3	0
+22	Which famous Disney movie features a song called 'Hakuna Matata'?	The Lion King	Easy	3	0
+22	What is the name of the toy cowboy in Toy Story?	Woody	Easy	3	0
+22	Freddie Mercury was the lead vocalist of which rock band?	Queen	Easy	3	0
+22	7 rings' is a song by which American singer?	Ariana Grande	Medium	2	0
+22	What was the debut album of Daft Punk called?	Homework	Hard	3	0
+22	WoW is an acronym for which Blizzard game?	World of Warcraft	Easy	3	0
+22	Which year was Fallout 3 released?	2008	Hard	3	0
+22	KAG is an acronym for which indie game?	King Arthur's Gold	Hard	2	0
+23	In what SI-unit is thermodynamic temperature measured?	K	Hard	2	0
+23	What is the process of changing magnetic fields to generate power called?	dont know	Hard	2	0
+23	International Business Machines Corporation (IBM)?	How is this a question	Hard	1	1
+23	Which title does Nichlas Bendtner have?	Asshole	Hard	1	1
+23	Which players has the most super bowl wins?	Michael Ford	Hard	1	1
+23	From which country does Handball origin?	Denmark	Medium	1	1
+23	Which teletubbie is green?	Dipsy	Hard	2	0
+23	What is the shadow called in The Bear In The Big Blue House	Blop	Hard	2	0
+23	What is the name of the main villain in Kim Possible?	snopp	Hard	1	0
+23	In what band was John Lennon vocalist?	The Beatles	Easy	3	0
+23	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	The first album	Hard	2	0
+23	In which year was the album "Random Access Memories" by Daft Punk released?	2005	Medium	2	0
+23	Which company release the Playstation 4?	Sony Computer Entertainment 	Medium	2	0
+23	Who is the creator of Mario?	Shigeru Miyamoto	Medium	2	0
+23	How many game systems (consoles & portable consoles) has Nintendo release?	7	Hard	2	0
+23	What does the acronym HDD stand for?	Hard Disk Drive	Medium	2	1
+23	What is the largest animal that ever lived on Earth?	Dinosaur	Medium	2	0
+23	In what year did IBM introduce its first personal computer?	1981	Medium	3	0
+23	Name the sport where two teams compete to throw an orange ball into hoops	Basket ball	Easy	2	1
+23	What country won the FIFA World Cup in 2014	Germany	Hard	2	0
+23	In what year was the first FIFA World Cup held?	1970	Hard	1	0
+23	In what popular show are various creatures captured in red and white balls?	PokÃ©mon 	Easy	2	1
+23	What colour are Smurfs?	Blue	Easy	2	0
+23	Who created Pinocchio in the Disney film of the same name?	papa	Hard	1	0
+23	What instrument does a pianist play?	Piano	Easy	2	1
+23	Which British singer wrote the song 'Shape of You'?	Ed Sheeran 	Easy	3	0
+23	Which album was awarded a Grammy for best album at the first annual Grammy awards in 1958?	momo	Hard	1	0
+23	What is the name of the blue hedgehog who likes to run fast?	speedoz	Hard	1	1
+23	In what game did we first encounter Mario (then Jumpman)?	escaping adulthood	Hard	1	0
+23	What release of Microsoft Windows was the first to include the game 'Microsoft Solitaire'?	MR lonely guy	Hard	1	0
+23	What does CPU stand for?	cetral processing unit	Medium	3	0
+23	Have humans ever been to Mars.	no	Medium	2	0
+23	How many laws of thermodynamics are there?	3	Medium	2	0
+23	Who won the World Cup in 2018?	France	Easy	2	0
+23	What national team does Cristiano Ronaldo play for?	Juventus F.C	Medium	2	0
+23	What club does Robert Lewandowski play for?	poop	Hard	1	0
+23	What is 0 x 8?	0	Easy	3	0
+23	What is the lastname of the author of Harry Potter?	Rowling	Easy	3	0
+23	What year did World War Two end?	1945	Medium	3	0
+23	What instrument did Jimi Hendrix play?	Electric Guitar	Easy	3	1
+23	Who is the lead singer of Metallica?	Someone cool	Hard	2	0
+23	What band did John Frusciante play in?	nope	Hard	2	0
+23	What is the most popular game console?	Nintendo	Hard	2	0
+23	What is the name of the most recent Call of Duty entry?	Hank	Hard	1	0
+23	How many swords does Geralt (the witcher) carry?	4	Hard	1	0
+24	What does water turn in to below 0 degrees celsius?	ice	Easy	2	0
+24	What is the device called for locating objects under the sea?	radar	Medium	3	0
+24	What is the method called when you grow plants without using soil?	soiless planting	Hard	3	0
+24	What is the sport called, where two players compete on an orange court, shooting a yellow ball between them?	tennis	Easy	3	0
+24	How many players has a hockey team got on the ice? 	do not know	Medium	1	0
+24	What was the Olympic city of 1992?	Bercelona	Medium	2	0
+24	What do hungry people need?	food	Easy	3	0
+24	What is the capital of Hawaii?	Honolulu	Medium	3	0
+24	The Statue of Liberty was gifted to the United States by which country? 	France	Easy	3	0
+24	Who rose to fame in 2008 with the release of the single I Kissed a Girl?	katy parry	Hard	2	0
+24	In which European city was Swedish pop group ABBA formed in 1972?	stockholm	Hard	3	0
+24	What is the better known stage name of Robyn Fenty?	do not know	Hard	1	0
+24	What is the game called that is sometimes abbreviated by CS?	Counter strike	Medium	3	0
+24	In which game is every assassinated person a real historical person with accurate death date and place? 	do not know	Hard	3	0
+24	Which year was Fallout 3 released?	2008	Hard	1	0
+24	What is the absolute value of -4? - "4"? "16"? "-4"? "0"?'	4	Easy	2	0
+24	What is the term for a matrix with pairwise orthonormal vectors"? - "Orthogonal matrix"? "Orthonormal matrix"? "Gram matrix"? "Perpendicular matrix"?'	orthogonal matrix	Medium	1	0
+24	In the programming language F#, a computation expression is..? - "An expression used in list comprehensions"? "A monad"? "A parallelizable expression"? "Computations with the 'unit' type"?'	a monad	Hard	1	0
+24	Micheal Jordan is inducted into the Hall of Fame in which sport? - "Basketball"? "Cycling"? "Cricket"? "Curling"?'	Basketball	Easy	3	0
+24	Which of the following female athletes won the gold medal for Denmark in swimming at the 2016 Rio de Janerio Olympic Games? - "Jeanette Ottesen"? "Pernille Blume"? "Sarah Bro"? "Julie Kepp Jensen"? '	Jeanette Ottesen	Medium	2	0
+24	In which of the following four years did Denmark win the most gold medals at the olympic game? - "1996, Atlanta"? "2000, Sydney"? "2004, Athens"? "2008, Beijing"?'	2008,Beijing	Hard	3	0
+24	What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - "Red and Yellow"? "Green and White"? "Black and Blue"? "Blue and Purple"?' 	black and blue 	Hard	3	0
+24	SpongeBob SquarePants has a best friend, what is his name? - "Mr. Krabs"? "Patrick Star"? "Squidward tentacles"? "David Hasselhoff"?'	Patrick Star	Easy	3	0
+24	Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - "Rubble"? "Sky"? "Marshall"? "Tracker"?'	Sky	Hard	3	0
+24	This guy had a hit song called Papirsklip - "Bent Mejding"? "Kim Larsen"? "Johnny Madsen"? "Jarl Friis Mikkelsen"?'	Kim Larsen	Medium	1	0
+24	Which artist made the song Ring of Fire? - "Johnny Cash"? "Willie Nelson"? "George Jones"? "Hank Williams"?' 	Johnny Cash	Easy	2	0
+24	Who made the song "Get low" featured on the soundtrack of the videogame "Need for Speed: Underground"? - "Ludacris"? "Lil Wayne"? "Lil John"? "Nate Dogg"?' 	Ludacris	Hard	2	0
+24	What gaming company created the character Mario? - "Nintendo"? "Sony"? "Microsoft"? "Sega"?'	Nintendo	Easy	3	0
+24	What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - "Oblivion"? "Arena"? "Morrowind"? "Skyrim"?'	Morrowind	Hard	1	0
+24	The secret organization "La-li-lu-le-lo" is mentioned in what game series? - "Mass Effect"? "Metal Gear Solid"? "World of Warcraft"? "Grand Theft Auto"?'	Metal Gear Solid	Medium	2	0
+24	Who is the only danish recipient of a Turing Award?	Do not know	Hard	2	0
+24	What is the first 6 digits of Pi?	3.14159	Easy	3	0
+24	What is the melting point of Uranium in Kelvin?	1405K	Hard	1	0
+24	Who was the top scorer at the 2002 World Cup in Football?	Ronaldo	Easy	3	0
+24	Which club has won the most Danish championships in football?	Do not know	Hard	3	0
+24	Besides Celtic and Ranger, which club has most recently won the Scottish championship in football?	Do not know	Hard	1	0
+24	Name the missing Teletubbie besides Laa-Laa, Po and Tinky Winky?	Dispy	Easy	3	0
+24	What is the name of Dexter's annoying sister?	Debra Morgan	Medium	2	0
+24	Who is the owner of Pluto?	Minnie Mouse	Easy	3	0
+24	Who wrote the 1976 hit 'Rich Girl'?	Darly Hall	Hard	3	0
+24	New Order formed after the lead singer in Joy Division hung himself. What was his name?	Ian Kevin Curtis	Hard	1	0
+24	Who produced Iggy Pop's debut album 'The Idiot'?	Do not know	Hard	1	0
+24	What color is Mario's hat?	red	Easy	3	0
+24	Which year was the first PlayStation released in Japan?	1994	Medium	2	0
+24	When was Donkey Kong first released?	1981	Hard	3	0
+25	In what SI-unit is thermodynamic temperature measured?	Celsius	Medium	3	0
+25	What is the process of changing magnetic fields to generate power called?	induction	Medium	3	0
+25	International Business Machines Corporation (IBM)?		Hard	1	1
+25	Which title does Nichlas Bendtner have?	-	Hard	1	0
+25	Which players has the most super bowl wins?	Charles Haley	Hard	1	0
+25	From which country does Handball origin?	-	Hard	1	0
+25	Which teletubbie is green?	tinki winky	Easy	2	0
+25	What is the shadow called in The Bear In The Big Blue House	-	Hard	1	0
+25	What is the name of the main villain in Kim Possible?		Hard	2	0
+25	In what band was John Lennon vocalist?	The Beatles	Medium	3	0
+25	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	-	Medium	3	0
+25	In which year was the album "Random Access Memories" by Daft Punk released?	-	Hard	1	0
+25	Which company release the Playstation 4?	Sony	Easy	3	0
+25	Who is the creator of Mario?	Shigeru Miyamoto	Hard	2	0
+25	How many game systems (consoles & portable consoles) has Nintendo release?	5	Hard	1	0
+25	Which company creates phones, computers, etc. and has its own operating system?	Apple	Easy	3	0
+25	To what company ShareLaTeX was sold?	Overleaf	Medium	3	0
+25	What is the annual technology conference which is held in January?	-	Hard	1	1
+25	What is the name of a game where you have to kick a ball with your foot?	Football	Easy	3	0
+25	Who won 2018 FIFA world cup?	Spain	Medium	3	0
+25	Who won 2018 Formula 1 season?	-	Medium	3	0
+25	What color is Lemon?	yellow	Easy	2	0
+25	What is the name of a walking dog character in Donald Duck?	Duffy	Easy	3	0
+25	What is the color of Aubergine?	blue	Hard	1	0
+25	What kind of music does Skrillex perform?	dubstep	Easy	3	0
+25	Which country won the 2018 eurovision?	Germany	Medium	3	0
+25	Which composer was deaf?	Ludwig van Beethoven	Easy	3	0
+25	Which company does Blizzard belong to? 	Activision	Medium	3	0
+25	Who publishes the Mario games?	Nintendo	Easy	2	0
+25	MMO RPG greated by Blizzard?	World of Warcraft	Easy	3	0
+25	Who was the first female computer scientist?	Ada Lovelace	Easy	3	0
+25	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras's theorem	Easy	3	0
+25	What is the formula for Newton's Second Law?	a=F/m	Medium	3	0
+25	Who is the most famous football player from MalmÃ¶?	-	Hard	3	0
+25	How many holes are there in a round of a golf game?	18	Medium	3	0
+25	In what countries was the Rugby World Cup first held? 	USA	Medium	3	0
+25	What equals 10+10?	20	Easy	3	0
+25	What is the name of Dora the explorers monkey friend?	-	Easy	3	0
+25	What is the chemical formula for water?	H2O	Easy	3	0
+25	What is the famous song called from the movie Titanic? 	-	Medium	3	0
+25	What was the name of the band that Michael Jackson was a part of with his siblings?	-	Easy	3	0
+25	Who composed the classical music for the Swan Lake?	-	Easy	3	0
+25	What is the famous football video game called?	FIFA	Easy	3	0
+25	What game is Lara Croft associated with?	Tomb Raider	Easy	3	0
+25	What do you need to write to get a lot of money for free in Sims?	motherlode	Medium	3	0
+26	What is a sum of triangle angles?	180	Medium	3	0
+26	When was a first iPhone released?	2007	Easy	3	0
+26	Which year was electricity invented?	1850	Hard	1	0
+26	How many players are on the field when playing football?	12	Hard	1	0
+26	Who has won most olympic medals?	Greece	Medium	2	0
+26	Which year were the first modern Olympic Games held?	1600	Hard	2	0
+26	How many days are in a week?	7	Easy	3	0
+26	With who was Nemo's father accompanied during looking for his son?	Dory	Easy	3	0
+26	What is the oldest animatedÂ film released by Disney?	Snow White	Easy	3	0
+26	What is the first name of Amadeus Mozart?	Amadeus	Medium	2	0
+26	How many keys has a piano?	75	Hard	3	0
+26	When was The Beatles formed?	1980	Medium	3	0
+26	What color is a Super Mario's cap?	Red	Easy	3	0
+26	What is the most popular racing game created by EA?	FIFA	Easy	3	0
+26	What is a first video game invented?	No idea	Hard	3	0
+26	How many weeks are in a year?	52	Easy	3	0
+26	What is the smallest prime number?	2	Easy	3	0
+26	What is the heaviest organ in the human body	Skin	Medium	2	0
+26	How many members are in a football team?	15	Hard	1	0
+26	Where is the birthplace of golf?	America	Hard	2	0
+26	Which football player keeps the highest goal scoring record?	Messi	Hard	2	0
+26	Who wrote the little match girl?	No idea	Medium	1	0
+26	What is the name of Cinderella's prince?	Prince charming	Easy	3	0
+26	Is yellow one of the standard additive primary colors of light?	No	Easy	3	0
+26	What is the birth country of FrÃ©dÃ©ric Chopin?	I do not know	Hard	1	0
+26	What is the Best-Selling Albums in History?	Abbas album?	Medium	2	0
+26	Which song did India Arie sing during the 60th Annual Grammy Awards?	I do not know	Hard	2	0
+26	When was Fortnite released?	2017	Easy	3	0
+26	What is the publisher of game League of Legends?	I dont know	Medium	3	0
+26	When was the first Star Wars video game created?	2000	Hard	3	0
+26	What number on the pH-scale indicates a neutral value?	7	Easy	3	0
+26	What is the smallest planet in our solar system?	Pluto	Easy	3	0
+26	How many teeth do a white shark have? (approx.)	50	Hard	3	1
+26	What colour is the ball in tennis?	Green	Easy	3	0
+26	What is the name of the computer program that plays Go?	I dont know	Hard	1	0
+26	How many children do Cristiano Ronaldo has?	3	Medium	2	0
+26	What is the name of Harry Potter's best friend?	Ron and Hermione	Easy	3	1
+26	How many minutes are there in one hour?	60	Easy	3	0
+26	What is the name of Santa Clause's 8 reindeers?	I only know Rudolf	Hard	2	1
+26	What is the name of the band behind "Barbie Girl"?	Aqua	Easy	3	0
+26	Which famous duo made a song for the movie "The Graduate"?	I dont know	Hard	2	0
+26	In what year did Louis Armstrong die?	I dont know	Hard	2	0
+26	What does L.O.L. stand for?	League of Legends	Easy	3	0
+26	What colour is Toad's west? (Mario)	white or red?	Medium	3	1
+26	In which game can a player declare "OHH CHIBLETS!!"	I dont know	Hard	1	0
+27	What is the absolute value of -4? - "4"? "16"? "-4"? "0"?'	4	Easy	3	0
+27	What is the term for a matrix with pairwise orthonormal vectors"? - "Orthogonal matrix"? "Orthonormal matrix"? "Gram matrix"? "Perpendicular matrix"?'	Orthonormal matrix	Hard	1	0
+27	In the programming language F#, a computation expression is..? - "An expression used in list comprehensions"? "A monad"? "A parallelizable expression"? "Computations with the 'unit' type"?'	A parallelizable expression	Hard	1	0
+27	Micheal Jordan is inducted into the Hall of Fame in which sport? - "Basketball"? "Cycling"? "Cricket"? "Curling"?'	Basketball	Easy	3	0
+27	Which of the following female athletes won the gold medal for Denmark in swimming at the 2016 Rio de Janerio Olympic Games? - "Jeanette Ottesen"? "Pernille Blume"? "Sarah Bro"? "Julie Kepp Jensen"? '	Pernille Blume	Hard	1	1
+27	In which of the following four years did Denmark win the most gold medals at the olympic game? - "1996, Atlanta"? "2000, Sydney"? "2004, Athens"? "2008, Beijing"?'	2000, Sydney	Hard	1	0
+27	What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - "Red and Yellow"? "Green and White"? "Black and Blue"? "Blue and Purple"?' 	Green and White	Medium	2	0
+27	SpongeBob SquarePants has a best friend, what is his name? - "Mr. Krabs"? "Patrick Star"? "Squidward tentacles"? "David Hasselhoff"?'	Patrick Star	Easy	3	0
+27	Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - "Rubble"? "Sky"? "Marshall"? "Tracker"?'	Sky	Hard	2	0
+27	This guy had a hit song called Papirsklip - "Bent Mejding"? "Kim Larsen"? "Johnny Madsen"? "Jarl Friis Mikkelsen"?'	Kim Larsen	Hard	1	0
+27	Which artist made the song Ring of Fire? - "Johnny Cash"? "Willie Nelson"? "George Jones"? "Hank Williams"?' 	Johnny Cash	Easy	3	0
+27	Who made the song "Get low" featured on the soundtrack of the videogame "Need for Speed: Underground"? - "Ludacris"? "Lil Wayne"? "Lil John"? "Nate Dogg"?' 	Ludacris	Medium	1	0
+27	What gaming company created the character Mario? - "Nintendo"? "Sony"? "Microsoft"? "Sega"?'	Nintendo	Easy	3	0
+27	What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - "Oblivion"? "Arena"? "Morrowind"? "Skyrim"?'	Oblivion	Medium	1	0
+27	The secret organization "La-li-lu-le-lo" is mentioned in what game series? - "Mass Effect"? "Metal Gear Solid"? "World of Warcraft"? "Grand Theft Auto"?'	Grand Theft Auto	Hard	1	0
+27	What does a light-year measure?	distance that light travels in one year	Medium	1	0
+27	Which country in the world has maximum number of robots working?	China	Medium	1	0
+27	The fear of being out of mobile phone contact is known as?	Fear of missing out	Hard	1	0
+27	What is the object that hockey players send across the ice called?	puck	Easy	3	0
+27	What is the nickname of the Belgian national soccer team? 	I don't know	Medium	1	0
+27	How long must a billiard cue be?	50cm	Medium	1	0
+27	How many years are there in a millennium?	1000	Easy	3	0
+27	How many colours are in a rainbow?	7	Easy	3	0
+27	What is the first element on the periodic table of elements?	hydrogen	Medium	3	0
+27	Who was the lead singer of the band "Queen"?	I don't know	Medium	2	0
+27	How many strings does a violin usually have?	4	Medium	2	0
+27	What is the name of Nirvana's debut album?	I don't know	Hard	2	0
+27	What does Mario jump on after completing a level?	mushroom	Easy	2	0
+27	Which field of study is the basis of the Tomb Raider?	archeology	Medium	2	0
+27	Name the creator of PS4?	Sony	Hard	2	0
+27	In what SI-unit is thermodynamic temperature measured?	celcius	Hard	1	0
+27	What is the process of changing magnetic fields to generate power called?	I don't know	Hard	2	0
+27	International Business Machines Corporation (IBM)?		Hard	1	1
+27	Which title does Nichlas Bendtner have?	Sir	Hard	1	1
+27	Which players has the most super bowl wins?	Brady	Hard	1	1
+27	From which country does Handball origin?	Germany	Hard	2	0
+27	Which teletubbie is green?	Bubu	Easy	1	0
+27	What is the shadow called in The Bear In The Big Blue House	I don't know	Hard	2	0
+27	What is the name of the main villain in Kim Possible?	I don't know	Medium	2	0
+27	In what band was John Lennon vocalist?	Beatles	Easy	3	0
+27	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	I don't know	Hard	2	0
+27	In which year was the album "Random Access Memories" by Daft Punk released?	1998	Hard	2	0
+27	Which company release the Playstation 4?	Sony	Easy	3	0
+27	Who is the creator of Mario?	Nintendo 	Easy	3	0
+27	How many game systems (consoles & portable consoles) has Nintendo release?	24	Hard	2	0
+28	Who founded Apple computers?	Steve Jobs	Easy	1	0
+28	In machine learning you have two types of learning, what are they?	Supervised and unsupervised	Medium	1	1
+28	How many computer languages are in use?	1000	Hard	1	1
+28	Which sport does Christiano Ronaldo play?	Soccer	Easy	2	0
+28	Who won the world cup in soccer in 2018?	France	Medium	3	0
+28	How much will it cost advertisers to air a 30-second commercial during the 2019 Super Bowl? (In US dollars)	10000000	Hard	2	0
+28	What is Cartoon Network?	cartoon network	Easy	3	0
+28	What is the snowman in frozen called?	Olaf	Medium	3	0
+28	Who is the human leader of Paw Patrol?	ryder	Medium	3	0
+28	Who made the song "Dancing Queen"?	Abba	Easy	3	0
+28	Who made the album Channel Orange?	Frank ocean	Medium	3	0
+28	When was the song 'Believe' by Cher released?	1998	Hard	1	0
+28	What is the name of Super Marios brother?	Luigi	Easy	3	0
+28	What is the genre of Fortnite?	Battle Royal	Medium	3	0
+28	What is the most played game for PS1?	Metal gear solid	Hard	1	1
+28	Who invented the light bulb?	Edison	Medium	3	0
+28	Who is the only woman to have ever received two Nobel prizes?	Marie Curie	Hard	3	0
+28	What's the most expensive material on Earth?	Californium	Hard	2	0
+28	What's the name of the final of the NFL (National Football League)?	Super bowl	Easy	3	0
+28	What's the second country with more Olympic medals won?	Russia	Medium	3	0
+28	How many modern Olympic Summer Games have there been?	28	Hard	3	0
+28	Who lives in a pineapple under the sea?	Patrick	Medium	3	0
+28	What's the name of the reindeer in Frozen?	Anna	Medium	3	0
+28	What is the top color in a rainbow? 	red	Medium	3	0
+28	For which song did Toy Story get nominated to the Oscar?	You've Got a Friend in Me	Medium	3	0
+28	At what age did Jimmy Hendrix, Janis Joplin and Kurt Cobain die?	27	Easy	3	0
+28	How many nominations to the Oscar has John Williams received?	51	Hard	3	0
+28	What's the name of the most famous Italian plumber brothers?	Mario Brothers	Medium	3	0
+28	Who is the protagonist of the video game series Halo?	Master Chief	Easy	3	0
+28	In what year was Space Invaders released?	1978	Hard	3	0
+28	How many bits is a byte?	8	Easy	3	0
+28	In terms of computing, what does GPU stand for?	Graphical processing unit	Easy	3	0
+28	What year was the first x86 microprocessor introduced?	1978	Hard	1	0
+28	What country hosted the Summer Olympic Games in 2016?	Rio	Easy	3	0
+28	In darts, what is the highest score possible with three darts?	180	Medium	3	0
+28	What is the highest possible break in snooker?	155	Hard	3	0
+28	What is the center of a dartboard called?	Bullseye	Easy	3	0
+28	Which famous Disney movie features a song called 'Hakuna Matata'?	The lion king	Easy	3	0
+28	What is the name of the toy cowboy in Toy Story?	Woody	Medium	3	0
+28	Freddie Mercury was the lead vocalist of which rock band?	Queen	Easy	3	0
+28	7 rings' is a song by which American singer?	Ariana grande	Medium	3	0
+28	What was the debut album of Daft Punk called?	Homework	Medium	3	0
+28	WoW is an acronym for which Blizzard game?	World of Warcraft	Easy	3	0
+28	Which year was Fallout 3 released?	2008	Medium	3	0
+28	KAG is an acronym for which indie game?	King Arthur's Gold	Hard	2	0
+29	Which planet is the 4th from the Sun?	Mars	Easy	3	0
+29	Who won the Nobel Prize in Physiology or Medicine in 1962?	James Watson	Medium	2	0
+29	What is the lower bound for sorting an array by comparisons?	N	Medium	1	0
+29	When did Denmark win the European Championship in Football?	1992	Medium	3	0
+29	What sport did Peter Gade, from Denmark, compete in?	Handballl	Medium	2	0
+29	How was the first person to climb El Capitan in Yosemite National Park without safety gear?	I dont know	Hard	2	0
+29	What color is a banana?	Yellow	Easy	2	0
+29	What is 7 x 7?	49	Easy	2	0
+29	What is the airspeed velocity of an unladen (European) swallow?	I dont know	Hard	2	1
+29	Who performed the album Thriller?	Michael Jackson	Easy	3	0
+29	Earth, Wind and ____?	Fire	Medium	3	0
+29	Who performed the hit Baker Street?	I dont know	Hard	2	0
+29	What is the name of World of Warcraft's first expansion?	One	Easy	1	0
+29	What is the name of the main playable character from The Witcher 3?	Bald man stevens	Medium	2	0
+29	Which studio made Divinity: Original Sin 2?	Divinity	Easy	1	0
+29	What does the acronym HDD stand for?	Human Development Division	Easy	1	1
+29	What is the largest animal that ever lived on Earth?	Blue Whale	Easy	2	0
+29	In what year did IBM introduce its first personal computer?	1980	Medium	2	0
+29	Name the sport where two teams compete to throw an orange ball into hoops	Basketball	Easy	3	0
+29	What country won the FIFA World Cup in 2014	Germany	Easy	3	0
+29	In what year was the first FIFA World Cup held?	1918	Easy	2	0
+29	In what popular show are various creatures captured in red and white balls?	Pokemon	Easy	3	0
+29	What colour are Smurfs?	Blue	Easy	3	0
+29	Who created Pinocchio in the Disney film of the same name?	Walt Disney	Easy	3	0
+29	What instrument does a pianist play?	Piano	Easy	3	0
+29	Which British singer wrote the song 'Shape of You'?	Ed Sheeran 	Easy	3	0
+29	Which album was awarded a Grammy for best album at the first annual Grammy awards in 1958?	IDK	Hard	2	0
+29	What is the name of the blue hedgehog who likes to run fast?	Sonic 	Easy	3	0
+29	In what game did we first encounter Mario (then Jumpman)?	Mario Kart	Easy	2	0
+29	What release of Microsoft Windows was the first to include the game 'Microsoft Solitaire'?	1990	Hard	3	0
+29	Who was the first female computer scientist?	Ada Lovelace	Hard	3	0
+29	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	1	0
+29	What is the formula for Newton's Second Law?	F = MA	Easy	2	0
+29	Who is the most famous football player from MalmÃ¶?	Zlatan Ibrahamovich 	Easy	1	1
+29	How many holes are there in a round of a golf game?	12	Medium	2	0
+29	In what countries was the Rugby World Cup first held? 	Australia and New Zealand 	Medium	1	0
+29	What equals 10+10?	20	Easy	2	0
+29	What is the name of Dora the explorers monkey friend?	Dora	Medium	2	0
+29	What is the chemical formula for water?	H20	Easy	3	0
+29	What is the famous song called from the movie Titanic? 	My heart will go on 	Medium	2	0
+29	What was the name of the band that Michael Jackson was a part of with his siblings?	Jackson 5	Easy	3	0
+29	Who composed the classical music for the Swan Lake?	IDK	Hard	2	0
+29	What is the famous football video game called?	FIFA	Easy	1	1
+29	What game is Lara Croft associated with?	Lara Croft	Medium	1	0
+29	What do you need to write to get a lot of money for free in Sims?	IDK	Hard	2	0
+30	What is the atomic number of Hydrogen	1	Easy	3	0
+30	Who is the original creator of GIT	No idea	Hard	2	0
+30	Who is the original creator of the Command line tool GREP	No clue	Hard	1	0
+30	How many European Championships in Football does Denmark have	2	Medium	1	0
+30	What was Derrick Rose's initial injury that derailed his career	Who's Derrick Rose?	Hard	2	0
+30	Who has scored the most points in the history of the NBA 	Michael Jordan	Medium	1	0
+30	Who is the president of the United States	Donald J. Trump	Easy	3	0
+30	Which president freed the slaves in the United States	Abraham Lincoln	Easy	3	0
+30	Who was the first president of the United States	George Washington	Easy	3	0
+30	Which artist released the hit song "Tik Tok"	No idea	Hard	3	0
+30	Which artist made the song "You belong with me"	No idea	Hard	2	0
+30	Which year did Taylor Swift release the album "Fearless"	No idea	Medium	3	0
+30	What is the most popular soccer/football video game called	Football manager	Medium	3	0
+30	What was the 7th call of duty called	No idea	Hard	2	0
+30	Which year was black ops 1 released	No idea	Medium	1	0
+30	Which is the chemical formula for water?	H2O	Easy	3	0
+30	How is it called the rigid, outermost shell of a terrestrial type planet?	Crust	Easy	2	0
+30	What is the full form of RISC?	No clue	Hard	1	0
+30	Which national football team won the last man world cup?	Portugal	Medium	2	0
+30	Who is the most decorated Olympian of all time?	No idea	Hard	1	0
+30	Which is the men's world record on the 100 m race  (in seconds)?	8.62	Medium	1	0
+30	Who is the author of the Harry Potter series?	J. K. Rowling	Easy	3	0
+30	Which is the name of the animal nominated as the official mascot of the Walt Disney Company?	Mickey Mouse	Easy	1	0
+30	How is it called the Donald Duck's alter ego?	Can't remember	Easy	3	1
+30	From which country did The Beatles come from?	England	Easy	3	0
+30	Who is the writer of the song "Like a Rolling Stone"?	The Rolling Stones	Medium	3	0
+30	Which is the name of the album written by Roger Waters and published in 2017?	No idea	Medium	1	0
+30	Which is the name of the company known to be the creator of the game PokÃ¨mon?	Nintendo	Medium	3	0
+30	Which is the best-selling video game of all time?	Tetris	Easy	3	0
+30	When was the first Call Of Duty relased?	No idea	Medium	1	0
+30	What is the chemical formula of table salt?	NaCl	Medium	3	0
+30	What is the name of the organelle that is commonly referred to as "the powerhouse of the cell"?	Mitochondria	Easy	3	0
+30	Which type of hybridization yields four sigma bonds in a carbon atom?	No clue	Hard	3	0
+30	In which country did the martial art Judo originate?	Japan	Hard	3	0
+30	How are people practicing the Japanese martial art Judo referred to?	No idea	Medium	3	0
+30	Who created the martial art Judo?	No clue	Medium	3	0
+30	What is the name of the movie about a clownfish trying to find his son?	Finding Nemo	Easy	3	0
+30	What is the name of the stealing fox in Dora the Explorer?	Swiper	Medium	3	0
+30	Who is the voice actor behind Sandy in Spongebob Squarepants?	No idea	Hard	3	0
+30	How many strings does a guitar have?	Six	Easy	3	0
+30	What is the name of the stadium Queen performed at during Liva Aid?	Wembley	Medium	3	0
+30	What is the name of the ex-band member of Slipknot that was commonly know as Gnar?	No idea	Hard	3	0
+30	What is the name of the video game that revolves around catching, training and battling with creatures?	PokÃ©mon	Easy	3	0
+30	In the PokÃ©mon series, which generation was the first to feature the Pokemon Mudkip?	First	Hard	3	0
+30	In the PokÃ©mon game series, what level does Pupitar evolve into Tyranitar?	No idea	Hard	3	0
+31	What is the absolute value of -4? - "4"? "16"? "-4"? "0"?'	4	Easy	3	0
+31	What is the term for a matrix with pairwise orthonormal vectors"? - "Orthogonal matrix"? "Orthonormal matrix"? "Gram matrix"? "Perpendicular matrix"?'	Orthogonal matrix	Hard	2	0
+31	In the programming language F#, a computation expression is..? - "An expression used in list comprehensions"? "A monad"? "A parallelizable expression"? "Computations with the 'unit' type"?'	An expression used in list comprehensions	Hard	1	0
+31	Micheal Jordan is inducted into the Hall of Fame in which sport? - "Basketball"? "Cycling"? "Cricket"? "Curling"?'	Basketball	Easy	3	0
+31	Which of the following female athletes won the gold medal for Denmark in swimming at the 2016 Rio de Janerio Olympic Games? - "Jeanette Ottesen"? "Pernille Blume"? "Sarah Bro"? "Julie Kepp Jensen"? '	Pernille Blume	Medium	3	0
+31	In which of the following four years did Denmark win the most gold medals at the olympic game? - "1996, Atlanta"? "2000, Sydney"? "2004, Athens"? "2008, Beijing"?'	2000, Sydney	Medium	3	0
+31	What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - "Red and Yellow"? "Green and White"? "Black and Blue"? "Blue and Purple"?' 	Red and Yellow	Medium	3	0
+31	SpongeBob SquarePants has a best friend, what is his name? - "Mr. Krabs"? "Patrick Star"? "Squidward tentacles"? "David Hasselhoff"?'	Squidward Tentacles	Medium	3	0
+31	Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - "Rubble"? "Sky"? "Marshall"? "Tracker"?'	Sky	Hard	2	0
+31	This guy had a hit song called Papirsklip - "Bent Mejding"? "Kim Larsen"? "Johnny Madsen"? "Jarl Friis Mikkelsen"?'	Bent Mejding	Hard	2	0
+31	Which artist made the song Ring of Fire? - "Johnny Cash"? "Willie Nelson"? "George Jones"? "Hank Williams"?' 	Johnny Cash	Medium	3	0
+31	Who made the song "Get low" featured on the soundtrack of the videogame "Need for Speed: Underground"? - "Ludacris"? "Lil Wayne"? "Lil John"? "Nate Dogg"?' 	Lil John	Medium	3	0
+31	What gaming company created the character Mario? - "Nintendo"? "Sony"? "Microsoft"? "Sega"?'	Sony	Hard	3	0
+31	What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - "Oblivion"? "Arena"? "Morrowind"? "Skyrim"?'	Skyrim	Hard	3	0
+31	The secret organization "La-li-lu-le-lo" is mentioned in what game series? - "Mass Effect"? "Metal Gear Solid"? "World of Warcraft"? "Grand Theft Auto"?'	Mass Effect	Hard	3	0
+31	Who is the only danish recipient of a Turing Award?	Some old dude from DIKU	Hard	2	0
+31	What is the first 6 digits of Pi?	3.14156	Medium	3	0
+31	What is the melting point of Uranium in Kelvin?	270	Hard	3	0
+31	Who was the top scorer at the 2002 World Cup in Football?	Messi	Hard	3	0
+31	Which club has won the most Danish championships in football?	FCK	Medium	3	0
+31	Besides Celtic and Ranger, which club has most recently won the Scottish championship in football?	Yes	Hard	1	0
+31	Name the missing Teletubbie besides Laa-Laa, Po and Tinky Winky?	Dipsey	Easy	3	0
+31	What is the name of Dexter's annoying sister?	Deedee	Easy	3	0
+31	Who is the owner of Pluto?	Mickey Mouse	Medium	3	0
+31	Who wrote the 1976 hit 'Rich Girl'?	George Clooney	Hard	2	0
+31	New Order formed after the lead singer in Joy Division hung himself. What was his name?	Jurt Robain	Hard	3	0
+31	Who produced Iggy Pop's debut album 'The Idiot'?	Derp Dermain	Hard	3	0
+31	What color is Mario's hat?	White	Medium	3	0
+31	Which year was the first PlayStation released in Japan?	1992	Hard	3	0
+31	When was Donkey Kong first released?	1987	Hard	3	0
+31	Which country in the world has maximum number of robots working?	Japan	Medium	3	0
+31	A device used to measure the strength of magnetic field.	Magnemometor	Hard	3	0
+31	In which year did IT Act came into force in India?	2008	Hard	3	0
+31	What was the Olympic city of 1992 ?	Barcelona	Medium	3	0
+31	How long is an Olympic swimming pool?	50 meters	Medium	3	0
+31	In which country is the Interlagos F1-circuit ?	Italy	Medium	3	0
+31	Which character was Walt Disneyâs favorite?	Minnie Mouse	Medium	3	0
+31	Who is the quietest Disney princess?	Snow White	Medium	3	1
+31	Popeye has how many nephews?	7	Hard	3	0
+31	Miley Cyrus is the daughter of country singer Billy Ray Cyrus?	Yes	Medium	3	0
+31	What is the better known stage name of Robyn Fenty?	Rihanna	Medium	3	0
+31	Who composed the classical piece Peter and the Wolf?	H C Andersen	Medium	3	0
+31	which year the Minecrafts was released?	2002	Medium	3	0
+31	The character Master Hands is in which game?	Hands of Glory	Hard	3	0
+31	What does PvE mean in Destiny 2 gaming activities?	Peer vs Environment	Hard	1	0
+32	What scientific theory is Charles Darwin best known for?	evolution theory 	Easy	3	1
+32	Who was the first person to win two Nobel prizes, one in physics and one in chemistry?	Nobel	Hard	3	0
+32	What are the four fundamental forces in physics?	gravity, strong interaction	Hard	2	0
+32	What sport did Michael Jordan play?	basketball	Easy	2	0
+32	What is the name of Manchester United home stadium?	Old Trafford	Easy	2	0
+32	What country won the 2012 summer Olympics women's football?	Brazil	Medium	2	0
+32	What is the name of the purple Teletubby?	Titty	Hard	1	0
+32	What's the name of the evil wizard from the Smurfs?	gargamel	Medium	1	0
+32	What color is Barbapapa?	black	Medium	2	0
+32	What world famous heavy metal band was co-founded by its danish drummer, Lars Ulrich?	Metallica	Hard	1	0
+32	What is the British national anthem called?	God save the queen	Easy	2	0
+32	What album did the artist known as Meat Loaf release in 1977?	.	Hard	2	0
+32	What video game character repeatedly saves Princess Peach from his arch enemy Bowser?	Super Mario	Easy	2	0
+32	What polish game developer/publisher is best known for the Witcher series?	.	Hard	2	0
+32	What year was Pong, one of the worlds first ever computer game, released?	1967	Hard	2	0
+32	What is the atomic number of Hydrogen	1	Easy	2	0
+32	Who is the original creator of GIT	Linus Torvalds	Easy	3	0
+32	Who is the original creator of the Command line tool GREP	Stallman	Medium	3	0
+32	How many European Championships in Football does Denmark have	1	Easy	1	0
+32	What was Derrick Rose's initial injury that derailed his career	broken ankle 	Hard	2	0
+32	Who has scored the most points in the history of the NBA 	Lebron James	Hard	1	0
+32	Who is the president of the United States	Donald Trump	Easy	2	0
+32	Which president freed the slaves in the United States	Lincoln	Medium	2	0
+32	Who was the first president of the United States	Washington	Easy	2	0
+32	Which artist released the hit song "Tik Tok"	Mika	Hard	1	0
+32	Which artist made the song "You belong with me"	taylor swift	Hard	1	0
+32	Which year did Taylor Swift release the album "Fearless"	2015	Hard	1	0
+32	What is the most popular soccer/football video game called	Fifa 	Easy	1	1
+32	What was the 7th call of duty called	save the queen	Hard	1	0
+32	Which year was black ops 1 released	2010	Hard	1	0
+32	What is the chemical formula of table salt?	NaCl	Medium	2	0
+32	What is the name of the organelle that is commonly referred to as "the powerhouse of the cell"?	Bylers	Hard	2	0
+32	Which type of hybridization yields four sigma bonds in a carbon atom?	Half hybrid	Hard	1	0
+32	In which country did the martial art Judo originate?	Japan	Easy	2	0
+32	How are people practicing the Japanese martial art Judo referred to?	Judokers	Easy	1	0
+32	Who created the martial art Judo?	Judo	Hard	1	0
+32	What is the name of the movie about a clownfish trying to find his son?	FInding Nemo	Easy	1	0
+32	What is the name of the stealing fox in Dora the Explorer?	Lucky	Hard	1	0
+32	Who is the voice actor behind Sandy in Spongebob Squarepants?	Bruce Willis	Hard	1	1
+32	How many strings does a guitar have?	6	Easy	2	0
+32	What is the name of the stadium Queen performed at during Liva Aid?	Wembley	Easy	3	0
+32	What is the name of the ex-band member of Slipknot that was commonly know as Gnar?	Jhon Lewis	Hard	1	0
+32	What is the name of the video game that revolves around catching, training and battling with creatures?	Pokemon	Medium	1	0
+32	In the PokÃ©mon series, which generation was the first to feature the Pokemon Mudkip?	second	Hard	1	0
+32	In the PokÃ©mon game series, what level does Pupitar evolve into Tyranitar?	14	Hard	1	0
+33	What does a light-year measure?	Distance	Easy	3	0
+33	Which country in the world has maximum number of robots working?	China	Medium	3	0
+33	The fear of being out of mobile phone contact is known as?	Mobophobia	Medium	3	0
+33	What is the object that hockey players send across the ice called?	Puck	Easy	3	0
+33	What is the nickname of the Belgian national soccer team? 	WaffleSoccer	Hard	2	0
+33	How long must a billiard cue be?	1.5 meters	Hard	3	0
+33	How many years are there in a millennium?	1000	Easy	3	0
+33	How many colours are in a rainbow?	7	Medium	3	0
+33	What is the first element on the periodic table of elements?	Hydrogen	Easy	3	0
+33	Who was the lead singer of the band "Queen"?	Freddie Mercury	Easy	3	0
+33	How many strings does a violin usually have?	12	Hard	2	0
+33	What is the name of Nirvana's debut album?	Smells like a teen spirit	Medium	2	0
+33	What does Mario jump on after completing a level?	Pipe	Medium	3	0
+33	Which field of study is the basis of the Tomb Raider?	Archeloagy	Medium	3	0
+33	Name the creator of PS4?	Sony	Easy	3	0
+33	Which of the following programming languages is a front-end programming language: CSS? Java? Python? C? C++?	CSS	Medium	3	0
+33	To which field does Natural Language Processing belong?	Machine Learning	Medium	3	0
+33	In which part of the human brain are visual sensory information processed?	Visual Cortex	Medium	3	0
+33	How many minutes is a soccer match?	90	Easy	3	0
+33	Who is the world record holder in the 100m sprint?	Usain Bolt	Medium	3	0
+33	How many matches did Mohammed Ali lose in his career?	0	Hard	3	0
+33	Name the school that Harry Potter attended	Hogwarts	Easy	3	0
+33	How many houses do exist in Hogwarts?	4	Medium	3	0
+33	What is the name of the toy cowboy in Toy Story?	Woody	Medium	3	0
+33	Who is called the king of pop?	Michael Jackson	Easy	3	0
+33	What is the first name of compose Vivaldi?	John	Medium	3	0
+33	Who made the highly rated 1959 jazz album Kind of Blue?	Nat King Cole	Medium	3	0
+33	What is the world's most famous soccer video game?	FIFA	Easy	3	0
+33	What is the name of the main character in Tomb Raider?	Lara Croft	Easy	3	0
+33	In which year was the first Sega console released?	1980	Medium	3	0
+33	In what SI-unit is thermodynamic temperature measured?	Kelvin	Medium	3	0
+33	What is the process of changing magnetic fields to generate power called?	Electromagnetism	Medium	3	0
+33	International Business Machines Corporation (IBM)?	Not a question dawg	Hard	1	1
+33	Which title does Nichlas Bendtner have?	Lord Bendtner	Medium	2	0
+33	Which players has the most super bowl wins?	Green Bay Packers	Hard	2	0
+33	From which country does Handball origin?	Denmark	Medium	2	0
+33	Which teletubbie is green?	Dipsy	Medium	2	0
+33	What is the shadow called in The Bear In The Big Blue House	John	Hard	3	0
+33	What is the name of the main villain in Kim Possible?	John	Medium	2	0
+33	In what band was John Lennon vocalist?	The Beatles	Medium	2	0
+33	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	ThunderBird	Medium	2	0
+33	In which year was the album "Random Access Memories" by Daft Punk released?	1994	Medium	2	0
+33	Which company release the Playstation 4?	Sony	Easy	3	0
+33	Who is the creator of Mario?	Nintendo	Easy	3	0
+33	How many game systems (consoles & portable consoles) has Nintendo release?	10	Medium	3	0
+34	What scientific theory is Charles Darwin best known for?	Evolution	Easy	2	0
+34	Who was the first person to win two Nobel prizes, one in physics and one in chemistry?	Marie Curie	Hard	3	0
+34	What are the four fundamental forces in physics?	Strong, Weak, Gravitational, Electromagnetic	Medium	1	0
+34	What sport did Michael Jordan play?	Basketball	Easy	3	0
+34	What is the name of Manchester United home stadium?	Old Trafford	Easy	3	0
+34	What country won the 2012 summer Olympics women's football?	United States of America	Hard	3	0
+34	What is the name of the purple Teletubby?	Tinky Winky	Hard	3	0
+34	What's the name of the evil wizard from the Smurfs?	Gargamel	Hard	2	0
+34	What color is Barbapapa?	Pink	Hard	1	0
+34	What world famous heavy metal band was co-founded by its danish drummer, Lars Ulrich?	Metallica	Easy	3	0
+34	What is the British national anthem called?	God Save the Queen	Medium	3	0
+34	What album did the artist known as Meat Loaf release in 1977?	Bat Out of Hell	Medium	3	0
+34	What video game character repeatedly saves Princess Peach from his arch enemy Bowser?	Mario	Easy	3	0
+34	What polish game developer/publisher is best known for the Witcher series?	CD Projekt Red	Hard	1	0
+34	What year was Pong, one of the worlds first ever computer game, released?	1972	Medium	1	0
+34	Which is the chemical formula for water?	H2O	Easy	3	0
+34	How is it called the rigid, outermost shell of a terrestrial type planet?	Crust	Medium	1	0
+34	What is the full form of RISC?	Reduced Instruction Set Computer	Hard	3	0
+34	Which national football team won the last man world cup?	France	Easy	3	0
+34	Who is the most decorated Olympian of all time?	Michael Phelps	Easy	3	0
+34	Which is the men's world record on the 100 m race  (in seconds)?	9.58	Medium	3	0
+34	Who is the author of the Harry Potter series?	J.K Rowling	Easy	3	0
+34	Which is the name of the animal nominated as the official mascot of the Walt Disney Company?	Mickey Mouse	Easy	3	0
+34	How is it called the Donald Duck's alter ego?	Paperinik	Hard	3	0
+34	From which country did The Beatles come from?	England	Easy	3	0
+34	Who is the writer of the song "Like a Rolling Stone"?	Bob Dylan	Medium	3	0
+34	Which is the name of the album written by Roger Waters and published in 2017?	Is this the life we really want?	Hard	2	0
+34	Which is the name of the company known to be the creator of the game PokÃ¨mon?	Game Freak	Medium	2	0
+34	Which is the best-selling video game of all time?	Tetris	Medium	2	0
+34	When was the first Call Of Duty relased?	2003	Medium	2	0
+34	What is the chemical formula of table salt?	NaCl	Medium	2	0
+34	What is the name of the organelle that is commonly referred to as "the powerhouse of the cell"?	Chloroplast	Medium	3	0
+34	Which type of hybridization yields four sigma bonds in a carbon atom?	Don't know	Hard	3	0
+34	In which country did the martial art Judo originate?	Japan	Medium	2	0
+34	How are people practicing the Japanese martial art Judo referred to?	Judoka	Medium	3	0
+34	Who created the martial art Judo?	Jigoro Kano	Hard	3	0
+34	What is the name of the movie about a clownfish trying to find his son?	Finding Nemo	Easy	3	0
+34	What is the name of the stealing fox in Dora the Explorer?	Swiper	Medium	2	0
+34	Who is the voice actor behind Sandy in Spongebob Squarepants?	Carolyn Lawrence	Hard	3	0
+34	How many strings does a guitar have?	6	Easy	3	0
+34	What is the name of the stadium Queen performed at during Liva Aid?	Wembley	Medium	3	0
+34	What is the name of the ex-band member of Slipknot that was commonly know as Gnar?	josh Brainard	Hard	3	0
+34	What is the name of the video game that revolves around catching, training and battling with creatures?	Pokemon	Easy	3	0
+34	In the PokÃ©mon series, which generation was the first to feature the Pokemon Mudkip?	Ruby and Saphire	Hard	3	0
+34	In the PokÃ©mon game series, what level does Pupitar evolve into Tyranitar?	Leaf Green	Medium	2	0
+35	In what SI-unit is thermodynamic temperature measured?	Celsius degrees	Easy	3	0
+35	What is the process of changing magnetic fields to generate power called?	induction	Medium	3	0
+35	International Business Machines Corporation (IBM)?	IBM	Hard	1	1
+35	Which title does Nichlas Bendtner have?	Lord	Medium	2	0
+35	Which players has the most super bowl wins?	Tom Brady	Hard	2	0
+35	From which country does Handball origin?	Denmark	Easy	3	0
+35	Which teletubbie is green?	Dipsy	Easy	3	0
+35	What is the shadow called in The Bear In The Big Blue House	shadow 	Hard	3	0
+35	What is the name of the main villain in Kim Possible?	Dr. Drakken	Easy	3	0
+35	In what band was John Lennon vocalist?	Beatles	Easy	3	0
+35	On what album does "Thunderstruck" and "TNT" by AC/DC appear?	The Razors Edge	Hard	1	1
+35	In which year was the album "Random Access Memories" by Daft Punk released?	2013	Easy	3	0
+35	Which company release the Playstation 4?	Sony	Easy	3	0
+35	Who is the creator of Mario?	Nintendo	Easy	3	0
+35	How many game systems (consoles & portable consoles) has Nintendo release?	15	Hard	3	0
+35	Who was the first female computer scientist?	Ada Lovelace	Easy	1	0
+35	What theorem is this equation: a^2 + b^2 = c^2 from?	pythagorean theorem	Medium	3	0
+35	What is the formula for Newton's Second Law?	F=m*a	Medium	1	0
+35	Who is the most famous football player from MalmÃ¶?	Krister Kristensson	Hard	2	0
+35	How many holes are there in a round of a golf game?	18	Easy	3	0
+35	In what countries was the Rugby World Cup first held? 	New Zealand and Australia	Medium	3	0
+35	What equals 10+10?	20	Easy	3	0
+35	What is the name of Dora the explorers monkey friend?	Boots	Hard	2	0
+35	What is the chemical formula for water?	H2O	Easy	3	0
+35	What is the famous song called from the movie Titanic? 	My Heart Will Go On	Easy	3	0
+35	What was the name of the band that Michael Jackson was a part of with his siblings?	Jackson Five	Hard	3	0
+35	Who composed the classical music for the Swan Lake?	Pyotr Ilyich Tchaikovsky	Hard	3	0
+35	What is the famous football video game called?	FIFA	Easy	3	0
+35	What game is Lara Croft associated with?	Tomb Raider	Medium	3	0
+35	What do you need to write to get a lot of money for free in Sims?	Motherlode	Hard	3	0
+35	What does the acronym HDD stand for?	Hard Drive 	Medium	3	0
+35	What is the largest animal that ever lived on Earth?	blue whale	Easy	3	0
+35	In what year did IBM introduce its first personal computer?	1981	Hard	3	0
+35	Name the sport where two teams compete to throw an orange ball into hoops	Basketball	Easy	3	0
+35	What country won the FIFA World Cup in 2014	Germany	Easy	3	0
+35	In what year was the first FIFA World Cup held?	1930	Medium	3	0
+35	In what popular show are various creatures captured in red and white balls?	Pokemon	Easy	3	0
+35	What colour are Smurfs?	blue	Easy	3	0
+35	Who created Pinocchio in the Disney film of the same name?	Geppetto	Medium	3	0
+35	What instrument does a pianist play?	piano	Easy	2	0
+35	Which British singer wrote the song 'Shape of You'?	Ed Sheeran	Easy	3	0
+35	Which album was awarded a Grammy for best album at the first annual Grammy awards in 1958?	 Frank Sinatra	Hard	3	0
+35	What is the name of the blue hedgehog who likes to run fast?	Sonic	Easy	2	0
+35	In what game did we first encounter Mario (then Jumpman)?	 Donkey Kong	Medium	3	0
+35	What release of Microsoft Windows was the first to include the game 'Microsoft Solitaire'?	3.0	Hard	3	0
+36	What planetary object is the sun?	A star	Easy	1	0
+36	How many bits are in a byte?	8	Easy	3	0
+36	What is a white dwarf mostly composed of?	Dark matter	Hard	2	0
+36	What is table-tennis also called?	Ping-pong	Easy	1	1
+36	How many points does a Touchdown score?	6	Medium	3	0
+36	Who holds the current record of the longest field goal in the NFL?	Morten Andersen	Hard	2	0
+36	How many legs does a cat have?	Four	Easy	3	0
+36	What is the capital of Denmark?	Copenhagen	Easy	2	0
+36	Solve 2 * x + 1 = 5	2	Easy	1	0
+36	Which band wrote the song "Bohemian Rhapsody"?	Queens	Easy	2	0
+36	What is the band containing the famous robotic duo called?	Daft Punk	Easy	1	1
+36	What is the title of the first song on the album "Keeper of the Seven Keys: The Legacy" by Helloween?	IDK	Hard	1	0
+36	What is the name of the iconic plumber from Nintendo?	Mario	Easy	2	0
+36	In the game "Slay the Spire", how much block does an upgraded "Metallicize" give?	IDK	Hard	1	0
+36	In the "Alexx Kid in Miracle World" for the Sega Master System, what popular game does the bosses challenge you with?	IDK	Hard	1	0
+36	What is the chemical formula of benzene?	IDK	Hard	2	0
+36	In a step up transformer which coil is made of the thinner wire since the current in it will be less?	The thinner coil	Hard	1	0
+36	In 2007, Voyager 2 crossed the heliosheath boundary and into the vast region at the edge of our solar system where the solar wind runs up against the thin gas between the stars. What did this crossing confirm about the shape of our solar system?	That it id elipse shaped	Hard	2	0
+36	How many grand slams has Roger Federer won	15	Hard	3	0
+36	When were the first widely accepted laws of cricket brought out?	1880	Hard	2	0
+36	A winner in Boxing (Light Flyweight) at the 2012 Summer Olympics? He won a gold medal in the 2008 Summer Olympics as well.	IDK	Hard	1	0
+36	What position does Harry play on the Quidditch team?	Seaker	Medium	2	0
+36	What is the name of Harry Potterâs pet owl?	Hedwig	Easy	2	0
+36	Where did the game of badminton originate?	England	Medium	3	0
+36	Who is the lead guitarist of Queen?	Brian May	Medium	3	0
+36	Which album of Linkin Park has the song "Numb"?	Meteor	Medium	2	0
+36	Can you finish the lyric of the song by Backstreet Boys? "Found my inspiration hiding in_____"	you	Easy	2	0
+36	What is the name of God of War protagonist?	IDK	Hard	1	0
+36	In which year did the video game crash happen?	IDK	Hard	2	0
+36	In which game players are free to perform within the entirety of a procedurally generated deterministic open world universe, which includes over 18 quintillion planets?	Eve Online	Medium	1	0
+36	What is a prime number?	A number wich is only divisble by 1 and it self.	Easy	2	0
+36	What is the name of a chemical raw material that cannot be further decomposed chemically and consists of atoms of the same nuclear charge?	Noble gas	Hard	1	0
+36	What year did Max Planck win the Nobel prize in physics?	1930	Hard	2	0
+36	Who won the football world cup in 2018?	France	Easy	3	0
+36	Which is the second most polular sport in the world (2018)?	Cricket	Medium	2	0
+36	What is a Hail Mary pass?	A pass that has 50/50 for success and katastrophe	Medium	1	1
+36	Which animals do cats love to chase the most?	Mouse	Easy	1	1
+36	Which country does pizza come from?	Italiy	Easy	2	0
+36	Which device can record sound waves and transform them into electric signals?	Microphone	Easy	2	0
+36	What city are the Beatles from?	Liverpool	Medium	2	0
+36	Which famous musician is the father of Michael Jackson first wife?	Elvis Presley	Medium	2	0
+36	Which of the following classical composers is not German? Georg Friedrich HÃ¤ndel, Franz Schubert, Richard Wagner or Richard Strauss?	Richard Wagner	Medium	2	0
+36	What is the name of the main character in Tomb Raider?	Lara Croft	Easy	2	0
+36	Which country was Tetris developed in?	Soviet Union	Medium	2	0
+36	Who features on the cover of UFC 2 alongside Ronda Rousey?	Conor Mcgregor	Medium	2	0
+37	When a person has irregular heart beats, what is installed in the body to normalize it?	pacemaker	Easy	3	0
+37	What was the name of the NASA Space mission, that brought man to the moon?	Apollo 11	Easy	3	0
+37	What does EP, the big round disc with gets played on the turntable, stand for?	no clue	Hard	2	0
+37	Which consists of running on a grass field?	soccer	Easy	1	1
+37	What sport is exercised in a pool with lanelines splitting up the pool in 6-8 lanes?	swimming	Easy	2	0
+37	When a dog is presented in front of judges, which it must perfectly execute a predefined set of tasks when directed to do so by his handler. What is the sport called?	dog show	Hard	2	0
+37	What tool can be used to shovel sand in a sandbox?	a hovel	Easy	2	0
+37	What is the name of the cartoon character who is female and explores the world?	dora the explorer	Easy	1	0
+37	What card game has four colour groups and a word is yelled when one card is left in ones hand?	Uno	Medium	1	0
+37	Which black person used a lot of money to turn the colour of his skin white?	Michael Jackson	Easy	1	1
+37	Which pop star shaved her head in a life crisis?	Miley Cyrus	Hard	1	0
+37	What rock band was first called Smile?	No clue	Hard	2	0
+37	What is the name of the game - where you have to align three of the same type brick in a straight line on a 9x9 board?	No clue	Hard	2	0
+37	What game is associated with the floss-dance?	Fortnite	Hard	2	0
+37	What game has continuesly been postponed and delay because the amount of funding keeps growing?	Star Citizen	Hard	1	0
+37	What does VR stand for?	Virtual Reality	Easy	3	0
+37	Who came up with the theory of relativity?	Albert Einstein	Easy	2	0
+37	Who was the first woman to win the Nobel Prize in Physics?	No clue	Hard	3	0
+37	Who won the World Men's Handball Championship in 2019?	Denmark	Easy	1	0
+37	Which team won the Super Bowl in 2019?	No clue	Hard	1	0
+37	How many medals did Denmark win at the 2012 London Olympics Games	No clue.	Hard	3	0
+37	What is the capital of Denmark?	Copenhagen	Easy	2	0
+37	What is the name of the school in Harry Potter?	Hogwarts	Easy	2	0
+37	Which famous Disney movie features a song called 'Hakuna Matata'?	The Lion King	Easy	2	0
+37	What is the name of the largest music festival in Denmark	Roskilde Festival	Easy	1	0
+37	What is the most played song on youtube?	Bitch lasagna	Hard	2	0
+37	What is the largest music festival in Budapest, Hungary called?	No clue	Hard	2	0
+37	What is the name of Microsofts gaming consoles?	Xbox	Easy	1	0
+37	What is the best selling video game of all time?	Tetris	Easy	3	0
+37	What is IGNâs Best Game of The Year 2018?	God of War	Easy	3	0
+37	What is the name of a disease passed on by mosquitoes?	Malaria	Easy	1	1
+37	The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?	Isaac Newton	Easy	3	0
+37	If you are exposed to freezing temperatures for too long and develop frostbite, you run the risk of having to have frozen parts amputated due to which necrotic condition?	no clue	Hard	3	0
+37	 'El ClÃ¡sico' is a game between which club giants?	Real Madrid and FC Barcelona	Easy	1	0
+37	Which is the only country to have played in each and every World Cup?	Spain	Hard	2	0
+37	What sport used the term 'home run' long before baseball?	No clue.	Hard	2	0
+37	What type of fish is Nemo?	Clown fish	Easy	1	0
+37	How many rings make up the symbol of the Olympic Games?	Five	Easy	3	0
+37	Who wrote the play 'Hamlet'?	William Shakespere	Easy	3	0
+37	What is the first name of the composer Vivaldi ?	No clue	Hard	3	0
+37	How many strings does a violin have?	5	Hard	3	0
+37	What singer for a 70's British rock quartet changed his name from Frederick Bulsara?	Freddy Mercury	Hard	3	0
+37	What color is Mario's M?	Red	Easy	3	0
+37	What is another name of Counter Strike?	No clue.	Hard	1	1
+37	In which game, every assassinated person is a real one with accurate death date and place?	Assasin's Creed	Easy	3	0
