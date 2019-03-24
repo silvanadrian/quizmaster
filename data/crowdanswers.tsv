@@ -24,7 +24,7 @@ id	question	answer	difficulty	opinion	factuality
 0	Tired people need what? 	Sleep	Easy	3	1
 0	Where did the Olympic Games originate?	Greece	Easy	3	0
 0	What was the Beatles biggest selling single?	She Loves you	Medium	3	0
-0	What was George Michael's first solo hit called?  	Careless Whisper	Medium	3	0
+0	What was George Michaels first solo hit called?  	Careless Whisper	Medium	3	0
 0	In which decade was Dolly Parton born?	1940's	Hard	3	0
 0	Which game was the first to release on the Nintendo 64	Super Mario	Medium	3	0
 0	Which console has sold the most	Playstation 2	Medium	3	0
@@ -96,7 +96,7 @@ id	question	answer	difficulty	opinion	factuality
 2	Which is the only country to have played in each and every World Cup?	Spain	Hard	2	0
 2	Which popular fitness method was invented by a German?		Hard	2	0
 2	What is the name of the cartoon where there are 3 sisters called; Blossom, Bubbles and Buttercup?	The PowerPuff Girls	Hard	3	0
-2	Who is the worldâs largest land animal?	Elephant	Medium	3	0
+2	Who is the world's largest land animal?	Elephant	Medium	3	0
 2	How many colours are in a rainbow?	7	Easy	2	0
 2	Where is the group abba from?		Medium	2	0
 2	Which one direction member left the group in 2015; Liam, Zayn or Harry?	Zayn	Hard	2	0
@@ -113,7 +113,7 @@ id	question	answer	difficulty	opinion	factuality
 2	Who wrote the little match girl?		Medium	2	0
 2	What is the name of Cinderella's prince?		Medium	2	0
 2	Is yellow one of the standard additive primary colors of light?	yes	Easy	2	0
-2	What is the birth country of FrÃ©dÃ©ric Chopin?		Medium	2	0
+2	What is the birth country of Frederic Chopin?		Medium	2	0
 2	What is the Best-Selling Albums in History?		Easy	2	0
 2	Which song did India Arie sing during the 60th Annual Grammy Awards?		Hard	2	0
 2	When was Fortnite released?		Hard	2	0
@@ -137,7 +137,7 @@ id	question	answer	difficulty	opinion	factuality
 3	Who was the first female computer scientist?	Marie-Antoinette (I dont know)	Medium	1	1
 3	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	3	0
 3	What is the formula for Newton's Second Law?	nil	Medium	3	0
-3	Who is the most famous football player from MalmÃ¶?	Zlatan	Medium	3	0
+3	Who is the most famous football player from Malmö?	Zlatan	Medium	3	0
 3	How many holes are there in a round of a golf game?	12	Hard	3	0
 3	In what countries was the Rugby World Cup first held? 	India	Hard	3	0
 3	What equals 10+10?	20	Easy	3	0
@@ -158,7 +158,7 @@ id	question	answer	difficulty	opinion	factuality
 3	Who wrote the little match girl?	You did	Easy	3	0
 3	What is the name of Cinderella's prince?	Mr. Charming!	Easy	3	0
 3	Is yellow one of the standard additive primary colors of light?	Yes	Medium	3	0
-3	What is the birth country of FrÃ©dÃ©ric Chopin?	France	Hard	2	0
+3	What is the birth country of Frederic Chopin?	France	Hard	2	0
 3	What is the Best-Selling Albums in History?	Revolver 	Hard	1	0
 3	Which song did India Arie sing during the 60th Annual Grammy Awards?	If I was a rich girl	Hard	3	0
 3	When was Fortnite released?	07.07.2018	Hard	1	0
@@ -215,7 +215,7 @@ id	question	answer	difficulty	opinion	factuality
 4	What was the Olympic city of 1992 ?	Barcelona	Easy	3	0
 4	How long is an Olympic swimming pool?	I don't know	Hard	2	0
 4	In which country is the Interlagos F1-circuit ?	I don't know	Medium	2	0
-4	Which character was Walt Disneyâs favorite?	I don't know	Hard	3	0
+4	Which character was Walt Disney's favorite?	I don't know	Hard	3	0
 4	Who is the quietest Disney princess?	I don't know	Hard	1	1
 4	Popeye has how many nephews?	I don't know	Hard	1	0
 4	Miley Cyrus is the daughter of country singer Billy Ray Cyrus?	True	Easy	3	0
@@ -257,7 +257,7 @@ id	question	answer	difficulty	opinion	factuality
 5	What is the name of a disease passed on by mosquitoes?	Malaria	Medium	2	0
 5	The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?	Isaac Newton	Medium	3	0
 5	If you are exposed to freezing temperatures for too long and develop frostbite, you run the risk of having to have frozen parts amputated due to which necrotic condition?	Brain freeze	Hard	3	0
-5	 'El ClÃ¡sico' is a game between which club giants?	Real Madrid and Barcelona FC	Easy	3	0
+5	 'El Clasico' is a game between which club giants?	Real Madrid and Barcelona FC	Easy	3	0
 5	Which is the only country to have played in each and every World Cup?	France	Easy	3	0
 5	What sport used the term 'home run' long before baseball?	Cricket	Medium	2	0
 5	What type of fish is Nemo?	Sunfish	Medium	3	0
@@ -351,7 +351,7 @@ id	question	answer	difficulty	opinion	factuality
 7	When were the first widely accepted laws of cricket brought out?	1769	Hard	3	0
 7	A winner in Boxing (Light Flyweight) at the 2012 Summer Olympics? He won a gold medal in the 2008 Summer Olympics as well.	Seamus O'Reiley	Hard	1	0
 7	What position does Harry play on the Quidditch team?	Seeker	Easy	3	0
-7	What is the name of Harry Potterâs pet owl?	Hedwig	Easy	3	0
+7	What is the name of Harry Potter's pet owl?	Hedwig	Easy	3	0
 7	Where did the game of badminton originate?	United Kingdom	Medium	3	0
 7	Who is the lead guitarist of Queen?	Brian May	Medium	3	0
 7	Which album of Linkin Park has the song "Numb"?	Linkin Park	Hard	2	0
@@ -362,7 +362,7 @@ id	question	answer	difficulty	opinion	factuality
 8	Who was the first female computer scientist?	Valentina	Medium	3	0
 8	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	3	0
 8	What is the formula for Newton's Second Law?	force = mass * acceleration	Easy	3	0
-8	Who is the most famous football player from MalmÃ¶?	Zlatan	Easy	3	0
+8	Who is the most famous football player from Malmö?	Zlatan	Easy	3	0
 8	How many holes are there in a round of a golf game?	18	Medium	3	0
 8	In what countries was the Rugby World Cup first held? 	England	Hard	2	0
 8	What equals 10+10?	20	Easy	3	0
@@ -407,7 +407,7 @@ id	question	answer	difficulty	opinion	factuality
 9	Who was the first female computer scientist?	Ada Lovelace	Easy	3	0
 9	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	2	0
 9	What is the formula for Newton's Second Law?	idk	Hard	2	0
-9	Who is the most famous football player from MalmÃ¶?	Ibrahimovic Z.	Medium	2	1
+9	Who is the most famous football player from Malmö?	Ibrahimovic Z.	Medium	2	1
 9	How many holes are there in a round of a golf game?	18	Medium	2	0
 9	In what countries was the Rugby World Cup first held? 	england?	Medium	2	0
 9	What equals 10+10?	20	Easy	2	0
@@ -428,7 +428,7 @@ id	question	answer	difficulty	opinion	factuality
 9	Who wrote the little match girl?	H.C Andersen	Easy	2	0
 9	What is the name of Cinderella's prince?	Prince Charming	Easy	2	0
 9	Is yellow one of the standard additive primary colors of light?	probs	Medium	2	0
-9	What is the birth country of FrÃ©dÃ©ric Chopin?	Austria 	Medium	2	0
+9	What is the birth country of Frederic Chopin?	Austria 	Medium	2	0
 9	What is the Best-Selling Albums in History?	Something classical?	Medium	2	0
 9	Which song did India Arie sing during the 60th Annual Grammy Awards?	idk	Hard	2	0
 9	When was Fortnite released?	2017?	Hard	2	0
@@ -561,7 +561,7 @@ id	question	answer	difficulty	opinion	factuality
 12	When were the first widely accepted laws of cricket brought out?		Hard	1	1
 12	A winner in Boxing (Light Flyweight) at the 2012 Summer Olympics? He won a gold medal in the 2008 Summer Olympics as well.	Zou Shiming	Hard	2	0
 12	What position does Harry play on the Quidditch team?	Seeker	Easy	3	0
-12	What is the name of Harry Potterâs pet owl?	Hedwig	Medium	3	0
+12	What is the name of Harry Potter's pet owl?	Hedwig	Medium	3	0
 12	Where did the game of badminton originate?		Hard	1	1
 12	Who is the lead guitarist of Queen?	Brian May	Hard	2	0
 12	Which album of Linkin Park has the song "Numb"?	Meteora	Medium	1	0
@@ -602,7 +602,7 @@ id	question	answer	difficulty	opinion	factuality
 13	Who was the first female computer scientist?	some gal	Hard	2	1
 13	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean	Easy	3	0
 13	What is the formula for Newton's Second Law?	F=ma	Medium	3	0
-13	Who is the most famous football player from MalmÃ¶?	Zlatan Ibrahimovic	Medium	2	1
+13	Who is the most famous football player from Malmö?	Zlatan Ibrahimovic	Medium	2	1
 13	How many holes are there in a round of a golf game?	18	Easy	3	0
 13	In what countries was the Rugby World Cup first held? 	Australia	Hard	2	0
 13	What equals 10+10?	20	Easy	1	0
@@ -718,7 +718,7 @@ id	question	answer	difficulty	opinion	factuality
 15	What is the largest music festival in Budapest, Hungary called?	The Sziget Festival	Medium	3	0
 15	What is the name of Microsofts gaming consoles?	Xbox	Easy	2	0
 15	What is the best selling video game of all time?	Tetris	Easy	2	0
-15	What is IGNâs Best Game of The Year 2018?	God of War	Medium	1	1
+15	What is IGNs Best Game of The Year 2018?	God of War	Medium	1	1
 16	How many elements are in the periodic table?	180	Hard	3	0
 16	Who patented the first light bulb?	Thomas Edison	Easy	3	0
 16	What is a gravitational wave?	Dirsturbances in the curvature of spacetime	Hard	1	0
@@ -773,7 +773,7 @@ id	question	answer	difficulty	opinion	factuality
 17	What is a young cow called?	calf	Easy	3	0
 17	How many continents are there in the world?	7	Medium	3	0
 17	What causes the green colour in leafs?	chloroplasts	Medium	3	0
-17	What is Freddie Mercuryâs (lead singer of Queen) nationality?	GB	Medium	3	0
+17	What is Freddie Mercury's (lead singer of Queen) nationality?	GB	Medium	3	0
 17	What is the name of the song that was written and performed by Paul McCartney and Michael Jackson released in 1983?	Say Say Say	Hard	3	0
 17	In the song Killer Queen (by the band Queen), there is a reference to a particular type of alcohol that is purportedly kept in the cabinet. What type of alcohol is it? 	don't know	Hard	2	0
 17	What is the name of the main character in the Hitman Series of video games?	Agent 47	Medium	3	0
@@ -797,7 +797,7 @@ id	question	answer	difficulty	opinion	factuality
 17	Who was the first female computer scientist?	Ada Lovelace	Hard	1	1
 17	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean	Easy	3	0
 17	What is the formula for Newton's Second Law?	f=ma	Medium	3	0
-17	Who is the most famous football player from MalmÃ¶?	Zlatan	Hard	1	1
+17	Who is the most famous football player from Malmö?	Zlatan	Hard	1	1
 17	How many holes are there in a round of a golf game?	18	Easy	2	0
 17	In what countries was the Rugby World Cup first held? 	Australia and New Zealand	Medium	3	0
 17	What equals 10+10?	20	Easy	3	0
@@ -857,7 +857,7 @@ id	question	answer	difficulty	opinion	factuality
 19	Who was the first female computer scientist?	don't know	Hard	2	1
 19	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean theorem	Easy	2	1
 19	What is the formula for Newton's Second Law?	F = ma	Medium	1	0
-19	Who is the most famous football player from MalmÃ¶?	don't know	Hard	1	1
+19	Who is the most famous football player from Malmö?	don't know	Hard	1	1
 19	How many holes are there in a round of a golf game?	5	Hard	2	0
 19	In what countries was the Rugby World Cup first held? 	don't know	Hard	2	0
 19	What equals 10+10?	20	Easy	2	0
@@ -977,7 +977,7 @@ id	question	answer	difficulty	opinion	factuality
 21	Who was the first female computer scientist?	Ada Lovelace	Hard	1	0
 21	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagorean	Medium	2	0
 21	What is the formula for Newton's Second Law?	F = m*a	Medium	3	0
-21	Who is the most famous football player from MalmÃ¶?	Sven Nilsson	Hard	1	1
+21	Who is the most famous football player from Malmö?	Sven Nilsson	Hard	1	1
 21	How many holes are there in a round of a golf game?	24	Hard	3	0
 21	In what countries was the Rugby World Cup first held? 	GB	Medium	3	0
 21	What equals 10+10?	20	Easy	3	0
@@ -1055,7 +1055,7 @@ id	question	answer	difficulty	opinion	factuality
 23	Name the sport where two teams compete to throw an orange ball into hoops	Basket ball	Easy	2	1
 23	What country won the FIFA World Cup in 2014	Germany	Hard	2	0
 23	In what year was the first FIFA World Cup held?	1970	Hard	1	0
-23	In what popular show are various creatures captured in red and white balls?	PokÃ©mon 	Easy	2	1
+23	In what popular show are various creatures captured in red and white balls?	Pokemon 	Easy	2	1
 23	What colour are Smurfs?	Blue	Easy	2	0
 23	Who created Pinocchio in the Disney film of the same name?	papa	Hard	1	0
 23	What instrument does a pianist play?	Piano	Easy	2	1
@@ -1157,7 +1157,7 @@ id	question	answer	difficulty	opinion	factuality
 25	Who was the first female computer scientist?	Ada Lovelace	Easy	3	0
 25	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras's theorem	Easy	3	0
 25	What is the formula for Newton's Second Law?	a=F/m	Medium	3	0
-25	Who is the most famous football player from MalmÃ¶?	-	Hard	3	0
+25	Who is the most famous football player from Malmö?	-	Hard	3	0
 25	How many holes are there in a round of a golf game?	18	Medium	3	0
 25	In what countries was the Rugby World Cup first held? 	USA	Medium	3	0
 25	What equals 10+10?	20	Easy	3	0
@@ -1193,7 +1193,7 @@ id	question	answer	difficulty	opinion	factuality
 26	Who wrote the little match girl?	No idea	Medium	1	0
 26	What is the name of Cinderella's prince?	Prince charming	Easy	3	0
 26	Is yellow one of the standard additive primary colors of light?	No	Easy	3	0
-26	What is the birth country of FrÃ©dÃ©ric Chopin?	I do not know	Hard	1	0
+26	What is the birth country of Frederic Chopin?	I do not know	Hard	1	0
 26	What is the Best-Selling Albums in History?	Abbas album?	Medium	2	0
 26	Which song did India Arie sing during the 60th Annual Grammy Awards?	I do not know	Hard	2	0
 26	When was Fortnite released?	2017	Easy	3	0
@@ -1337,7 +1337,7 @@ id	question	answer	difficulty	opinion	factuality
 29	Who was the first female computer scientist?	Ada Lovelace	Hard	3	0
 29	What theorem is this equation: a^2 + b^2 = c^2 from?	Pythagoras	Easy	1	0
 29	What is the formula for Newton's Second Law?	F = MA	Easy	2	0
-29	Who is the most famous football player from MalmÃ¶?	Zlatan Ibrahamovich 	Easy	1	1
+29	Who is the most famous football player from Malmö?	Zlatan Ibrahamovich 	Easy	1	1
 29	How many holes are there in a round of a golf game?	12	Medium	2	0
 29	In what countries was the Rugby World Cup first held? 	Australia and New Zealand 	Medium	1	0
 29	What equals 10+10?	20	Easy	2	0
@@ -1391,9 +1391,9 @@ id	question	answer	difficulty	opinion	factuality
 30	How many strings does a guitar have?	Six	Easy	3	0
 30	What is the name of the stadium Queen performed at during Liva Aid?	Wembley	Medium	3	0
 30	What is the name of the ex-band member of Slipknot that was commonly know as Gnar?	No idea	Hard	3	0
-30	What is the name of the video game that revolves around catching, training and battling with creatures?	PokÃ©mon	Easy	3	0
-30	In the PokÃ©mon series, which generation was the first to feature the Pokemon Mudkip?	First	Hard	3	0
-30	In the PokÃ©mon game series, what level does Pupitar evolve into Tyranitar?	No idea	Hard	3	0
+30	What is the name of the video game that revolves around catching, training and battling with creatures?	Pokemon	Easy	3	0
+30	In the Pokemon series, which generation was the first to feature the Pokemon Mudkip?	First	Hard	3	0
+30	In the Pokemon game series, what level does Pupitar evolve into Tyranitar?	No idea	Hard	3	0
 31	What is the absolute value of -4? - "4"? "16"? "-4"? "0"?'	4	Easy	3	0
 31	What is the term for a matrix with pairwise orthonormal vectors"? - "Orthogonal matrix"? "Orthonormal matrix"? "Gram matrix"? "Perpendicular matrix"?'	Orthogonal matrix	Hard	2	0
 31	In the programming language F#, a computation expression is..? - "An expression used in list comprehensions"? "A monad"? "A parallelizable expression"? "Computations with the 'unit' type"?'	An expression used in list comprehensions	Hard	1	0
@@ -1430,7 +1430,7 @@ id	question	answer	difficulty	opinion	factuality
 31	What was the Olympic city of 1992 ?	Barcelona	Medium	3	0
 31	How long is an Olympic swimming pool?	50 meters	Medium	3	0
 31	In which country is the Interlagos F1-circuit ?	Italy	Medium	3	0
-31	Which character was Walt Disneyâs favorite?	Minnie Mouse	Medium	3	0
+31	Which character was Walt Disney's favorite?	Minnie Mouse	Medium	3	0
 31	Who is the quietest Disney princess?	Snow White	Medium	3	1
 31	Popeye has how many nephews?	7	Hard	3	0
 31	Miley Cyrus is the daughter of country singer Billy Ray Cyrus?	Yes	Medium	3	0
@@ -1482,8 +1482,8 @@ id	question	answer	difficulty	opinion	factuality
 32	What is the name of the stadium Queen performed at during Liva Aid?	Wembley	Easy	3	0
 32	What is the name of the ex-band member of Slipknot that was commonly know as Gnar?	Jhon Lewis	Hard	1	0
 32	What is the name of the video game that revolves around catching, training and battling with creatures?	Pokemon	Medium	1	0
-32	In the PokÃ©mon series, which generation was the first to feature the Pokemon Mudkip?	second	Hard	1	0
-32	In the PokÃ©mon game series, what level does Pupitar evolve into Tyranitar?	14	Hard	1	0
+32	In the Pokemon series, which generation was the first to feature the Pokemon Mudkip?	second	Hard	1	0
+32	In the Pokemon game series, what level does Pupitar evolve into Tyranitar?	14	Hard	1	0
 33	What does a light-year measure?	Distance	Easy	3	0
 33	Which country in the world has maximum number of robots working?	China	Medium	3	0
 33	The fear of being out of mobile phone contact is known as?	Mobophobia	Medium	3	0
@@ -1572,8 +1572,8 @@ id	question	answer	difficulty	opinion	factuality
 34	What is the name of the stadium Queen performed at during Liva Aid?	Wembley	Medium	3	0
 34	What is the name of the ex-band member of Slipknot that was commonly know as Gnar?	josh Brainard	Hard	3	0
 34	What is the name of the video game that revolves around catching, training and battling with creatures?	Pokemon	Easy	3	0
-34	In the PokÃ©mon series, which generation was the first to feature the Pokemon Mudkip?	Ruby and Saphire	Hard	3	0
-34	In the PokÃ©mon game series, what level does Pupitar evolve into Tyranitar?	Leaf Green	Medium	2	0
+34	In the Pokemon series, which generation was the first to feature the Pokemon Mudkip?	Ruby and Saphire	Hard	3	0
+34	In the Pokemon game series, what level does Pupitar evolve into Tyranitar?	Leaf Green	Medium	2	0
 35	In what SI-unit is thermodynamic temperature measured?	Celsius degrees	Easy	3	0
 35	What is the process of changing magnetic fields to generate power called?	induction	Medium	3	0
 35	International Business Machines Corporation (IBM)?	IBM	Hard	1	1
@@ -1592,7 +1592,7 @@ id	question	answer	difficulty	opinion	factuality
 35	Who was the first female computer scientist?	Ada Lovelace	Easy	1	0
 35	What theorem is this equation: a^2 + b^2 = c^2 from?	pythagorean theorem	Medium	3	0
 35	What is the formula for Newton's Second Law?	F=m*a	Medium	1	0
-35	Who is the most famous football player from MalmÃ¶?	Krister Kristensson	Hard	2	0
+35	Who is the most famous football player from Malmö?	Krister Kristensson	Hard	2	0
 35	How many holes are there in a round of a golf game?	18	Easy	3	0
 35	In what countries was the Rugby World Cup first held? 	New Zealand and Australia	Medium	3	0
 35	What equals 10+10?	20	Easy	3	0
@@ -1641,7 +1641,7 @@ id	question	answer	difficulty	opinion	factuality
 36	When were the first widely accepted laws of cricket brought out?	1880	Hard	2	0
 36	A winner in Boxing (Light Flyweight) at the 2012 Summer Olympics? He won a gold medal in the 2008 Summer Olympics as well.	IDK	Hard	1	0
 36	What position does Harry play on the Quidditch team?	Seaker	Medium	2	0
-36	What is the name of Harry Potterâs pet owl?	Hedwig	Easy	2	0
+36	What is the name of Harry Potter's pet owl?	Hedwig	Easy	2	0
 36	Where did the game of badminton originate?	England	Medium	3	0
 36	Who is the lead guitarist of Queen?	Brian May	Medium	3	0
 36	Which album of Linkin Park has the song "Numb"?	Meteor	Medium	2	0
@@ -1693,11 +1693,11 @@ id	question	answer	difficulty	opinion	factuality
 37	What is the largest music festival in Budapest, Hungary called?	No clue	Hard	2	0
 37	What is the name of Microsofts gaming consoles?	Xbox	Easy	1	0
 37	What is the best selling video game of all time?	Tetris	Easy	3	0
-37	What is IGNâs Best Game of The Year 2018?	God of War	Easy	3	0
+37	What is IGN's Best Game of The Year 2018?	God of War	Easy	3	0
 37	What is the name of a disease passed on by mosquitoes?	Malaria	Easy	1	1
 37	The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?	Isaac Newton	Easy	3	0
 37	If you are exposed to freezing temperatures for too long and develop frostbite, you run the risk of having to have frozen parts amputated due to which necrotic condition?	no clue	Hard	3	0
-37	 'El ClÃ¡sico' is a game between which club giants?	Real Madrid and FC Barcelona	Easy	1	0
+37	 'El Clasico' is a game between which club giants?	Real Madrid and FC Barcelona	Easy	1	0
 37	Which is the only country to have played in each and every World Cup?	Spain	Hard	2	0
 37	What sport used the term 'home run' long before baseball?	No clue.	Hard	2	0
 37	What type of fish is Nemo?	Clown fish	Easy	1	0

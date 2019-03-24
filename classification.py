@@ -31,8 +31,8 @@ def classify_questions():
     text = text.lower()  # lowercase text
     text = REPLACE_BY_SPACE_RE.sub(' ',
                                    text)  # replace REPLACE_BY_SPACE_RE symbols by space in text
-    text = BAD_SYMBOLS_RE.sub('',
-                              text)  # delete symbols which are in BAD_SYMBOLS_RE from text
+    text = BAD_SYMBOLS_RE.sub('', text)
+    text = re.sub(r"\'s", " ", text)
     text = ' '.join(word for word in text.split() if
                     word not in STOPWORDS)  # delete stopwors from text
     return text
@@ -84,7 +84,7 @@ def classify_questions():
   print('Train acc:', val_score[1])
   print('Test accuracy:', score[1])
   generated_questions = pd.read_csv("data/crowdanswers.tsv",
-                                    encoding="ISO-8859-1", delimiter="\t",
+                                    encoding="utf-8", delimiter="\t",
                                     na_filter=False)
   generated_questions.columns = ['id', 'question', 'answer', 'difficulty',
                                  'opinion', 'factuality']
@@ -113,21 +113,24 @@ def majority(lst):
 
 
 import os
+def main():
+  exists = os.path.isfile('data/classified.csv')
+  if exists:
+    questions = pd.read_csv("data/classified.csv",
+                            encoding="utf-8", sep=",", error_bad_lines=False)
+    questions.groupby('question').filter(
+      lambda x: x['factuality'].sum() < 1)
+    questions = questions.groupby(['question', 'topic'], as_index=False)['difficulty'].agg(majority)
 
-exists = os.path.isfile('data/classified.csv')
-if exists:
-  questions = pd.read_csv("data/classified.csv",
-                          encoding="utf-8", sep=",", error_bad_lines=False)
-  questions = questions.groupby('question').filter(
-    lambda x: x['factuality'].sum() < 1)
-  questions.groupby(['question'])['difficulty'].agg(majority)
+    print("Classification Module:")
+    topic = input("Please enter topic: ")
+    difficulty = input("Please enter difficulty: ")
+    result = questions[
+      (questions.topic == topic) & (questions.difficulty == difficulty)]
+    print("Questions:")
+    print(result.question.head(10).to_string())
+  else:
+    classify_questions()
 
-  print("Classification Module:")
-  topic = input("Please enter topic: ")
-  difficulty = input("Please enter difficulty: ")
-  result = questions[
-    (questions.topic == topic) & (questions.difficulty == difficulty)]
-  print("Questions:")
-  print(result.question.head(10).to_string())
-else:
-  classify_questions()
+
+if __name__ == "__main__": main()
