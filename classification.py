@@ -17,6 +17,7 @@ pd.set_option('display.max_columns', None)  # or 1000
 pd.set_option('display.max_rows', None)  # or 1000
 pd.set_option('display.max_colwidth', -1)
 
+
 def classify_questions():
   global REPLACE_BY_SPACE_RE, BAD_SYMBOLS_RE, STOPWORDS
   questions = pd.read_csv("data/train_dataset.csv", header=None,
@@ -74,7 +75,7 @@ def classify_questions():
             batch_size=batch_size,
             epochs=epochs,
             verbose=1,
-            validation_split=0.1)
+            validation_data=(x_test,y_test))
 
   val_score = model.evaluate(x_train, y_train,
                              batch_size=batch_size, verbose=1)
@@ -102,17 +103,30 @@ def classify_questions():
   output.to_csv('data/classified.csv', encoding='utf-8', index=False)
 
 
+from collections import Counter
+
+#get most common item, in case of tie the first
+def majority(lst):
+  data = Counter(lst)
+  return max(lst, key=data.get)
+
+
+
 import os
 
 exists = os.path.isfile('data/classified.csv')
 if exists:
   questions = pd.read_csv("data/classified.csv",
                           encoding="utf-8", sep=",", error_bad_lines=False)
-  print(questions.head(1))
+  questions = questions.groupby('question').filter(
+    lambda x: x['factuality'].sum() < 1)
+  questions.groupby(['question'])['difficulty'].agg(majority)
+
   print("Classification Module:")
   topic = input("Please enter topic: ")
   difficulty = input("Please enter difficulty: ")
-  result = questions[(questions.topic == topic) & (questions.difficulty == difficulty)]
+  result = questions[
+    (questions.topic == topic) & (questions.difficulty == difficulty)]
   print("Questions:")
   print(result.question.head(10).to_string())
 else:
