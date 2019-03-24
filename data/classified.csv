@@ -10,7 +10,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 0,What is the top color in a rainbow? ,red,Hard,3,0,science-technology
 0,For which song did Toy Story get nominated to the Oscar?,We belong together,Hard,3,0,music
 0,"At what age did Jimmy Hendrix, Janis Joplin and Kurt Cobain die?",27,Easy,3,0,music
-0,How many nominations to the Oscar has John Williams received?,51,Hard,3,0,music
+0,How many nominations to the Oscar has John Williams received?,51,Hard,3,0,science-technology
 0,What's the name of the most famous Italian plumber brothers?,Mario and Luigi,Easy,3,0,music
 0,Who is the protagonist of the video game series Halo?,Master Chief,Hard,1,0,video-games
 0,In what year was Space Invaders released?,1978,Hard,3,0,science-technology
@@ -42,7 +42,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 0,7 rings' is a song by which American singer?,Ariana Grande,Easy,3,0,music
 0,What was the debut album of Daft Punk called?,Indo Silver Club,Hard,3,0,music
 0,WoW is an acronym for which Blizzard game?,World of Warcraft,Easy,3,0,video-games
-0,Which year was Fallout 3 released?,2008,Hard,3,0,music
+0,Which year was Fallout 3 released?,2008,Hard,3,0,for-kids
 0,KAG is an acronym for which indie game?,King Arthurs Gold,Hard,3,0,video-games
 1,Who founded Apple computers?,"Steve Jobs, Steve Wozniak, and Ronald Wayne",Medium,1,0,science-technology
 1,"In machine learning you have two types of learning, what are they?",Supervised and unsupervised,Easy,1,0,science-technology
@@ -56,7 +56,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 1,"Who made the song ""Dancing Queen""?",Abba,Easy,3,0,music
 1,Who made the album Channel Orange?,Frank Ocean,Medium,3,0,music
 1,When was the song 'Believe' by Cher released?,2011,Hard,2,0,music
-1,What is the name of Super Marios brother?,Mario and Luigi,Easy,3,0,video-games
+1,What is the name of Super Marios brother?,Mario and Luigi,Easy,3,0,science-technology
 1,What is the genre of Fortnite?,Battle Royale,Easy,2,0,music
 1,What is the most played game for PS1?,Tekken,Hard,2,0,sports
 1,Who invented the light bulb?,Edison,Hard,2,0,science-technology
@@ -70,7 +70,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 1,What is the top color in a rainbow? ,Red,Medium,2,0,science-technology
 1,For which song did Toy Story get nominated to the Oscar?,Toy song,Hard,2,0,music
 1,"At what age did Jimmy Hendrix, Janis Joplin and Kurt Cobain die?",25,Hard,2,0,music
-1,How many nominations to the Oscar has John Williams received?,3,Hard,2,0,music
+1,How many nominations to the Oscar has John Williams received?,3,Hard,2,0,science-technology
 1,What's the name of the most famous Italian plumber brothers?,Mario bros,Medium,2,0,music
 1,Who is the protagonist of the video game series Halo?,Master Chief,Easy,2,0,video-games
 1,In what year was Space Invaders released?,1976,Hard,2,0,science-technology
@@ -133,15 +133,15 @@ id,question,answer,difficulty,opinion,factuality,topic
 2,In what year did Louis Armstrong die?,,Medium,2,0,music
 2,What does L.O.L. stand for?,,Medium,1,0,science-technology
 2,What colour is Toad's west? (Mario),blue,Medium,2,0,video-games
-2,"In which game can a player declare ""OHH CHIBLETS!!""",,Hard,2,0,video-games
+2,"In which game can a player declare ""OHH CHIBLETS!!""",,Hard,2,0,sports
 3,Who was the first female computer scientist?,Marie-Antoinette (I dont know),Medium,1,1,science-technology
-3,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,3,0,science-technology
+3,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,3,0,music
 3,What is the formula for Newton's Second Law?,nil,Medium,3,0,science-technology
 3,Who is the most famous football player from MalmÃÂ¶?,Zlatan,Medium,3,0,sports
 3,How many holes are there in a round of a golf game?,12,Hard,3,0,sports
 3,In what countries was the Rugby World Cup first held? ,India,Hard,3,0,sports
 3,What equals 10+10?,20,Easy,3,0,science-technology
-3,What is the name of Dora the explorers monkey friend?,Money-buddy,Hard,3,0,music
+3,What is the name of Dora the explorers monkey friend?,Money-buddy,Hard,3,0,for-kids
 3,What is the chemical formula for water?,H2O,Easy,3,0,science-technology
 3,What is the famous song called from the movie Titanic? ,My heart will go on,Easy,3,0,music
 3,What was the name of the band that Michael Jackson was a part of with his siblings?,Jackson 5,Easy,3,0,music
@@ -169,7 +169,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 3,Who won the Turing award in 2005,A very smart person,Hard,3,0,sports
 3,Who won the World Men's Handball,DENMARK,Medium,1,0,science-technology
 3,Where was the last stage in tour de France 1990?,Stage of Despair,Hard,3,0,science-technology
-3,What is Usain Bolts last run time in an official competition? ,The fastest!,Hard,3,0,for-kids
+3,What is Usain Bolts last run time in an official competition? ,The fastest!,Hard,3,0,video-games
 3,Who is the latest official Disney princess?,The oldest is Snow White,Medium,3,0,science-technology
 3,What is the theme song for Hannah Montana?,Hannah Montana,Hard,3,0,music
 3,What is the name of the 7 dwarfs in Disneys' Snow White?,"Gnavpot, Dumpe, Lystig, Flovmand, Brille, ... ",Hard,3,0,science-technology
@@ -193,8 +193,8 @@ id,question,answer,difficulty,opinion,factuality,topic
 4,What is the better known stage name of Robyn Fenty?,I don't know,Hard,1,0,music
 4,What is the game called that is sometimes abbreviated by CS?,Counter Strike,Easy,1,0,video-games
 4,In which game is every assassinated person a real historical person with accurate death date and place? ,I don't know,Hard,2,0,video-games
-4,Which year was Fallout 3 released?,I don't know,Hard,1,0,music
-4,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,3,0,science-technology
+4,Which year was Fallout 3 released?,I don't know,Hard,1,0,for-kids
+4,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,3,0,sports
 4,"What is the term for a matrix with pairwise orthonormal vectors""? - ""Orthogonal matrix""? ""Orthonormal matrix""? ""Gram matrix""? ""Perpendicular matrix""?'",Gram,Hard,3,0,science-technology
 4,"In the programming language F#, a computation expression is..? - ""An expression used in list comprehensions""? ""A monad""? ""A parallelizable expression""? ""Computations with the 'unit' type""?'",Monad,Easy,3,0,science-technology
 4,"Micheal Jordan is inducted into the Hall of Fame in which sport? - ""Basketball""? ""Cycling""? ""Cricket""? ""Curling""?'",Basketball,Easy,3,0,sports
@@ -202,13 +202,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 4,"In which of the following four years did Denmark win the most gold medals at the olympic game? - ""1996, Atlanta""? ""2000, Sydney""? ""2004, Athens""? ""2008, Beijing""?'",Atlanta,Easy,3,0,sports
 4,"What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - ""Red and Yellow""? ""Green and White""? ""Black and Blue""? ""Blue and Purple""?' ",Red and Yellow,Easy,3,0,music
 4,"SpongeBob SquarePants has a best friend, what is his name? - ""Mr. Krabs""? ""Patrick Star""? ""Squidward tentacles""? ""David Hasselhoff""?'",Patrick Star,Medium,3,0,music
-4,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",I don't know,Hard,1,0,sports
+4,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",I don't know,Hard,1,0,science-technology
 4,"This guy had a hit song called Papirsklip - ""Bent Mejding""? ""Kim Larsen""? ""Johnny Madsen""? ""Jarl Friis Mikkelsen""?'",Kim Larsen,Easy,3,0,music
 4,"Which artist made the song Ring of Fire? - ""Johnny Cash""? ""Willie Nelson""? ""George Jones""? ""Hank Williams""?' ",Johnny Cash,Easy,3,0,music
 4,"Who made the song ""Get low"" featured on the soundtrack of the videogame ""Need for Speed: Underground""? - ""Ludacris""? ""Lil Wayne""? ""Lil John""? ""Nate Dogg""?' ",Nate Dogg,Medium,3,0,music
 4,"What gaming company created the character Mario? - ""Nintendo""? ""Sony""? ""Microsoft""? ""Sega""?'",Nintendo,Easy,3,0,video-games
 4,"What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - ""Oblivion""? ""Arena""? ""Morrowind""? ""Skyrim""?'",I don't know,Hard,3,0,video-games
-4,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",I don't know,Hard,2,0,video-games
+4,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",I don't know,Hard,2,0,sports
 4,Which country in the world has maximum number of robots working?,Japan,Medium,3,0,science-technology
 4,A device used to measure the strength of magnetic field.,I don't know,Hard,1,0,science-technology
 4,In which year did IT Act came into force in India?,I don't know,Hard,1,0,science-technology
@@ -224,10 +224,10 @@ id,question,answer,difficulty,opinion,factuality,topic
 4,which year the Minecrafts was released?,I don't know,Hard,1,0,music
 4,The character Master Hands is in which game?,I don't know,Hard,1,0,video-games
 4,What does PvE mean in Destiny 2 gaming activities?,I don't know,Medium,2,0,science-technology
-5,"When a very heavy star dies, it becomes what?",A dead star,Hard,1,1,music
-5,"Modern trains were revolutionized in 1964, by a Japanese high-speed electric multiple unit train. What was this train called?",ICE,Hard,2,0,science-technology
+5,"When a very heavy star dies, it becomes what?",A dead star,Hard,1,1,video-games
+5,"Modern trains were revolutionized in 1964, by a Japanese high-speed electric multiple unit train. What was this train called?",ICE,Hard,2,0,music
 5,"An ordinary bit can have two states. How many can a quantum bit, or qubit, have?",3,Hard,3,0,science-technology
-5,Football is played primarily using which body part?,Feet,Easy,2,0,science-technology
+5,Football is played primarily using which body part?,Feet,Easy,2,0,sports
 5,What footwear is customarily worn when participating in dressage at the Olympics?,Boots,Easy,2,0,sports
 5,What is the the type of sword primarily used for kendo called?,Sword,Hard,1,0,science-technology
 5,What is the colour of an orangutan?,"multiple colors, black, orange/red",Hard,1,1,science-technology
@@ -242,12 +242,12 @@ id,question,answer,difficulty,opinion,factuality,topic
 5,"When a person has irregular heart beats, what is installed in the body to normalize it?",A Pacemaker,Medium,3,0,science-technology
 5,"What was the name of the NASA Space mission, that brought man to the moon?",Apollo 13,Medium,3,0,science-technology
 5,"What does EP, the big round disc with gets played on the turntable, stand for?",electronic playable,Hard,3,0,sports
-5,Which consists of running on a grass field?,what? soccer,Hard,1,1,sports
+5,Which consists of running on a grass field?,what? soccer,Hard,1,1,science-technology
 5,What sport is exercised in a pool with lanelines splitting up the pool in 6-8 lanes?,Swimming,Easy,1,0,sports
 5,"When a dog is presented in front of judges, which it must perfectly execute a predefined set of tasks when directed to do so by his handler. What is the sport called?",Agility,Medium,2,0,sports
 5,What tool can be used to shovel sand in a sandbox?,a shovel,Easy,1,1,science-technology
 5,What is the name of the cartoon character who is female and explores the world?,Dora the explorer,Easy,1,0,video-games
-5,What card game has four colour groups and a word is yelled when one card is left in ones hand?,UNO,Easy,3,0,video-games
+5,What card game has four colour groups and a word is yelled when one card is left in ones hand?,UNO,Easy,3,0,music
 5,Which black person used a lot of money to turn the colour of his skin white?,Michael Jackson,Easy,2,0,science-technology
 5,Which pop star shaved her head in a life crisis?,Britney Spears,Easy,3,0,music
 5,What rock band was first called Smile?,The doors,Hard,3,0,music
@@ -255,7 +255,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 5,What game is associated with the floss-dance?,Fortnite,Easy,3,0,video-games
 5,What game has continuesly been postponed and delay because the amount of funding keeps growing?,"No clue, but there is properly a lot of games that fit",Hard,2,1,video-games
 5,What is the name of a disease passed on by mosquitoes?,Malaria,Medium,2,0,science-technology
-5,The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?,Isaac Newton,Medium,3,0,sports
+5,The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?,Isaac Newton,Medium,3,0,science-technology
 5,"If you are exposed to freezing temperatures for too long and develop frostbite, you run the risk of having to have frozen parts amputated due to which necrotic condition?",Brain freeze,Hard,3,0,sports
 5, 'El ClÃÂ¡sico' is a game between which club giants?,Real Madrid and Barcelona FC,Easy,3,0,sports
 5,Which is the only country to have played in each and every World Cup?,France,Easy,3,0,sports
@@ -270,7 +270,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 5,What is another name of Counter Strike?,CS,Medium,2,1,science-technology
 5,"In which game, every assassinated person is a real one with accurate death date and place?",Dunno,Hard,3,0,video-games
 6,What scientific theory is Charles Darwin best known for?,Theory of evolution,Easy,3,0,science-technology
-6,"Who was the first person to win two Nobel prizes, one in physics and one in chemistry?",Marie Curie,Medium,3,0,science-technology
+6,"Who was the first person to win two Nobel prizes, one in physics and one in chemistry?",Marie Curie,Medium,3,0,sports
 6,What are the four fundamental forces in physics?,"Weak nuclear force, strong nuclear force, gravity and electromagnetism",Medium,3,0,science-technology
 6,What sport did Michael Jordan play?,Basketball,Easy,3,0,sports
 6,What is the name of Manchester United home stadium?,Old Trafford,Medium,3,0,sports
@@ -320,7 +320,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 7,What nation won the World Championship in mens handball 2019?,Denmark,Easy,3,0,sports
 7,"What is the name of the best standard FIDE ranked chess player in the world, as of 2019?",Magnus Carlsen,Hard,3,0,sports
 7,What is the name of the professional ultimate frisbee league in the USA?,Ultimate frisbee championship,Hard,2,0,sports
-7,Who is Bamses best friend?,Gary,Hard,1,0,music
+7,Who is Bamses best friend?,Gary,Hard,1,0,for-kids
 7,Who is the author of the Harry Potter books?,J.K. Rowling,Easy,3,0,for-kids
 7,How many colors are in a rainbow?,Seven,Medium,3,0,science-technology
 7,What is Biggie Smalls alias?,The Notorious B.I.G,Hard,2,0,science-technology
@@ -332,7 +332,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 7,What planetary object is the sun?,A sun,Medium,3,0,science-technology
 7,How many bits are in a byte?,8,Medium,1,1,science-technology
 7,What is a white dwarf mostly composed of?,Atoms,Hard,3,0,science-technology
-7,What is table-tennis also called?,Ping Pong,Easy,3,0,sports
+7,What is table-tennis also called?,Ping Pong,Easy,3,0,science-technology
 7,How many points does a Touchdown score?,6,Medium,3,0,sports
 7,Who holds the current record of the longest field goal in the NFL?,Danny O'Conor,Hard,3,0,sports
 7,How many legs does a cat have?,4,Easy,3,0,science-technology
@@ -360,13 +360,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 7,In which year did the video game crash happen?,2007,Hard,2,0,video-games
 7,"In which game players are free to perform within the entirety of a procedurally generated deterministic open world universe, which includes over 18 quintillion planets?",Fortnite,Hard,3,0,sports
 8,Who was the first female computer scientist?,Valentina,Medium,3,0,science-technology
-8,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,3,0,science-technology
+8,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,3,0,music
 8,What is the formula for Newton's Second Law?,force = mass * acceleration,Easy,3,0,science-technology
 8,Who is the most famous football player from MalmÃÂ¶?,Zlatan,Easy,3,0,sports
 8,How many holes are there in a round of a golf game?,18,Medium,3,0,sports
 8,In what countries was the Rugby World Cup first held? ,England,Hard,2,0,sports
 8,What equals 10+10?,20,Easy,3,0,science-technology
-8,What is the name of Dora the explorers monkey friend?,No clue,Hard,1,0,music
+8,What is the name of Dora the explorers monkey friend?,No clue,Hard,1,0,for-kids
 8,What is the chemical formula for water?,H2O,Easy,3,0,science-technology
 8,What is the famous song called from the movie Titanic? ,My heart will go on,Medium,2,0,music
 8,What was the name of the band that Michael Jackson was a part of with his siblings?,Jackson 5,Medium,3,0,music
@@ -405,13 +405,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 8,What is the name of the most recent Call of Duty entry?,Call of Duty: Black ops 3,Medium,3,0,science-technology
 8,How many swords does Geralt (the witcher) carry?,1000,Hard,3,0,science-technology
 9,Who was the first female computer scientist?,Ada Lovelace,Easy,3,0,science-technology
-9,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,2,0,science-technology
+9,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,2,0,music
 9,What is the formula for Newton's Second Law?,idk,Hard,2,0,science-technology
 9,Who is the most famous football player from MalmÃÂ¶?,Ibrahimovic Z.,Medium,2,1,sports
 9,How many holes are there in a round of a golf game?,18,Medium,2,0,sports
 9,In what countries was the Rugby World Cup first held? ,england?,Medium,2,0,sports
 9,What equals 10+10?,20,Easy,2,0,science-technology
-9,What is the name of Dora the explorers monkey friend?,monkey,Medium,2,0,music
+9,What is the name of Dora the explorers monkey friend?,monkey,Medium,2,0,for-kids
 9,What is the chemical formula for water?,H2O,Easy,2,0,science-technology
 9,What is the famous song called from the movie Titanic? ,My heart will go on by Celine dion,Easy,2,0,music
 9,What was the name of the band that Michael Jackson was a part of with his siblings?,Jackson 5,Easy,2,0,music
@@ -448,16 +448,16 @@ id,question,answer,difficulty,opinion,factuality,topic
 9,In what year did Louis Armstrong die?,idk,Hard,2,0,music
 9,What does L.O.L. stand for?,"Laughing  out loud, League of legends ect.",Hard,2,1,science-technology
 9,What colour is Toad's west? (Mario),blue ,Medium,2,0,video-games
-9,"In which game can a player declare ""OHH CHIBLETS!!""",idk,Hard,2,0,video-games
+9,"In which game can a player declare ""OHH CHIBLETS!!""",idk,Hard,2,0,sports
 10,"How many moons does the planet Earth has? - ""None""? ""One""? ""Two""? ""More than two""?",One,Easy,3,0,science-technology
 10,"What is the 3rd element in the periodic table? - ""Hydrogen""? ""Lithium""? ""Oxygen""? ""Hellium""?",Lithium,Medium,2,0,science-technology
 10,"As of 2018, how many moons does Saturn has? - ""16""? ""33""? ""62? """"82""""?""",Don't know,Hard,2,0,science-technology
 10,"James Lebron is known for which sport? - ""Baseball""? ""American Football""? ""Cricket""? ""Basketball""?",Basketball,Easy,3,0,sports
 10,"Who won the world championship in handball 2019? - ""France""? ""Denmark""? ""Germany""? ""Norway""?",Denmark,Easy,3,0,sports
 10,"To which big club did famous Mikkel Hansen switch to in 2012? - ""PSG""? ""Barcelona""? ""Kiel""? ""Skjern""?",Don't know,Hard,1,0,sports
-10,"What colour clothing does Donald Duck's nephews wear? - ""Red, Green, Blue""? ""Red, Yellow, Blue""? ""Red, Green, Yellow""? ""Green, Yellow, Blue""?",Don't know,Hard,3,0,for-kids
+10,"What colour clothing does Donald Duck's nephews wear? - ""Red, Green, Blue""? ""Red, Yellow, Blue""? ""Red, Green, Yellow""? ""Green, Yellow, Blue""?",Don't know,Hard,3,0,sports
 10,"Who is older, Mickey Mouse or Donald Duck? - ""Mickey Mouse""? ""Donald Duck""?",Mickey Mouse,Hard,3,0,sports
-10,"Which of these is the oldest fully-animated Disney Film? - ""Dumbo""? ""Fantasia""? ""Pinocchio""? ""Snow White""?",Don't know,Hard,2,0,science-technology
+10,"Which of these is the oldest fully-animated Disney Film? - ""Dumbo""? ""Fantasia""? ""Pinocchio""? ""Snow White""?",Don't know,Hard,2,0,for-kids
 10,"Who was the composer of Symphoni No. 5? - ""Mozart""? ""Payne""? ""Beethoven""?",Beethoven,Hard,3,0,music
 10,"In which timeperiod was 'Happy Birthday to You' composed? - ""1800s""? ""1900s""? ""2000s""?",Don't know,Hard,1,0,science-technology
 10,"According to the ABRSM top list, what is the most popular instrument to learn by 2014? - ""Guitar""? ""Piano""? ""Keyboard""?",Don't know,Hard,1,0,music
@@ -494,7 +494,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 10,What is the name of the main character in Tomb Raider?,Lara Croft,Medium,3,0,science-technology
 10,Which country was Tetris developed in?,Soviet Union,Medium,3,0,science-technology
 10,Who features on the cover of UFC 2 alongside Ronda Rousey?,Don't know,Hard,2,0,music
-11,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,2,0,science-technology
+11,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,2,0,sports
 11,"What is the term for a matrix with pairwise orthonormal vectors""? - ""Orthogonal matrix""? ""Orthonormal matrix""? ""Gram matrix""? ""Perpendicular matrix""?'",Orthonormal matrix,Medium,1,0,science-technology
 11,"In the programming language F#, a computation expression is..? - ""An expression used in list comprehensions""? ""A monad""? ""A parallelizable expression""? ""Computations with the 'unit' type""?'",An expression used in list comprehensions,Hard,1,0,science-technology
 11,"Micheal Jordan is inducted into the Hall of Fame in which sport? - ""Basketball""? ""Cycling""? ""Cricket""? ""Curling""?'",Basketball,Easy,3,0,sports
@@ -502,13 +502,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 11,"In which of the following four years did Denmark win the most gold medals at the olympic game? - ""1996, Atlanta""? ""2000, Sydney""? ""2004, Athens""? ""2008, Beijing""?'",1996,Hard,3,0,sports
 11,"What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - ""Red and Yellow""? ""Green and White""? ""Black and Blue""? ""Blue and Purple""?' ",Blue and Purple,Hard,1,0,music
 11,"SpongeBob SquarePants has a best friend, what is his name? - ""Mr. Krabs""? ""Patrick Star""? ""Squidward tentacles""? ""David Hasselhoff""?'",Patrick Star,Easy,3,0,music
-11,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Marshall,Hard,2,0,sports
+11,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Marshall,Hard,2,0,science-technology
 11,"This guy had a hit song called Papirsklip - ""Bent Mejding""? ""Kim Larsen""? ""Johnny Madsen""? ""Jarl Friis Mikkelsen""?'",Kim Larsen,Medium,2,0,music
 11,"Which artist made the song Ring of Fire? - ""Johnny Cash""? ""Willie Nelson""? ""George Jones""? ""Hank Williams""?' ",Johnny Cash,Medium,3,0,music
 11,"Who made the song ""Get low"" featured on the soundtrack of the videogame ""Need for Speed: Underground""? - ""Ludacris""? ""Lil Wayne""? ""Lil John""? ""Nate Dogg""?' ",Ludacris,Hard,2,0,music
 11,"What gaming company created the character Mario? - ""Nintendo""? ""Sony""? ""Microsoft""? ""Sega""?'",Nintendo,Easy,3,0,video-games
 11,"What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - ""Oblivion""? ""Arena""? ""Morrowind""? ""Skyrim""?'",Skyrim,Easy,3,0,video-games
-11,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Metal Gear Solid,Hard,1,0,video-games
+11,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Metal Gear Solid,Hard,1,0,sports
 11,Which of the following programming languages is a front-end programming language: CSS? Java? Python? C? C++?,CSS,Easy,3,0,science-technology
 11,To which field does Natural Language Processing belong?,Computer Science,Easy,1,0,science-technology
 11,In which part of the human brain are visual sensory information processed?,Left,Medium,2,0,science-technology
@@ -523,7 +523,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 11,Who made the highly rated 1959 jazz album Kind of Blue?,Don't know,Hard,1,0,music
 11,What is the world's most famous soccer video game?,FIFA,Easy,2,0,video-games
 11,What is the name of the main character in Tomb Raider?,Lara Croft,Medium,2,0,science-technology
-11,In which year was the first Sega console released?,1987,Hard,1,0,music
+11,In which year was the first Sega console released?,1987,Hard,1,0,science-technology
 11,In what SI-unit is thermodynamic temperature measured?,C,Medium,2,0,science-technology
 11,What is the process of changing magnetic fields to generate power called?,Don't know,Hard,1,0,science-technology
 11,International Business Machines Corporation (IBM)?,IBM,Easy,1,0,science-technology
@@ -532,7 +532,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 11,From which country does Handball origin?,England,Hard,2,0,science-technology
 11,Which teletubbie is green?,Tinky Winky,Medium,2,0,for-kids
 11,What is the shadow called in The Bear In The Big Blue House,Don't know,Hard,1,0,music
-11,What is the name of the main villain in Kim Possible?,Don't know,Hard,2,0,science-technology
+11,What is the name of the main villain in Kim Possible?,Don't know,Hard,2,0,music
 11,In what band was John Lennon vocalist?,Beatles,Easy,3,0,music
 11,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",Don't know,Hard,2,0,music
 11,"In which year was the album ""Random Access Memories"" by Daft Punk released?",2000,Hard,2,0,music
@@ -545,7 +545,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 12,What nation won the World Championship in mens handball 2019?,Denmark,Medium,2,0,sports
 12,"What is the name of the best standard FIDE ranked chess player in the world, as of 2019?",Magnus Carlsen,Hard,2,0,sports
 12,What is the name of the professional ultimate frisbee league in the USA?,,Hard,1,1,sports
-12,Who is Bamses best friend?,Kylling,Easy,1,1,music
+12,Who is Bamses best friend?,Kylling,Easy,1,1,for-kids
 12,Who is the author of the Harry Potter books?,J. K. Rowling,Easy,3,0,for-kids
 12,How many colors are in a rainbow?,,Hard,1,1,science-technology
 12,What is Biggie Smalls alias?,Notorious BIG,Medium,1,0,science-technology
@@ -592,7 +592,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 13,From which country does Handball origin?,Denmark,Medium,3,0,science-technology
 13,Which teletubbie is green?,Dipsy,Easy,3,0,for-kids
 13,What is the shadow called in The Bear In The Big Blue House,Shadow,Medium,3,0,music
-13,What is the name of the main villain in Kim Possible?,dr drakcen,Medium,1,1,science-technology
+13,What is the name of the main villain in Kim Possible?,dr drakcen,Medium,1,1,music
 13,In what band was John Lennon vocalist?,The Beatles,Easy,3,0,music
 13,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",One of them,Medium,3,0,music
 13,"In which year was the album ""Random Access Memories"" by Daft Punk released?",2011,Hard,3,0,music
@@ -600,13 +600,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 13,Who is the creator of Mario?,Shigeru Miyamoto,Medium,3,0,video-games
 13,How many game systems (consoles & portable consoles) has Nintendo release?,14,Hard,3,0,video-games
 13,Who was the first female computer scientist?,some gal,Hard,2,1,science-technology
-13,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean,Easy,3,0,science-technology
+13,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean,Easy,3,0,music
 13,What is the formula for Newton's Second Law?,F=ma,Medium,3,0,science-technology
 13,Who is the most famous football player from MalmÃÂ¶?,Zlatan Ibrahimovic,Medium,2,1,sports
 13,How many holes are there in a round of a golf game?,18,Easy,3,0,sports
 13,In what countries was the Rugby World Cup first held? ,Australia,Hard,2,0,sports
 13,What equals 10+10?,20,Easy,1,0,science-technology
-13,What is the name of Dora the explorers monkey friend?,Boots,Medium,3,0,music
+13,What is the name of Dora the explorers monkey friend?,Boots,Medium,3,0,for-kids
 13,What is the chemical formula for water?,H2O,Easy,3,0,science-technology
 13,What is the famous song called from the movie Titanic? ,My Heart Will Go On,Medium,2,1,music
 13,What was the name of the band that Michael Jackson was a part of with his siblings?,The Jackson 5,Easy,3,0,music
@@ -646,7 +646,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 14,Name the creator of PS4?,Sony,Easy,3,0,science-technology
 14,Which British comedy group is the programming language Python named after?,Monty python,Easy,2,0,science-technology
 14,Which Polish scientist discovered the chemical element radium and was famous for her work with radiation?,Marie Curie,Medium,3,0,science-technology
-14,Which year was the first version of Windows released?,1993,Hard,2,0,music
+14,Which year was the first version of Windows released?,1993,Hard,2,0,video-games
 14,What is the American name for football? ,Soccer,Easy,3,0,for-kids
 14,"What is the name of an event involving athletes with a range of disabilities, which is organized every four years in parallel with the Olympic Games?",paralympics,Easy,2,0,sports
 14,Which year did a computer first defeat the world champion in the mind sport chess?,1998,Hard,3,0,sports
@@ -673,11 +673,11 @@ id,question,answer,difficulty,opinion,factuality,topic
 14,Who made the highly rated 1959 jazz album Kind of Blue?,King Kong,Hard,2,0,music
 14,What is the world's most famous soccer video game?,FIFA,Medium,3,0,video-games
 14,What is the name of the main character in Tomb Raider?,Lara Croft,Easy,3,0,science-technology
-14,In which year was the first Sega console released?,1982,Hard,2,0,music
-15,"When a very heavy star dies, it becomes what?",Iron,Easy,3,0,music
-15,"Modern trains were revolutionized in 1964, by a Japanese high-speed electric multiple unit train. What was this train called?",Bullet train,Hard,2,0,science-technology
+14,In which year was the first Sega console released?,1982,Hard,2,0,science-technology
+15,"When a very heavy star dies, it becomes what?",Iron,Easy,3,0,video-games
+15,"Modern trains were revolutionized in 1964, by a Japanese high-speed electric multiple unit train. What was this train called?",Bullet train,Hard,2,0,music
 15,"An ordinary bit can have two states. How many can a quantum bit, or qubit, have?",An infinite number of states,Medium,2,0,science-technology
-15,Football is played primarily using which body part?,The legs,Easy,2,0,science-technology
+15,Football is played primarily using which body part?,The legs,Easy,2,0,sports
 15,What footwear is customarily worn when participating in dressage at the Olympics?,Leather boots,Easy,2,0,sports
 15,What is the the type of sword primarily used for kendo called?,A bokken,Medium,2,0,science-technology
 15,What is the colour of an orangutan?,Brown,Easy,2,0,science-technology
@@ -692,12 +692,12 @@ id,question,answer,difficulty,opinion,factuality,topic
 15,"When a person has irregular heart beats, what is installed in the body to normalize it?",Pacemaker,Easy,3,0,science-technology
 15,"What was the name of the NASA Space mission, that brought man to the moon?",Apollo 11,Easy,3,0,science-technology
 15,"What does EP, the big round disc with gets played on the turntable, stand for?",Extended Play,Easy,2,0,sports
-15,Which consists of running on a grass field?,Track and field,Easy,1,1,sports
+15,Which consists of running on a grass field?,Track and field,Easy,1,1,science-technology
 15,What sport is exercised in a pool with lanelines splitting up the pool in 6-8 lanes?,Competitive swimming,Easy,2,0,sports
 15,"When a dog is presented in front of judges, which it must perfectly execute a predefined set of tasks when directed to do so by his handler. What is the sport called?",Obedience trial,Easy,2,0,sports
 15,What tool can be used to shovel sand in a sandbox?,Shovel,Easy,2,0,science-technology
 15,What is the name of the cartoon character who is female and explores the world?,Dora,Easy,2,0,video-games
-15,What card game has four colour groups and a word is yelled when one card is left in ones hand?,Uno,Easy,3,0,video-games
+15,What card game has four colour groups and a word is yelled when one card is left in ones hand?,Uno,Easy,3,0,music
 15,Which black person used a lot of money to turn the colour of his skin white?,Michael Jackson,Easy,3,0,science-technology
 15,Which pop star shaved her head in a life crisis?,Britney Spears,Easy,2,0,music
 15,What rock band was first called Smile?,Queen,Easy,3,0,music
@@ -724,7 +724,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 16,What is a gravitational wave?,Dirsturbances in the curvature of spacetime,Hard,1,0,science-technology
 16,How many pins are in a game of bowling?,10,Easy,3,0,video-games
 16,Has FIFA ever had a female president?,No,Medium,2,0,music
-16,Who was in 2006 voted the greatest profile to have ever played at F.C. Copenhagen by the fans?,Peter smeichel,Medium,3,0,sports
+16,Who was in 2006 voted the greatest profile to have ever played at F.C. Copenhagen by the fans?,Peter smeichel,Medium,3,0,music
 16,What shape has four sides?,Pyramid,Easy,2,0,science-technology
 16,What is Winnie-the-Pooh's favourite food?,Honey,Easy,3,0,science-technology
 16,What was the first name of the sherif from toy story?,Woody,Hard,3,0,science-technology
@@ -795,13 +795,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 17,In what game did we first encounter Mario (then Jumpman)?,Donkey Kong,Medium,3,0,video-games
 17,What release of Microsoft Windows was the first to include the game 'Microsoft Solitaire'?,Windows 8,Medium,3,0,video-games
 17,Who was the first female computer scientist?,Ada Lovelace,Hard,1,1,science-technology
-17,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean,Easy,3,0,science-technology
+17,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean,Easy,3,0,music
 17,What is the formula for Newton's Second Law?,f=ma,Medium,3,0,science-technology
 17,Who is the most famous football player from MalmÃÂ¶?,Zlatan,Hard,1,1,sports
 17,How many holes are there in a round of a golf game?,18,Easy,2,0,sports
 17,In what countries was the Rugby World Cup first held? ,Australia and New Zealand,Medium,3,0,sports
 17,What equals 10+10?,20,Easy,3,0,science-technology
-17,What is the name of Dora the explorers monkey friend?,Boots,Medium,3,0,music
+17,What is the name of Dora the explorers monkey friend?,Boots,Medium,3,0,for-kids
 17,What is the chemical formula for water?,H20,Easy,3,0,science-technology
 17,What is the famous song called from the movie Titanic? ,Hit 'em up,Medium,1,1,music
 17,What was the name of the band that Michael Jackson was a part of with his siblings?,Jackson 5,Medium,3,0,music
@@ -815,7 +815,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 18,What nation won the World Championship in mens handball 2019?,Denmark,Easy,3,0,sports
 18,"What is the name of the best standard FIDE ranked chess player in the world, as of 2019?",Magnus Carlsen,Hard,2,0,sports
 18,What is the name of the professional ultimate frisbee league in the USA?,The American Ultimate Disc League,Medium,3,0,sports
-18,Who is Bamses best friend?,Lille Skutt,Hard,1,0,music
+18,Who is Bamses best friend?,Lille Skutt,Hard,1,0,for-kids
 18,Who is the author of the Harry Potter books?,J. K. Rowling,Medium,3,0,for-kids
 18,How many colors are in a rainbow?,7,Easy,3,0,science-technology
 18,What is Biggie Smalls alias?,The Notorious B.I.G.,Easy,2,0,science-technology
@@ -827,7 +827,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 18,What planetary object is the sun?,A star,Medium,3,0,science-technology
 18,How many bits are in a byte?,8,Easy,3,0,science-technology
 18,What is a white dwarf mostly composed of?,Hydrogen or Helium,Hard,1,0,science-technology
-18,What is table-tennis also called?,ping-pong,Medium,3,0,sports
+18,What is table-tennis also called?,ping-pong,Medium,3,0,science-technology
 18,How many points does a Touchdown score?,6,Easy,3,0,sports
 18,Who holds the current record of the longest field goal in the NFL?,Matt Prate,Hard,2,0,sports
 18,How many legs does a cat have?,4,Easy,3,0,science-technology
@@ -855,13 +855,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 18,Which country was Tetris developed in?,Soviet Union,Hard,2,0,science-technology
 18,Who features on the cover of UFC 2 alongside Ronda Rousey?,Conor McGregor,Medium,3,0,music
 19,Who was the first female computer scientist?,don't know,Hard,2,1,science-technology
-19,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean theorem,Easy,2,1,science-technology
+19,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean theorem,Easy,2,1,music
 19,What is the formula for Newton's Second Law?,F = ma,Medium,1,0,science-technology
 19,Who is the most famous football player from MalmÃÂ¶?,don't know,Hard,1,1,sports
 19,How many holes are there in a round of a golf game?,5,Hard,2,0,sports
 19,In what countries was the Rugby World Cup first held? ,don't know,Hard,2,0,sports
 19,What equals 10+10?,20,Easy,2,0,science-technology
-19,What is the name of Dora the explorers monkey friend?,don't know,Hard,2,0,music
+19,What is the name of Dora the explorers monkey friend?,don't know,Hard,2,0,for-kids
 19,What is the chemical formula for water?,H2O,Easy,2,0,science-technology
 19,What is the famous song called from the movie Titanic? ,my heart will be go on,Easy,2,0,music
 19,What was the name of the band that Michael Jackson was a part of with his siblings?,don't know,Hard,1,0,music
@@ -883,13 +883,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 19,In what year did Louis Armstrong die?,don't know,Hard,2,0,music
 19,What does L.O.L. stand for?,league of legends,Easy,2,0,science-technology
 19,What colour is Toad's west? (Mario),don't know,Hard,2,0,video-games
-19,"In which game can a player declare ""OHH CHIBLETS!!""",don't know,Hard,1,0,video-games
+19,"In which game can a player declare ""OHH CHIBLETS!!""",don't know,Hard,1,0,sports
 19,What is the powerhouse of the cell,mitochondrion,Easy,2,0,science-technology
 19,What do you call the thing on the end of shoelaces,don't know,Medium,1,0,science-technology
 19,Who won the Turing award in 2005,don't know,Hard,2,0,sports
 19,Who won the World Men's Handball,don't know,Hard,2,1,science-technology
 19,Where was the last stage in tour de France 1990?,don't know,Hard,2,0,science-technology
-19,What is Usain Bolts last run time in an official competition? ,don't know,Hard,2,0,for-kids
+19,What is Usain Bolts last run time in an official competition? ,don't know,Hard,2,0,video-games
 19,Who is the latest official Disney princess?,don't know,Hard,2,0,science-technology
 19,What is the theme song for Hannah Montana?,don't know,Hard,2,0,music
 19,What is the name of the 7 dwarfs in Disneys' Snow White?,don't know,Medium,1,0,science-technology
@@ -928,7 +928,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 20,Who made the highly rated 1959 jazz album Kind of Blue?,Jazzy McJazz,Hard,3,0,music
 20,What is the world's most famous soccer video game?,FIFA,Easy,2,0,video-games
 20,What is the name of the main character in Tomb Raider?,Lara Croft,Easy,3,0,science-technology
-20,In which year was the first Sega console released?,1978,Hard,3,0,music
+20,In which year was the first Sega console released?,1978,Hard,3,0,science-technology
 20,What is the majority of the Cell nucleus?,Cell neclei,Hard,3,0,science-technology
 20,What is periodic table 14th element?,Arginin,Hard,2,0,science-technology
 20,What is translated from RNA in the Cell?,mRNA,Medium,3,0,science-technology
@@ -958,7 +958,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 21,What city hosted the Beatles as the resident band at the Kaiserkeller and Top Ten Club?,Hamburg,Medium,2,1,music
 21,What is the highest selling video game console of all time?,PlayStation,Easy,3,1,video-games
 21,What was the first console to have an analog stick and 3D graphics?,Nintendo 64,Medium,3,0,science-technology
-21,True or False? A British man had his name legally changed to PlayStation.,False,Easy,3,0,music
+21,True or False? A British man had his name legally changed to PlayStation.,False,Easy,3,0,for-kids
 21,In what SI-unit is thermodynamic temperature measured?,Kelvin,Easy,3,0,science-technology
 21,What is the process of changing magnetic fields to generate power called?,Electromagnetic induction,Hard,3,0,science-technology
 21,International Business Machines Corporation (IBM)?,True,Easy,1,1,science-technology
@@ -967,7 +967,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 21,From which country does Handball origin?,Denmark,Easy,2,0,science-technology
 21,Which teletubbie is green?,Dipsy,Easy,3,1,for-kids
 21,What is the shadow called in The Bear In The Big Blue House,Luna,Medium,2,1,music
-21,What is the name of the main villain in Kim Possible?,Dr. Drakken,Medium,2,1,science-technology
+21,What is the name of the main villain in Kim Possible?,Dr. Drakken,Medium,2,1,music
 21,In what band was John Lennon vocalist?,The Beatles,Easy,3,0,music
 21,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",T.N.T,Medium,2,0,music
 21,"In which year was the album ""Random Access Memories"" by Daft Punk released?",2010,Hard,2,0,music
@@ -975,13 +975,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 21,Who is the creator of Mario?,Shigeru Miyamoto,Hard,3,0,video-games
 21,How many game systems (consoles & portable consoles) has Nintendo release?,10,Medium,3,0,video-games
 21,Who was the first female computer scientist?,Ada Lovelace,Hard,1,0,science-technology
-21,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean,Medium,2,0,science-technology
+21,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagorean,Medium,2,0,music
 21,What is the formula for Newton's Second Law?,F = m*a,Medium,3,0,science-technology
 21,Who is the most famous football player from MalmÃÂ¶?,Sven Nilsson,Hard,1,1,sports
 21,How many holes are there in a round of a golf game?,24,Hard,3,0,sports
 21,In what countries was the Rugby World Cup first held? ,GB,Medium,3,0,sports
 21,What equals 10+10?,20,Easy,3,0,science-technology
-21,What is the name of Dora the explorers monkey friend?,Boots,Medium,3,1,music
+21,What is the name of Dora the explorers monkey friend?,Boots,Medium,3,1,for-kids
 21,What is the chemical formula for water?,H2O,Easy,3,0,science-technology
 21,What is the famous song called from the movie Titanic? ,Celine Dion -,Hard,2,1,music
 21,What was the name of the band that Michael Jackson was a part of with his siblings?,The Jackson 5,Hard,3,0,music
@@ -1001,7 +1001,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 22,"Who made the song ""Dancing Queen""?",ABBA,Easy,3,0,music
 22,Who made the album Channel Orange?,Frank Ocean,Hard,3,0,music
 22,When was the song 'Believe' by Cher released?,1998,Hard,2,0,music
-22,What is the name of Super Marios brother?,Mario & Luigi,Easy,3,0,video-games
+22,What is the name of Super Marios brother?,Mario & Luigi,Easy,3,0,science-technology
 22,What is the genre of Fortnite?,Battle Royale,Easy,3,0,music
 22,What is the most played game for PS1?,Metal Gear Solid,Hard,1,1,sports
 22,What is Linux's creator's full name?,Linus Torvalds,Hard,3,0,science-technology
@@ -1032,7 +1032,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 22,7 rings' is a song by which American singer?,Ariana Grande,Medium,2,0,music
 22,What was the debut album of Daft Punk called?,Homework,Hard,3,0,music
 22,WoW is an acronym for which Blizzard game?,World of Warcraft,Easy,3,0,video-games
-22,Which year was Fallout 3 released?,2008,Hard,3,0,music
+22,Which year was Fallout 3 released?,2008,Hard,3,0,for-kids
 22,KAG is an acronym for which indie game?,King Arthur's Gold,Hard,2,0,video-games
 23,In what SI-unit is thermodynamic temperature measured?,K,Hard,2,0,science-technology
 23,What is the process of changing magnetic fields to generate power called?,dont know,Hard,2,0,science-technology
@@ -1042,7 +1042,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 23,From which country does Handball origin?,Denmark,Medium,1,1,science-technology
 23,Which teletubbie is green?,Dipsy,Hard,2,0,for-kids
 23,What is the shadow called in The Bear In The Big Blue House,Blop,Hard,2,0,music
-23,What is the name of the main villain in Kim Possible?,snopp,Hard,1,0,science-technology
+23,What is the name of the main villain in Kim Possible?,snopp,Hard,1,0,music
 23,In what band was John Lennon vocalist?,The Beatles,Easy,3,0,music
 23,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",The first album,Hard,2,0,music
 23,"In which year was the album ""Random Access Memories"" by Daft Punk released?",2005,Medium,2,0,music
@@ -1093,8 +1093,8 @@ id,question,answer,difficulty,opinion,factuality,topic
 24,What is the better known stage name of Robyn Fenty?,do not know,Hard,1,0,music
 24,What is the game called that is sometimes abbreviated by CS?,Counter strike,Medium,3,0,video-games
 24,In which game is every assassinated person a real historical person with accurate death date and place? ,do not know,Hard,3,0,video-games
-24,Which year was Fallout 3 released?,2008,Hard,1,0,music
-24,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,2,0,science-technology
+24,Which year was Fallout 3 released?,2008,Hard,1,0,for-kids
+24,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,2,0,sports
 24,"What is the term for a matrix with pairwise orthonormal vectors""? - ""Orthogonal matrix""? ""Orthonormal matrix""? ""Gram matrix""? ""Perpendicular matrix""?'",orthogonal matrix,Medium,1,0,science-technology
 24,"In the programming language F#, a computation expression is..? - ""An expression used in list comprehensions""? ""A monad""? ""A parallelizable expression""? ""Computations with the 'unit' type""?'",a monad,Hard,1,0,science-technology
 24,"Micheal Jordan is inducted into the Hall of Fame in which sport? - ""Basketball""? ""Cycling""? ""Cricket""? ""Curling""?'",Basketball,Easy,3,0,sports
@@ -1102,14 +1102,14 @@ id,question,answer,difficulty,opinion,factuality,topic
 24,"In which of the following four years did Denmark win the most gold medals at the olympic game? - ""1996, Atlanta""? ""2000, Sydney""? ""2004, Athens""? ""2008, Beijing""?'","2008,Beijing",Hard,3,0,sports
 24,"What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - ""Red and Yellow""? ""Green and White""? ""Black and Blue""? ""Blue and Purple""?' ",black and blue ,Hard,3,0,music
 24,"SpongeBob SquarePants has a best friend, what is his name? - ""Mr. Krabs""? ""Patrick Star""? ""Squidward tentacles""? ""David Hasselhoff""?'",Patrick Star,Easy,3,0,music
-24,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Sky,Hard,3,0,sports
+24,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Sky,Hard,3,0,science-technology
 24,"This guy had a hit song called Papirsklip - ""Bent Mejding""? ""Kim Larsen""? ""Johnny Madsen""? ""Jarl Friis Mikkelsen""?'",Kim Larsen,Medium,1,0,music
 24,"Which artist made the song Ring of Fire? - ""Johnny Cash""? ""Willie Nelson""? ""George Jones""? ""Hank Williams""?' ",Johnny Cash,Easy,2,0,music
 24,"Who made the song ""Get low"" featured on the soundtrack of the videogame ""Need for Speed: Underground""? - ""Ludacris""? ""Lil Wayne""? ""Lil John""? ""Nate Dogg""?' ",Ludacris,Hard,2,0,music
 24,"What gaming company created the character Mario? - ""Nintendo""? ""Sony""? ""Microsoft""? ""Sega""?'",Nintendo,Easy,3,0,video-games
 24,"What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - ""Oblivion""? ""Arena""? ""Morrowind""? ""Skyrim""?'",Morrowind,Hard,1,0,video-games
-24,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Metal Gear Solid,Medium,2,0,video-games
-24,Who is the only danish recipient of a Turing Award?,Do not know,Hard,2,0,sports
+24,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Metal Gear Solid,Medium,2,0,sports
+24,Who is the only danish recipient of a Turing Award?,Do not know,Hard,2,0,science-technology
 24,What is the first 6 digits of Pi?,3.14159,Easy,3,0,science-technology
 24,What is the melting point of Uranium in Kelvin?,1405K,Hard,1,0,science-technology
 24,Who was the top scorer at the 2002 World Cup in Football?,Ronaldo,Easy,3,0,sports
@@ -1123,7 +1123,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 24,Who produced Iggy Pop's debut album 'The Idiot'?,Do not know,Hard,1,0,music
 24,What color is Mario's hat?,red,Easy,3,0,science-technology
 24,Which year was the first PlayStation released in Japan?,1994,Medium,2,0,science-technology
-24,When was Donkey Kong first released?,1981,Hard,3,0,music
+24,When was Donkey Kong first released?,1981,Hard,3,0,science-technology
 25,In what SI-unit is thermodynamic temperature measured?,Celsius,Medium,3,0,science-technology
 25,What is the process of changing magnetic fields to generate power called?,induction,Medium,3,0,science-technology
 25,International Business Machines Corporation (IBM)?,,Hard,1,1,science-technology
@@ -1132,7 +1132,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 25,From which country does Handball origin?,-,Hard,1,0,science-technology
 25,Which teletubbie is green?,tinki winky,Easy,2,0,for-kids
 25,What is the shadow called in The Bear In The Big Blue House,-,Hard,1,0,music
-25,What is the name of the main villain in Kim Possible?,,Hard,2,0,science-technology
+25,What is the name of the main villain in Kim Possible?,,Hard,2,0,music
 25,In what band was John Lennon vocalist?,The Beatles,Medium,3,0,music
 25,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",-,Medium,3,0,music
 25,"In which year was the album ""Random Access Memories"" by Daft Punk released?",-,Hard,1,0,music
@@ -1151,17 +1151,17 @@ id,question,answer,difficulty,opinion,factuality,topic
 25,What kind of music does Skrillex perform?,dubstep,Easy,3,0,music
 25,Which country won the 2018 eurovision?,Germany,Medium,3,0,science-technology
 25,Which composer was deaf?,Ludwig van Beethoven,Easy,3,0,music
-25,Which company does Blizzard belong to? ,Activision,Medium,3,0,sports
+25,Which company does Blizzard belong to? ,Activision,Medium,3,0,for-kids
 25,Who publishes the Mario games?,Nintendo,Easy,2,0,video-games
 25,MMO RPG greated by Blizzard?,World of Warcraft,Easy,3,0,science-technology
 25,Who was the first female computer scientist?,Ada Lovelace,Easy,3,0,science-technology
-25,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras's theorem,Easy,3,0,science-technology
+25,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras's theorem,Easy,3,0,music
 25,What is the formula for Newton's Second Law?,a=F/m,Medium,3,0,science-technology
 25,Who is the most famous football player from MalmÃÂ¶?,-,Hard,3,0,sports
 25,How many holes are there in a round of a golf game?,18,Medium,3,0,sports
 25,In what countries was the Rugby World Cup first held? ,USA,Medium,3,0,sports
 25,What equals 10+10?,20,Easy,3,0,science-technology
-25,What is the name of Dora the explorers monkey friend?,-,Easy,3,0,music
+25,What is the name of Dora the explorers monkey friend?,-,Easy,3,0,for-kids
 25,What is the chemical formula for water?,H2O,Easy,3,0,science-technology
 25,What is the famous song called from the movie Titanic? ,-,Medium,3,0,music
 25,What was the name of the band that Michael Jackson was a part of with his siblings?,-,Easy,3,0,music
@@ -1170,7 +1170,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 25,What game is Lara Croft associated with?,Tomb Raider,Easy,3,0,video-games
 25,What do you need to write to get a lot of money for free in Sims?,motherlode,Medium,3,0,science-technology
 26,What is a sum of triangle angles?,180,Medium,3,0,science-technology
-26,When was a first iPhone released?,2007,Easy,3,0,music
+26,When was a first iPhone released?,2007,Easy,3,0,science-technology
 26,Which year was electricity invented?,1850,Hard,1,0,science-technology
 26,How many players are on the field when playing football?,12,Hard,1,0,sports
 26,Who has won most olympic medals?,Greece,Medium,2,0,sports
@@ -1213,8 +1213,8 @@ id,question,answer,difficulty,opinion,factuality,topic
 26,In what year did Louis Armstrong die?,I dont know,Hard,2,0,music
 26,What does L.O.L. stand for?,League of Legends,Easy,3,0,science-technology
 26,What colour is Toad's west? (Mario),white or red?,Medium,3,1,video-games
-26,"In which game can a player declare ""OHH CHIBLETS!!""",I dont know,Hard,1,0,video-games
-27,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,3,0,science-technology
+26,"In which game can a player declare ""OHH CHIBLETS!!""",I dont know,Hard,1,0,sports
+27,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,3,0,sports
 27,"What is the term for a matrix with pairwise orthonormal vectors""? - ""Orthogonal matrix""? ""Orthonormal matrix""? ""Gram matrix""? ""Perpendicular matrix""?'",Orthonormal matrix,Hard,1,0,science-technology
 27,"In the programming language F#, a computation expression is..? - ""An expression used in list comprehensions""? ""A monad""? ""A parallelizable expression""? ""Computations with the 'unit' type""?'",A parallelizable expression,Hard,1,0,science-technology
 27,"Micheal Jordan is inducted into the Hall of Fame in which sport? - ""Basketball""? ""Cycling""? ""Cricket""? ""Curling""?'",Basketball,Easy,3,0,sports
@@ -1222,13 +1222,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 27,"In which of the following four years did Denmark win the most gold medals at the olympic game? - ""1996, Atlanta""? ""2000, Sydney""? ""2004, Athens""? ""2008, Beijing""?'","2000, Sydney",Hard,1,0,sports
 27,"What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - ""Red and Yellow""? ""Green and White""? ""Black and Blue""? ""Blue and Purple""?' ",Green and White,Medium,2,0,music
 27,"SpongeBob SquarePants has a best friend, what is his name? - ""Mr. Krabs""? ""Patrick Star""? ""Squidward tentacles""? ""David Hasselhoff""?'",Patrick Star,Easy,3,0,music
-27,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Sky,Hard,2,0,sports
+27,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Sky,Hard,2,0,science-technology
 27,"This guy had a hit song called Papirsklip - ""Bent Mejding""? ""Kim Larsen""? ""Johnny Madsen""? ""Jarl Friis Mikkelsen""?'",Kim Larsen,Hard,1,0,music
 27,"Which artist made the song Ring of Fire? - ""Johnny Cash""? ""Willie Nelson""? ""George Jones""? ""Hank Williams""?' ",Johnny Cash,Easy,3,0,music
 27,"Who made the song ""Get low"" featured on the soundtrack of the videogame ""Need for Speed: Underground""? - ""Ludacris""? ""Lil Wayne""? ""Lil John""? ""Nate Dogg""?' ",Ludacris,Medium,1,0,music
 27,"What gaming company created the character Mario? - ""Nintendo""? ""Sony""? ""Microsoft""? ""Sega""?'",Nintendo,Easy,3,0,video-games
 27,"What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - ""Oblivion""? ""Arena""? ""Morrowind""? ""Skyrim""?'",Oblivion,Medium,1,0,video-games
-27,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Grand Theft Auto,Hard,1,0,video-games
+27,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Grand Theft Auto,Hard,1,0,sports
 27,What does a light-year measure?,distance that light travels in one year,Medium,1,0,science-technology
 27,Which country in the world has maximum number of robots working?,China,Medium,1,0,science-technology
 27,The fear of being out of mobile phone contact is known as?,Fear of missing out,Hard,1,0,science-technology
@@ -1252,7 +1252,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 27,From which country does Handball origin?,Germany,Hard,2,0,science-technology
 27,Which teletubbie is green?,Bubu,Easy,1,0,for-kids
 27,What is the shadow called in The Bear In The Big Blue House,I don't know,Hard,2,0,music
-27,What is the name of the main villain in Kim Possible?,I don't know,Medium,2,0,science-technology
+27,What is the name of the main villain in Kim Possible?,I don't know,Medium,2,0,music
 27,In what band was John Lennon vocalist?,Beatles,Easy,3,0,music
 27,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",I don't know,Hard,2,0,music
 27,"In which year was the album ""Random Access Memories"" by Daft Punk released?",1998,Hard,2,0,music
@@ -1271,7 +1271,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 28,"Who made the song ""Dancing Queen""?",Abba,Easy,3,0,music
 28,Who made the album Channel Orange?,Frank ocean,Medium,3,0,music
 28,When was the song 'Believe' by Cher released?,1998,Hard,1,0,music
-28,What is the name of Super Marios brother?,Luigi,Easy,3,0,video-games
+28,What is the name of Super Marios brother?,Luigi,Easy,3,0,science-technology
 28,What is the genre of Fortnite?,Battle Royal,Medium,3,0,music
 28,What is the most played game for PS1?,Metal gear solid,Hard,1,1,sports
 28,Who invented the light bulb?,Edison,Medium,3,0,science-technology
@@ -1285,7 +1285,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 28,What is the top color in a rainbow? ,red,Medium,3,0,science-technology
 28,For which song did Toy Story get nominated to the Oscar?,You've Got a Friend in Me,Medium,3,0,music
 28,"At what age did Jimmy Hendrix, Janis Joplin and Kurt Cobain die?",27,Easy,3,0,music
-28,How many nominations to the Oscar has John Williams received?,51,Hard,3,0,music
+28,How many nominations to the Oscar has John Williams received?,51,Hard,3,0,science-technology
 28,What's the name of the most famous Italian plumber brothers?,Mario Brothers,Medium,3,0,music
 28,Who is the protagonist of the video game series Halo?,Master Chief,Easy,3,0,video-games
 28,In what year was Space Invaders released?,1978,Hard,3,0,science-technology
@@ -1302,7 +1302,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 28,7 rings' is a song by which American singer?,Ariana grande,Medium,3,0,music
 28,What was the debut album of Daft Punk called?,Homework,Medium,3,0,music
 28,WoW is an acronym for which Blizzard game?,World of Warcraft,Easy,3,0,video-games
-28,Which year was Fallout 3 released?,2008,Medium,3,0,music
+28,Which year was Fallout 3 released?,2008,Medium,3,0,for-kids
 28,KAG is an acronym for which indie game?,King Arthur's Gold,Hard,2,0,video-games
 29,Which planet is the 4th from the Sun?,Mars,Easy,3,0,science-technology
 29,Who won the Nobel Prize in Physiology or Medicine in 1962?,James Watson,Medium,2,0,science-technology
@@ -1335,13 +1335,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 29,In what game did we first encounter Mario (then Jumpman)?,Mario Kart,Easy,2,0,video-games
 29,What release of Microsoft Windows was the first to include the game 'Microsoft Solitaire'?,1990,Hard,3,0,video-games
 29,Who was the first female computer scientist?,Ada Lovelace,Hard,3,0,science-technology
-29,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,1,0,science-technology
+29,What theorem is this equation: a^2 + b^2 = c^2 from?,Pythagoras,Easy,1,0,music
 29,What is the formula for Newton's Second Law?,F = MA,Easy,2,0,science-technology
 29,Who is the most famous football player from MalmÃÂ¶?,Zlatan Ibrahamovich ,Easy,1,1,sports
 29,How many holes are there in a round of a golf game?,12,Medium,2,0,sports
 29,In what countries was the Rugby World Cup first held? ,Australia and New Zealand ,Medium,1,0,sports
 29,What equals 10+10?,20,Easy,2,0,science-technology
-29,What is the name of Dora the explorers monkey friend?,Dora,Medium,2,0,music
+29,What is the name of Dora the explorers monkey friend?,Dora,Medium,2,0,for-kids
 29,What is the chemical formula for water?,H20,Easy,3,0,science-technology
 29,What is the famous song called from the movie Titanic? ,My heart will go on ,Medium,2,0,music
 29,What was the name of the band that Michael Jackson was a part of with his siblings?,Jackson 5,Easy,3,0,music
@@ -1394,7 +1394,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 30,"What is the name of the video game that revolves around catching, training and battling with creatures?",PokÃÂ©mon,Easy,3,0,video-games
 30,"In the PokÃÂ©mon series, which generation was the first to feature the Pokemon Mudkip?",First,Hard,3,0,video-games
 30,"In the PokÃÂ©mon game series, what level does Pupitar evolve into Tyranitar?",No idea,Hard,3,0,video-games
-31,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,3,0,science-technology
+31,"What is the absolute value of -4? - ""4""? ""16""? ""-4""? ""0""?'",4,Easy,3,0,sports
 31,"What is the term for a matrix with pairwise orthonormal vectors""? - ""Orthogonal matrix""? ""Orthonormal matrix""? ""Gram matrix""? ""Perpendicular matrix""?'",Orthogonal matrix,Hard,2,0,science-technology
 31,"In the programming language F#, a computation expression is..? - ""An expression used in list comprehensions""? ""A monad""? ""A parallelizable expression""? ""Computations with the 'unit' type""?'",An expression used in list comprehensions,Hard,1,0,science-technology
 31,"Micheal Jordan is inducted into the Hall of Fame in which sport? - ""Basketball""? ""Cycling""? ""Cricket""? ""Curling""?'",Basketball,Easy,3,0,sports
@@ -1402,14 +1402,14 @@ id,question,answer,difficulty,opinion,factuality,topic
 31,"In which of the following four years did Denmark win the most gold medals at the olympic game? - ""1996, Atlanta""? ""2000, Sydney""? ""2004, Athens""? ""2008, Beijing""?'","2000, Sydney",Medium,3,0,sports
 31,"What is the color of the chiney on top of Bamses house (from Bamse og Kylling)? - ""Red and Yellow""? ""Green and White""? ""Black and Blue""? ""Blue and Purple""?' ",Red and Yellow,Medium,3,0,music
 31,"SpongeBob SquarePants has a best friend, what is his name? - ""Mr. Krabs""? ""Patrick Star""? ""Squidward tentacles""? ""David Hasselhoff""?'",Squidward Tentacles,Medium,3,0,music
-31,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Sky,Hard,2,0,sports
+31,"Which of these dogs are not one of the original dogs in the first season of Paw Patrol? - ""Rubble""? ""Sky""? ""Marshall""? ""Tracker""?'",Sky,Hard,2,0,science-technology
 31,"This guy had a hit song called Papirsklip - ""Bent Mejding""? ""Kim Larsen""? ""Johnny Madsen""? ""Jarl Friis Mikkelsen""?'",Bent Mejding,Hard,2,0,music
 31,"Which artist made the song Ring of Fire? - ""Johnny Cash""? ""Willie Nelson""? ""George Jones""? ""Hank Williams""?' ",Johnny Cash,Medium,3,0,music
 31,"Who made the song ""Get low"" featured on the soundtrack of the videogame ""Need for Speed: Underground""? - ""Ludacris""? ""Lil Wayne""? ""Lil John""? ""Nate Dogg""?' ",Lil John,Medium,3,0,music
 31,"What gaming company created the character Mario? - ""Nintendo""? ""Sony""? ""Microsoft""? ""Sega""?'",Sony,Hard,3,0,video-games
 31,"What is the subtitle of the fifth Elder Scrolls Game by Bethesda Studios? - ""Oblivion""? ""Arena""? ""Morrowind""? ""Skyrim""?'",Skyrim,Hard,3,0,video-games
-31,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Mass Effect,Hard,3,0,video-games
-31,Who is the only danish recipient of a Turing Award?,Some old dude from DIKU,Hard,2,0,sports
+31,"The secret organization ""La-li-lu-le-lo"" is mentioned in what game series? - ""Mass Effect""? ""Metal Gear Solid""? ""World of Warcraft""? ""Grand Theft Auto""?'",Mass Effect,Hard,3,0,sports
+31,Who is the only danish recipient of a Turing Award?,Some old dude from DIKU,Hard,2,0,science-technology
 31,What is the first 6 digits of Pi?,3.14156,Medium,3,0,science-technology
 31,What is the melting point of Uranium in Kelvin?,270,Hard,3,0,science-technology
 31,Who was the top scorer at the 2002 World Cup in Football?,Messi,Hard,3,0,sports
@@ -1423,7 +1423,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 31,Who produced Iggy Pop's debut album 'The Idiot'?,Derp Dermain,Hard,3,0,music
 31,What color is Mario's hat?,White,Medium,3,0,science-technology
 31,Which year was the first PlayStation released in Japan?,1992,Hard,3,0,science-technology
-31,When was Donkey Kong first released?,1987,Hard,3,0,music
+31,When was Donkey Kong first released?,1987,Hard,3,0,science-technology
 31,Which country in the world has maximum number of robots working?,Japan,Medium,3,0,science-technology
 31,A device used to measure the strength of magnetic field.,Magnemometor,Hard,3,0,science-technology
 31,In which year did IT Act came into force in India?,2008,Hard,3,0,science-technology
@@ -1440,7 +1440,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 31,The character Master Hands is in which game?,Hands of Glory,Hard,3,0,video-games
 31,What does PvE mean in Destiny 2 gaming activities?,Peer vs Environment,Hard,1,0,science-technology
 32,What scientific theory is Charles Darwin best known for?,evolution theory ,Easy,3,1,science-technology
-32,"Who was the first person to win two Nobel prizes, one in physics and one in chemistry?",Nobel,Hard,3,0,science-technology
+32,"Who was the first person to win two Nobel prizes, one in physics and one in chemistry?",Nobel,Hard,3,0,sports
 32,What are the four fundamental forces in physics?,"gravity, strong interaction",Hard,2,0,science-technology
 32,What sport did Michael Jordan play?,basketball,Easy,2,0,sports
 32,What is the name of Manchester United home stadium?,Old Trafford,Easy,2,0,sports
@@ -1513,7 +1513,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 33,Who made the highly rated 1959 jazz album Kind of Blue?,Nat King Cole,Medium,3,0,music
 33,What is the world's most famous soccer video game?,FIFA,Easy,3,0,video-games
 33,What is the name of the main character in Tomb Raider?,Lara Croft,Easy,3,0,science-technology
-33,In which year was the first Sega console released?,1980,Medium,3,0,music
+33,In which year was the first Sega console released?,1980,Medium,3,0,science-technology
 33,In what SI-unit is thermodynamic temperature measured?,Kelvin,Medium,3,0,science-technology
 33,What is the process of changing magnetic fields to generate power called?,Electromagnetism,Medium,3,0,science-technology
 33,International Business Machines Corporation (IBM)?,Not a question dawg,Hard,1,1,science-technology
@@ -1522,7 +1522,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 33,From which country does Handball origin?,Denmark,Medium,2,0,science-technology
 33,Which teletubbie is green?,Dipsy,Medium,2,0,for-kids
 33,What is the shadow called in The Bear In The Big Blue House,John,Hard,3,0,music
-33,What is the name of the main villain in Kim Possible?,John,Medium,2,0,science-technology
+33,What is the name of the main villain in Kim Possible?,John,Medium,2,0,music
 33,In what band was John Lennon vocalist?,The Beatles,Medium,2,0,music
 33,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",ThunderBird,Medium,2,0,music
 33,"In which year was the album ""Random Access Memories"" by Daft Punk released?",1994,Medium,2,0,music
@@ -1530,7 +1530,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 33,Who is the creator of Mario?,Nintendo,Easy,3,0,video-games
 33,How many game systems (consoles & portable consoles) has Nintendo release?,10,Medium,3,0,video-games
 34,What scientific theory is Charles Darwin best known for?,Evolution,Easy,2,0,science-technology
-34,"Who was the first person to win two Nobel prizes, one in physics and one in chemistry?",Marie Curie,Hard,3,0,science-technology
+34,"Who was the first person to win two Nobel prizes, one in physics and one in chemistry?",Marie Curie,Hard,3,0,sports
 34,What are the four fundamental forces in physics?,"Strong, Weak, Gravitational, Electromagnetic",Medium,1,0,science-technology
 34,What sport did Michael Jordan play?,Basketball,Easy,3,0,sports
 34,What is the name of Manchester United home stadium?,Old Trafford,Easy,3,0,sports
@@ -1582,7 +1582,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 35,From which country does Handball origin?,Denmark,Easy,3,0,science-technology
 35,Which teletubbie is green?,Dipsy,Easy,3,0,for-kids
 35,What is the shadow called in The Bear In The Big Blue House,shadow ,Hard,3,0,music
-35,What is the name of the main villain in Kim Possible?,Dr. Drakken,Easy,3,0,science-technology
+35,What is the name of the main villain in Kim Possible?,Dr. Drakken,Easy,3,0,music
 35,In what band was John Lennon vocalist?,Beatles,Easy,3,0,music
 35,"On what album does ""Thunderstruck"" and ""TNT"" by AC/DC appear?",The Razors Edge,Hard,1,1,music
 35,"In which year was the album ""Random Access Memories"" by Daft Punk released?",2013,Easy,3,0,music
@@ -1590,13 +1590,13 @@ id,question,answer,difficulty,opinion,factuality,topic
 35,Who is the creator of Mario?,Nintendo,Easy,3,0,video-games
 35,How many game systems (consoles & portable consoles) has Nintendo release?,15,Hard,3,0,video-games
 35,Who was the first female computer scientist?,Ada Lovelace,Easy,1,0,science-technology
-35,What theorem is this equation: a^2 + b^2 = c^2 from?,pythagorean theorem,Medium,3,0,science-technology
+35,What theorem is this equation: a^2 + b^2 = c^2 from?,pythagorean theorem,Medium,3,0,music
 35,What is the formula for Newton's Second Law?,F=m*a,Medium,1,0,science-technology
 35,Who is the most famous football player from MalmÃÂ¶?,Krister Kristensson,Hard,2,0,sports
 35,How many holes are there in a round of a golf game?,18,Easy,3,0,sports
 35,In what countries was the Rugby World Cup first held? ,New Zealand and Australia,Medium,3,0,sports
 35,What equals 10+10?,20,Easy,3,0,science-technology
-35,What is the name of Dora the explorers monkey friend?,Boots,Hard,2,0,music
+35,What is the name of Dora the explorers monkey friend?,Boots,Hard,2,0,for-kids
 35,What is the chemical formula for water?,H2O,Easy,3,0,science-technology
 35,What is the famous song called from the movie Titanic? ,My Heart Will Go On,Easy,3,0,music
 35,What was the name of the band that Michael Jackson was a part of with his siblings?,Jackson Five,Hard,3,0,music
@@ -1622,7 +1622,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 36,What planetary object is the sun?,A star,Easy,1,0,science-technology
 36,How many bits are in a byte?,8,Easy,3,0,science-technology
 36,What is a white dwarf mostly composed of?,Dark matter,Hard,2,0,science-technology
-36,What is table-tennis also called?,Ping-pong,Easy,1,1,sports
+36,What is table-tennis also called?,Ping-pong,Easy,1,1,science-technology
 36,How many points does a Touchdown score?,6,Medium,3,0,sports
 36,Who holds the current record of the longest field goal in the NFL?,Morten Andersen,Hard,2,0,sports
 36,How many legs does a cat have?,Four,Easy,3,0,science-technology
@@ -1667,12 +1667,12 @@ id,question,answer,difficulty,opinion,factuality,topic
 37,"When a person has irregular heart beats, what is installed in the body to normalize it?",pacemaker,Easy,3,0,science-technology
 37,"What was the name of the NASA Space mission, that brought man to the moon?",Apollo 11,Easy,3,0,science-technology
 37,"What does EP, the big round disc with gets played on the turntable, stand for?",no clue,Hard,2,0,sports
-37,Which consists of running on a grass field?,soccer,Easy,1,1,sports
+37,Which consists of running on a grass field?,soccer,Easy,1,1,science-technology
 37,What sport is exercised in a pool with lanelines splitting up the pool in 6-8 lanes?,swimming,Easy,2,0,sports
 37,"When a dog is presented in front of judges, which it must perfectly execute a predefined set of tasks when directed to do so by his handler. What is the sport called?",dog show,Hard,2,0,sports
 37,What tool can be used to shovel sand in a sandbox?,a hovel,Easy,2,0,science-technology
 37,What is the name of the cartoon character who is female and explores the world?,dora the explorer,Easy,1,0,video-games
-37,What card game has four colour groups and a word is yelled when one card is left in ones hand?,Uno,Medium,1,0,video-games
+37,What card game has four colour groups and a word is yelled when one card is left in ones hand?,Uno,Medium,1,0,music
 37,Which black person used a lot of money to turn the colour of his skin white?,Michael Jackson,Easy,1,1,science-technology
 37,Which pop star shaved her head in a life crisis?,Miley Cyrus,Hard,1,0,music
 37,What rock band was first called Smile?,No clue,Hard,2,0,music
@@ -1695,7 +1695,7 @@ id,question,answer,difficulty,opinion,factuality,topic
 37,What is the best selling video game of all time?,Tetris,Easy,3,0,video-games
 37,What is IGNÃ¢ÂÂs Best Game of The Year 2018?,God of War,Easy,3,0,video-games
 37,What is the name of a disease passed on by mosquitoes?,Malaria,Easy,1,1,science-technology
-37,The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?,Isaac Newton,Easy,3,0,sports
+37,The SI unit of force is named after which 17th-18th century English mathematician famous for his universal theory of gravitation?,Isaac Newton,Easy,3,0,science-technology
 37,"If you are exposed to freezing temperatures for too long and develop frostbite, you run the risk of having to have frozen parts amputated due to which necrotic condition?",no clue,Hard,3,0,sports
 37, 'El ClÃÂ¡sico' is a game between which club giants?,Real Madrid and FC Barcelona,Easy,1,0,sports
 37,Which is the only country to have played in each and every World Cup?,Spain,Hard,2,0,sports
