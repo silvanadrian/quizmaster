@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from classification import classify_questions
 from random import randint
+from collections import Counter
 
 answers = {
   "for-kids": {"false": 0, "true": 0},
@@ -12,6 +13,12 @@ answers = {
   "music": {"false": 0, "true": 0},
   "sports": {"false": 0, "true": 0},
 }
+
+
+#get most common item, in case of tie the first
+def majority(lst):
+  data = Counter(lst)
+  return max(lst, key=data.get)
 
 
 def main():

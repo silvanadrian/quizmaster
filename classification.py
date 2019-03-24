@@ -9,6 +9,7 @@ from keras.preprocessing import text
 from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
+from collections import Counter
 
 labels = sorted(
     ['science-technology', 'for-kids', 'video-games', 'sports', 'music'])
@@ -102,8 +103,6 @@ def classify_questions():
                               "topic": predicted_labels})
   output.to_csv('data/classified.csv', encoding='utf-8', index=False)
 
-
-from collections import Counter
 
 #get most common item, in case of tie the first
 def majority(lst):

@@ -50,7 +50,6 @@ def main():
 
   else:
     print("Feature based recommendation")
-    print("Topic based recommendation:")
     user_id = input("Please input your user id:")
     cutoff_k = input("Cutoff k:")
 
