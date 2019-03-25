@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 from scipy.stats import pearsonr
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
@@ -70,7 +72,7 @@ def get_recommendations_topic(cutoff_k, questions, user_id):
   for n, g in questions:
     if n == int(user_id):
       continue
-    # when classification not works properly then some users have only 4 topics
+    # when classification not working properly then some users have only 4 topics
     if len(g.groupby(['topic'])['opinion'].mean()) < 5:
       continue
     corr, p_value = pearsonr(user_features,

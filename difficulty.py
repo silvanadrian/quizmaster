@@ -20,7 +20,7 @@ def main():
 
   for i in range(100):
 
-
+    print(answered)
     questions_to_answer = get_questions_to_answer(answered, grouped_questions)
 
     random_topic_question = sample_question(questions_to_answer)
