@@ -26,57 +26,59 @@ def euclidean_distance(x, y):
 
 def main():
 
-  questions = pd.read_csv("data/classified.csv",
-                          encoding="utf-8", sep=",")
+  questions = get_friends_questions()
 
   type = input("Which friend recommending method? topic? features?")
+  user_id = input("Please input your user id:")
+  cutoff_k = input("Cutoff k:")
   if type == "topic":
-    friends = []
-    print("Topic based recommendation:")
-    user_id = input("Please input your user id:")
-    cutoff_k = input("Cutoff k:")
-
-    user_features = questions[questions['id'] == int(user_id)].groupby(['topic'])['opinion'].mean()
-    questions = questions.groupby(['id'])
-
-    for n, g in questions:
-      if n == int(user_id):
-        continue
-      # when classification not works properly then some users have only 4 topics
-      if len(g.groupby(['topic'])['opinion'].mean()) < 5:
-        continue
-      corr, p_value = pearsonr(user_features, g.groupby(['topic'])['opinion'].mean())
-      friends.append((n, corr))
-
-    friends.sort(key=takeCorrelation,reverse=True)
-    for friend in friends[:int(cutoff_k)]:
-      print(friend)
+    get_recommendations_topic(cutoff_k, questions, user_id)
 
   else:
-    print("Feature based recommendation")
-    user_id = input("Please input your user id:")
-    cutoff_k = input("Cutoff k:")
+    get_recommendations_feature(cutoff_k, questions, user_id)
 
-    tfidf = TfidfVectorizer(tokenizer=tokenizer, stop_words='english')
 
-    tfs = tfidf.fit_transform(questions['question'])
-    # add column for vector
-    questions['tfsvector'] = list(tfs.toarray())
+def get_recommendations_feature(cutoff_k, questions, user_id):
+  print("Feature based recommendation")
+  tfidf = TfidfVectorizer(tokenizer=tokenizer, stop_words='english')
+  tfs = tfidf.fit_transform(questions['question'])
+  # add column for vector
+  questions['tfsvector'] = list(tfs.toarray())
+  user_features = questions[questions['id'] == int(user_id)]['tfsvector'].mean()
+  # the questions which a user likes
+  questions = questions.groupby(['id'])
+  friends_questions = []
+  for n, g in questions:
+    g = g[g['opinion'] > 1]['tfsvector'].mean()
+    friends_questions.append((n, euclidean_distance(user_features, g)))
+  friends_questions.sort(key=takeCorrelation, reverse=True)
+  for friend in friends_questions[:int(cutoff_k)]:
+    print(friend)
 
-    user_features = questions[questions['id'] == int(user_id)]['tfsvector'].mean()
 
-    # the questions which a user likes
-    questions = questions.groupby(['id'])
+def get_friends_questions():
+  return pd.read_csv("data/classified.csv",
+                     encoding="utf-8", sep=",")
 
-    friends_questions = []
 
-    for n, g in questions:
-      g = g[g['opinion'] > 1]['tfsvector'].mean()
-      friends_questions.append((n,euclidean_distance(user_features, g)))
-
-    friends_questions.sort(key=takeCorrelation,reverse=True)
-    for friend in friends_questions[:int(cutoff_k)]:
-      print(friend)
+def get_recommendations_topic(cutoff_k, questions, user_id):
+  friends = []
+  print("Topic based recommendation:")
+  user_features = questions[questions['id'] == int(user_id)].groupby(['topic'])[
+    'opinion'].mean()
+  questions = questions.groupby(['id'])
+  for n, g in questions:
+    if n == int(user_id):
+      continue
+    # when classification not works properly then some users have only 4 topics
+    if len(g.groupby(['topic'])['opinion'].mean()) < 5:
+      continue
+    corr, p_value = pearsonr(user_features,
+                             g.groupby(['topic'])['opinion'].mean())
+    friends.append((n, corr))
+  friends.sort(key=takeCorrelation, reverse=True)
+  for friend in friends[:int(cutoff_k)]:
+    print(friend)
 
 
 if __name__ == "__main__": main()

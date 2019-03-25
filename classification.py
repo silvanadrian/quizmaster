@@ -11,31 +11,30 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from collections import Counter
 
-labels = sorted(
-    ['science-technology', 'for-kids', 'video-games', 'sports', 'music'])
-
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', -1)
 
 
 def classify_questions():
-  global REPLACE_BY_SPACE_RE, BAD_SYMBOLS_RE, STOPWORDS
+  labels = sorted(
+      ['science-technology', 'for-kids', 'video-games', 'sports', 'music'])
+
   questions = pd.read_csv("data/train_dataset.csv", header=None,
-                          encoding="iso-8859-1", sep=";")
-  questions.columns = ['id', 'question', 'answer', 'topic']
-  REPLACE_BY_SPACE_RE = re.compile('[/(){}\[\]|@,;]')
-  BAD_SYMBOLS_RE = re.compile('[^0-9a-z #+_]')
+                          encoding="iso-8859-1", sep=";",names= ['id', 'question', 'answer', 'topic'])
+
+  REPLACE_BY_SPACE = re.compile('[/(){}\[\]|@,;]')
+  BAD_SYMBOLS = re.compile('[^0-9a-z #+_]')
   STOPWORDS = set(stopwords.words('english'))
 
+
   def clean_text(text):
-    text = text.lower()  # lowercase text
-    text = REPLACE_BY_SPACE_RE.sub(' ',
-                                   text)  # replace REPLACE_BY_SPACE_RE symbols by space in text
-    text = BAD_SYMBOLS_RE.sub('', text)
+    text = text.lower()
+    text = REPLACE_BY_SPACE.sub(' ', text)
+    text = BAD_SYMBOLS.sub(' ', text)
     text = re.sub(r"\'s", " ", text)
     text = ' '.join(word for word in text.split() if
-                    word not in STOPWORDS)  # delete stopwors from text
+                    word not in STOPWORDS)
     return text
 
   questions['question'] = questions['question'].apply(clean_text)
@@ -43,24 +42,28 @@ def classify_questions():
   y = questions.topic
   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,
                                                       random_state=42)
-  train_posts = X_train
-  train_tags = y_train
-  test_posts = X_test
-  test_tags = y_test
-  max_words = 1000
+
+  # tokenizer
+  max_words = 2000
   tokenize = text.Tokenizer(num_words=max_words, char_level=False)
-  tokenize.fit_on_texts(train_posts)  # only fit on train
-  x_train = tokenize.texts_to_matrix(train_posts)
-  x_test = tokenize.texts_to_matrix(test_posts)
+  tokenize.fit_on_texts(X_train)
+  x_train = tokenize.texts_to_matrix(X_train)
+  x_test = tokenize.texts_to_matrix(X_test)
+
+  # Encoder
   encoder = LabelEncoder()
-  encoder.fit(train_tags)
-  y_train = encoder.transform(train_tags)
-  y_test = encoder.transform(test_tags)
+  encoder.fit(y_train)
+  y_train = encoder.transform(y_train)
+  y_test = encoder.transform(y_test)
+
   num_classes = np.max(y_train) + 1
   y_train = utils.to_categorical(y_train, num_classes)
   y_test = utils.to_categorical(y_test, num_classes)
-  batch_size = 32
+
+
+  batch_size = 64
   epochs = 4
+
   # Build the model
   model = Sequential()
   model.add(Dense(512, input_shape=(max_words,)))
@@ -70,7 +73,7 @@ def classify_questions():
   model.add(Activation('softmax'))
   model.compile(loss='categorical_crossentropy',
                 optimizer='adam',
-                metrics=['categorical_accuracy'])
+                metrics=['accuracy'])
 
   model.fit(x_train, y_train,
             batch_size=batch_size,
@@ -84,14 +87,17 @@ def classify_questions():
                          batch_size=batch_size, verbose=1)
   print('Train acc:', val_score[1])
   print('Test accuracy:', score[1])
+
+  # Classify topics
   generated_questions = pd.read_csv("data/crowdanswers.tsv",
                                     encoding="utf-8", delimiter="\t",
                                     na_filter=False)
   generated_questions.columns = ['id', 'question', 'answer', 'difficulty',
                                  'opinion', 'factuality']
 
-  generated_questions['question'].apply(clean_text)
-  x_predict = tokenize.texts_to_matrix(generated_questions['question'])
+  tokens = generated_questions['question'].apply(clean_text)
+
+  x_predict = tokenize.texts_to_matrix(tokens)
   result = model.predict_classes(x_predict, batch_size=1)
   predicted_labels = [labels[i] for i in result]
   output = pd.DataFrame(data={"id": generated_questions["id"],
@@ -115,21 +121,32 @@ import os
 def main():
   exists = os.path.isfile('data/classified.csv')
   if exists:
-    questions = pd.read_csv("data/classified.csv",
-                            encoding="utf-8", sep=",", error_bad_lines=False)
-    questions.groupby('question').filter(
-      lambda x: x['factuality'].sum() < 1)
-    questions = questions.groupby(['question', 'topic'], as_index=False)['difficulty'].agg(majority)
+    questions = get_class_questions()
 
     print("Classification Module:")
     topic = input("Please enter topic: ")
     difficulty = input("Please enter difficulty: ")
-    result = questions[
-      (questions.topic == topic) & (questions.difficulty == difficulty)]
+    result = get_class_question(difficulty, questions, topic)
     print("Questions:")
-    print(result.question.head(10).to_string())
+    for index, row in result.iterrows():
+      print(row['question'])
   else:
     classify_questions()
+
+
+def get_class_questions():
+  questions = pd.read_csv("data/classified.csv",
+                          encoding="utf-8", sep=",", error_bad_lines=False)
+  questions.groupby('question').filter(
+      lambda x: x['factuality'].sum() < 1)
+  questions = questions.groupby(['question', 'topic'], as_index=False)[
+    'difficulty'].agg(majority)
+  return questions
+
+
+def get_class_question(difficulty, questions, topic):
+  return questions[
+    (questions.topic == topic) & (questions.difficulty == difficulty)]
 
 
 if __name__ == "__main__": main()

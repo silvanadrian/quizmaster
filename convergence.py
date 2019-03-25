@@ -43,7 +43,7 @@ def give_answer(answer,generated_answer,user_answer,n):
   else:
     answers[n]["true"] = answers[n].get("true") + 1
 
-def get_questions():
+def get_conv_questions():
   questions = pd.read_csv("data/classified.csv",
                           encoding="utf-8", sep=",")
   questions = questions.groupby('question').filter(
@@ -61,7 +61,7 @@ def get_answers_to_questions():
 def main():
     answers_to_questions = get_answers_to_questions()
 
-    questions = get_questions()
+    questions = get_conv_questions()
 
     # Threshold for skipping a topic when too many questions have been answered wrongly
 
@@ -83,7 +83,7 @@ def main():
 
 def get_question_answer(answers_to_questions, question):
   return answers_to_questions[
-    answers_to_questions["question"].str.contains(question)][
+    answers_to_questions["question"] == question][
     "answer"].to_string(index=False)
 
 
