@@ -23,37 +23,35 @@ def main():
 
   questions = questions.groupby('question').filter(
       lambda x: x['factuality'].sum() < 1)
-  questions = questions.groupby(['question', 'topic'], as_index=False)[
+  grouped_questions = questions.groupby(['question', 'topic'], as_index=False)[
     'difficulty'].agg(majority)
+  questions = questions.drop_duplicates(subset='question', keep="last")
 
-  answered = {"Easy": False, "Medium": False, "Hard": False}
+  answered = get_answered_diff()
 
   for i in range(100):
 
-    questions_to_answer = questions[questions['difficulty'] == "Easy"]
-    if answered["Easy"] == True:
-      questions_to_answer = questions[questions['difficulty'] == "Medium"]
-    if answered["Medium"] == True:
-      questions_to_answer = questions[questions['difficulty'] == "Hard"]
 
+    questions_to_answer = get_questions_to_answer(answered, grouped_questions)
 
     random_topic_question = questions_to_answer.sample(n=1, replace=True,
                                              random_state=randint(0, 10000))
 
-    print(random_topic_question["difficulty"])
+    print("Difficulty:", random_topic_question["difficulty"].to_string(index=False))
     question = random_topic_question["question"].to_string(index=False)
 
-    answer = answers_to_questions[
-      answers_to_questions["question"].str.contains(question)][
-      "answer"].to_string(index=False)
+
+    generated_answer = questions[questions['question'] == question]['answer'].to_string(index=False)
+
+    answer = get_answers_to_questions_diff(answers_to_questions, question)
 
     print(question)
-    print("Answer", answer)
+    print("Answer", answer, "/", generated_answer)
     user_answer = input("Please give an answer:")
 
-
+    true_answer2 = generated_answer.strip().lower() == user_answer.strip().lower()
     true_answer = answer.strip().lower() == user_answer.strip().lower()
-    if true_answer:
+    if (true_answer) or (true_answer2):
       if answered["Medium"] == True:
         answered["Hard"] = True
       if answered["Easy"] == True:
@@ -61,6 +59,25 @@ def main():
       if answered["Easy"] == False:
         answered["Easy"] = True
 
+
+def get_answers_to_questions_diff(answers_to_questions, question):
+  return answers_to_questions[
+    answers_to_questions["question"] == question][
+    "answer"].to_string(index=False)
+
+
+def get_answered_diff():
+  answered = {"Easy": False, "Medium": False, "Hard": False}
+  return answered
+
+
+def get_questions_to_answer(answered, questions):
+  questions_to_answer = questions[questions['difficulty'] == "Easy"]
+  if answered["Easy"] == True:
+    questions_to_answer = questions[questions['difficulty'] == "Medium"]
+  if answered["Medium"] == True:
+    questions_to_answer = questions[questions['difficulty'] == "Hard"]
+  return questions_to_answer
 
 
 if __name__ == "__main__": main()

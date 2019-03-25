@@ -76,7 +76,7 @@ def main():
         answer = get_question_answer(answers_to_questions, question)
         print(question)
         print("Topic:", n)
-        print("Secret:", answer, generated_answer)
+        print("Secret:", answer, '/', generated_answer)
         user_answer = input("Please give an answer:")
         give_answer(answer, generated_answer, user_answer, n)
 
