@@ -31,7 +31,7 @@ def get_users_questions():
 
 
 def get_prefereance_filtered_qustions(questions, user_preferance):
-  questions = questions[questions['topic'] == user_preferance]
+  questions = questions[questions['topic'] == user_preferance].head(10)
   return questions
 
 

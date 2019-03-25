@@ -138,13 +138,13 @@ def diffuculty_user(probability):
 
 def main():
   # Classification
-  #classification()
+  classification()
   print("\n\n")
   # Convergence
-  #polymath_user(0.5)
-  #topic_expert_user(0.5, "music")
+  polymath_user(0.5)
+  topic_expert_user(0.8, "music")
   print("\n\n")
   # Difficulty
-  diffuculty_user(0.3)
+  diffuculty_user(0.5)
 
 if __name__ == "__main__": main()
