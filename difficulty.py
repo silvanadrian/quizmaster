@@ -7,6 +7,8 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', -1)
 
 
+answered = {"Easy": False, "Medium": False, "Hard": False}
+
 # get most common item, in case of tie the first
 def majority(lst):
   data = Counter(lst)
@@ -14,28 +16,14 @@ def majority(lst):
 
 
 def main():
-  questions = pd.read_csv("data/classified.csv",
-                          encoding="utf-8", sep=",")
-
-  answers_to_questions = pd.read_csv("data/question_answer.csv",
-                                     encoding="utf-8", sep=";")
-  answers_to_questions.columns = ['question', 'answer']
-
-  questions = questions.groupby('question').filter(
-      lambda x: x['factuality'].sum() < 1)
-  grouped_questions = questions.groupby(['question', 'topic'], as_index=False)[
-    'difficulty'].agg(majority)
-  questions = questions.drop_duplicates(subset='question', keep="last")
-
-  answered = get_answered_diff()
+  answers_to_questions, grouped_questions, questions = prepare_diff()
 
   for i in range(100):
 
 
     questions_to_answer = get_questions_to_answer(answered, grouped_questions)
 
-    random_topic_question = questions_to_answer.sample(n=1, replace=True,
-                                             random_state=randint(0, 10000))
+    random_topic_question = sample_question(questions_to_answer)
 
     print("Difficulty:", random_topic_question["difficulty"].to_string(index=False))
     question = random_topic_question["question"].to_string(index=False)
@@ -49,15 +37,38 @@ def main():
     print("Answer", answer, "/", generated_answer)
     user_answer = input("Please give an answer:")
 
-    true_answer2 = generated_answer.strip().lower() == user_answer.strip().lower()
-    true_answer = answer.strip().lower() == user_answer.strip().lower()
-    if (true_answer) or (true_answer2):
-      if answered["Medium"] == True:
-        answered["Hard"] = True
-      if answered["Easy"] == True:
-        answered["Medium"] = True
-      if answered["Easy"] == False:
-        answered["Easy"] = True
+    check_answer(answer, answered, generated_answer, user_answer)
+
+
+def prepare_diff():
+  questions = pd.read_csv("data/classified.csv",
+                          encoding="utf-8", sep=",")
+  answers_to_questions = pd.read_csv("data/question_answer.csv",
+                                     encoding="utf-8", sep=";")
+  answers_to_questions.columns = ['question', 'answer']
+  questions = questions.groupby('question').filter(
+      lambda x: x['factuality'].sum() < 1)
+  grouped_questions = questions.groupby(['question', 'topic'], as_index=False)[
+    'difficulty'].agg(majority)
+  questions = questions.drop_duplicates(subset='question', keep="last")
+  return answers_to_questions, grouped_questions, questions
+
+
+def sample_question(questions_to_answer):
+  return questions_to_answer.sample(n=1, replace=True,
+                                    random_state=randint(0, 10000))
+
+
+def check_answer(answer, answered, generated_answer, user_answer):
+  true_answer2 = generated_answer.strip().lower() == user_answer.strip().lower()
+  true_answer = answer.strip().lower() == user_answer.strip().lower()
+  if (true_answer) or (true_answer2):
+    if answered["Medium"] == True:
+      answered["Hard"] = True
+    if answered["Easy"] == True:
+      answered["Medium"] = True
+    if answered["Easy"] == False:
+      answered["Easy"] = True
 
 
 def get_answers_to_questions_diff(answers_to_questions, question):
@@ -67,7 +78,6 @@ def get_answers_to_questions_diff(answers_to_questions, question):
 
 
 def get_answered_diff():
-  answered = {"Easy": False, "Medium": False, "Hard": False}
   return answered
 
 

@@ -8,6 +8,8 @@ from convergence import give_answer
 from convergence import get_question_answer
 from classification import get_class_questions
 from classification import get_class_question
+from difficulty import prepare_diff, get_answered_diff, get_questions_to_answer, \
+  sample_question, get_answers_to_questions_diff, check_answer
 
 
 def decision(probability=0.9):
@@ -95,13 +97,54 @@ def classification():
   for index, row in filtered_questions.iterrows():
     print(row['question'])
 
+
+def diffuculty_user(probability):
+  answers_to_questions, grouped_questions, questions = prepare_diff()
+
+  answered = get_answered_diff()
+
+  not_finished = True
+
+  while not_finished:
+    questions_to_answer = get_questions_to_answer(answered, grouped_questions)
+
+    random_topic_question = sample_question(questions_to_answer)
+
+    print("Difficulty:", random_topic_question["difficulty"].to_string(index=False))
+    question = random_topic_question["question"].to_string(index=False)
+
+
+    generated_answer = questions[questions['question'] == question]['answer'].to_string(index=False)
+
+    answer = get_answers_to_questions_diff(answers_to_questions, question)
+
+    print(question)
+    if decision(probability):
+      if not generated_answer:
+        user_answer = answer
+        check_answer(answer, answered, generated_answer, user_answer)
+      else:
+        user_answer = generated_answer
+        check_answer(answer, answered, generated_answer, user_answer)
+    else:
+      check_answer(answer, answered, generated_answer, "Wrong!!!")
+    answered = get_answered_diff()
+    if answered["Hard"] == True:
+      print("Finished arrived at hard questions")
+      not_finished = False
+
+
+
+
 def main():
   # Classification
-  classification()
+  #classification()
   print("\n\n")
   # Convergence
-  polymath_user(0.5)
-  topic_expert_user(0.5, "music")
+  #polymath_user(0.5)
+  #topic_expert_user(0.5, "music")
   print("\n\n")
+  # Difficulty
+  diffuculty_user(0.3)
 
 if __name__ == "__main__": main()
