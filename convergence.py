@@ -51,10 +51,15 @@ def get_questions():
   questions = questions.drop_duplicates(subset='question', keep="last")
   return questions.groupby(['topic'])
 
+
+def get_answers_to_questions():
+  answers_to_questions = pd.read_csv("data/question_answer.csv",
+                                     encoding="utf-8", sep=";")
+  answers_to_questions.columns = ['question', 'answer']
+  return answers_to_questions
+
 def main():
-    answers_to_questions = pd.read_csv("data/question_answer.csv",
-                                       encoding="utf-8", sep=";")
-    answers_to_questions.columns = ['question', 'answer']
+    answers_to_questions = get_answers_to_questions()
 
     questions = get_questions()
 
@@ -68,14 +73,18 @@ def main():
         random_topic_question = get_next_question(g)
         generated_answer = random_topic_question["answer"].to_string(index=False)
         question = random_topic_question['question'].to_string(index=False)
-        answer = answers_to_questions[
-          answers_to_questions["question"].str.contains(question)][
-          "answer"].to_string(index=False)
+        answer = get_question_answer(answers_to_questions, question)
         print(question)
         print("Topic:", n)
         print("Secret:", answer, generated_answer)
         user_answer = input("Please give an answer:")
         give_answer(answer, generated_answer, user_answer, n)
+
+
+def get_question_answer(answers_to_questions, question):
+  return answers_to_questions[
+    answers_to_questions["question"].str.contains(question)][
+    "answer"].to_string(index=False)
 
 
 if __name__ == "__main__": main()

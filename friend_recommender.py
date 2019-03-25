@@ -4,6 +4,10 @@ import numpy as np
 from scipy.stats import pearsonr
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', -1)
+
 def takeCorrelation(elem):
   return elem[1]
 

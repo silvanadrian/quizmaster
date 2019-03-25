@@ -2,6 +2,10 @@ import pandas as pd
 from collections import Counter
 from random import randint
 
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', -1)
+
 
 # get most common item, in case of tie the first
 def majority(lst):

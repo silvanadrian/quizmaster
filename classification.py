@@ -14,8 +14,8 @@ from collections import Counter
 labels = sorted(
     ['science-technology', 'for-kids', 'video-games', 'sports', 'music'])
 
-pd.set_option('display.max_columns', None)  # or 1000
-pd.set_option('display.max_rows', None)  # or 1000
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', -1)
 
 
