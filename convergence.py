@@ -68,7 +68,7 @@ def main():
     print("Convergence Module:")
     for i in range(100):
       for n, g in questions:
-        if calc_threshold(-1, n):
+        if calc_threshold(-0.5, n):
           continue
         print(get_answers())
         random_topic_question = get_next_question(g)

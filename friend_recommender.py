@@ -49,9 +49,11 @@ def get_recommendations_feature(cutoff_k, questions, user_id):
   questions = questions.groupby(['id'])
   friends_questions = []
   for n, g in questions:
+    if n == int(user_id):
+      continue
     g = g[g['opinion'] > 1]['tfsvector'].mean()
     friends_questions.append((n, euclidean_distance(user_features, g)))
-  friends_questions.sort(key=takeCorrelation, reverse=True)
+  friends_questions.sort(key=takeCorrelation, reverse=False)
   for friend in friends_questions[:int(cutoff_k)]:
     print(friend)
 
