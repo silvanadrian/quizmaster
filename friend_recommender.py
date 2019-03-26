@@ -1,10 +1,8 @@
 import nltk
-import pandas as pd
 import numpy as np
+import pandas as pd
 from scipy.stats import pearsonr
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
