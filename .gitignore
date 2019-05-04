@@ -43,3 +43,5 @@ config.rst
 
 package-lock.json
 geckodriver.log
+
+word2vec/GoogleNews-vectors-negative300.bin.gz
